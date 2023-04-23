@@ -2,5 +2,9 @@ version="0"
 tags={
 	"Map"
 }
-name="Custom Map"
-supported_version="1.32.2"
+
+replace_path="map"
+
+name="NexoriaMod"
+supported_version="1.35.*"
+path="C:/Users/vbjr9/Documents/Paradox Interactive/Europa Universalis IV/mod/NexoriaMod"
