@@ -1,0 +1,4945 @@
+GIMP Palette
+Name: EU4 Provinces
+Columns: 0
+#
+128  34  64	Stockholm
+  0  36 128	Östergötland
+128  38 192	Småland
+  0  40 255	Bergslagen
+128  42   0	Värmland
+  0  44  64	Skåne
+129  46 128	Västergötland
+  1  48 192	Dalaskogen
+129  50 255	Hälsingland
+  1  52   0	Jämtland
+129  54  64	Västerbotten
+  1  56 128	Sjælland
+129  58 192	Slesvig
+  2  60 255	Fyn
+130  62   0	Midtjylland
+  2  64  64	Bohuslän
+130  66 128	Akershus
+  2  68 192	Umeå
+130  70 255	Österbotten
+  2  72   0	Trøndelag
+131  74  64	Hålogaland
+  3  76 128	Oplandene
+131  78 192	Bergenshus
+  3  80 255	Stavanger
+131  82   0	Gotland
+  3  84  64	Halland
+131  86 128	Finland
+  4  88 192	Nyland
+132  90 255	Tavastland
+  4  92   0	Viborg
+132  94  64	Savolax
+  4  96 128	Kexholm
+132  98 192	Neva
+  4 100 255	Ingermanland
+133 102   0	Ösel
+  5 104  64	Estland
+133 106 128	Livland
+  5 108 192	Riga
+133 110 255	Kurland
+  5 112   0	Memel
+133 114  64	Ostpreussen
+  6 116 128	Warmia
+134 118 192	Danzig
+  6 120 255	Hamburg
+134 122   0	Lübeck
+  6 124  64	Mecklenburg
+134 126 128	Stralsund
+  6 128 192	Kolberg
+135 130 255	Neumark
+  7 132   0	Berlin
+135 134  64	Ruppin
+  7 136 128	Magdeburg
+135 138 192	Lüneburg
+  7 140 255	Bremen
+135 142   0	Oldenburg
+  8 144  64	Osnabrück
+136 146 128	Hannover
+  8 148 192	Anhalt
+136 150 255	Meissen
+  8 152   0	Lausitz
+136 154  64	Dresden
+  8 156 128	Leipzig
+137 158 192	Erfurt
+  9  32 255	Niederbayern
+137  34   0	München
+  9  36  64	Bamberg
+137  38 128	Franken
+  9  40 192	Memmingen
+137  42 255	Konstanz
+ 10  44   0	Württemberg
+138  46  64	Leiningen
+ 10  48 128	Breisgau
+138  50 192	Tirol
+ 10  52 255	Baden
+138  54   0	Elsass
+ 10  56  64	Salzburg
+139  58 128	Worms
+ 11  60 192	Pfalz
+139  62 255	Würzburg
+ 11  64   0	Trier
+139  66  64	Hessen
+ 11  68 128	Lippe
+139  70 192	Nassau
+ 12  72 255	Berg
+140  74   0	Köln
+ 12  76  64	Münster
+140  78 128	Calais
+ 12  80 192	Artois
+140  82 255	Picardie
+ 12  84   0	Vlaanderen
+141  86  64	Hainault
+ 13  88 128	Brabant
+141  90 192	Liège
+ 13  92 255	Luxemburg
+141  94   0	Noord
+ 13  96  64	Zeeland
+141  98 128	Holland
+ 14 100 192	Utrecht
+142 102 255	Gelre
+ 14 104   0	Friesland
+142 106  64	Liguria
+ 14 108 128	Nice
+ 85  80  32	Niklas
+ 14 112 255	Lombardia
+143 114   0	Parma
+ 15 116  64	Modena
+143 118 128	Brescia
+ 15 120 192	Verona
+143 122 255	Mantua
+ 15 124   0	Trent
+143 126  64	Friuli
+ 16 128 128	Venezia
+144 130 192	Ferrara
+ 16 132 255	Romagna
+144 134   0	Pisa
+ 16 136  64	Firenze
+144 138 128	Siena
+ 16 140 192	Roma
+145 142 255	Ancona
+ 17 144   0	Abbruzzi
+145 146  64	Napoli
+ 17 148 128	Apulia
+145 150 192	Calabria
+ 17 152 255	Messina
+145 154   0	Palermo
+ 18 156  64	Malta
+146 158 128	Sardinia
+ 18  32 192	Kärnten
+146  34 255	Krain
+ 18  36   0	Istria
+146  38  64	Croatia
+ 18  40 128	Steiermark
+147  42 192	Linz
+ 19  44 255	Wien
+147  46   0	Sopron
+ 19  48  64	Dalmatia
+147  50 128	Ragusa
+ 19  52 192	Zeta
+147  54 255	Hum
+ 20  56   0	Bosnia
+148  58  64	Serbia
+ 20  60 128	Corfu
+148  62 192	Albania
+ 20  64 255	Janina
+148  66   0	Morea
+ 20  68  64	Athens
+149  70 128	Salonica
+ 21  72 192	Macedonia
+149  74 255	Edirne
+ 21  76   0	Bulgaria
+149  78  64	Thrace
+ 21  80 128	Slavonia
+149  82 192	Pecs
+ 22  84 255	Ersekujvar
+150  86   0	Szolnok
+ 22  88  64	Banat
+150  90 128	Partium
+ 22  92 192	Transylvania
+150  94 255	Silistria
+ 22  96   0	Oltenia
+151  98  64	Wallachia
+ 23 100 128	Carpathia
+151 102 192	Crete
+ 23 104 255	Naxos
+151 106   0	Bern
+ 23 108  64	Schwyz
+151 110 128	Caux
+ 24 112 192	Normandie
+152 114 255	Armor
+ 24 116   0	Finistère
+152 118  64	Morbihan
+ 24 120 128	Vendée
+152 122 192	Labourd
+ 24 124 255	Gascogne
+153 126   0	Armagnac
+ 25 128  64	Béarn
+153 130 128	Maine
+ 25 132 192	Anjou
+153 134 255	Berry
+ 25 136   0	Poitou
+153 138  64	Valenciennes
+ 26 140 128	Vermandois
+154 142 192	Île-de-France
+ 26 144 255	Orléannais
+147 222 218	Nemours
+ 26 148  64	Champagne
+154 150 128	Barrois
+ 26 152 192	Metz
+155 154 255	Lothringen
+ 27 156   0	Bourbon
+155 158  64	Nevers
+ 27  32 128	Bourgogne
+155  34 192	Franche-Comté
+ 27  36 255	Périgord
+155  38   0	Limousin
+ 28  40  64	Toulouse
+156  42 128	Roussillon
+ 28  44 192	Rouergue
+156  46 255	Auvergne
+ 28 248   0	Languedoc
+156  50  64	Toulon
+ 28  52 128	Avignon
+157  54 192	Lyonnais
+ 29  56 255	Dauphiné
+157  58   0	Savoie
+ 29  60  64	Galicia
+157  62 128	Asturias
+ 29  64 192	León
+157  66 255	Vizcaya
+ 30  68   0	Navarra
+158  70  64	Pirineo
+ 30  72 128	Girona
+158  74 192	Barcelona
+ 30  76 255	Zaragoza
+158  78   0	Castilla La Vieja
+ 30  80  64	Salamanca
+159  82 128	Madrid
+ 31  84 192	Badajoz
+159  86 255	Toledo
+ 31  88   0	València
+159  90  64	Murcia
+ 31  92 128	Almería
+159  94 192	Granada
+ 32  96 255	Andalucía
+160  98   0	Córdoba
+ 32 100  64	Gibraltar
+160 102 128	Lisboa
+ 32 104 192	Beira
+160 106 255	Beja
+ 32 108   0	Algarve
+161 110  64	Porto
+ 33 112 128	Bragança
+166 203  93	Cornwall
+ 33 116 255	Wessex
+161 118   0	Kent
+ 33 120  64	London
+161 122 128	Oxfordshire
+ 34 124 192	Essex
+162 126 255	Gloucestershire
+ 34 128   0	Shrewsbury
+162 130  64	Glamorgan
+ 34 132 128	Gwynedd
+162 134 192	Lincoln
+ 34 136 255	Lancashire
+163 138   0	Yorkshire
+ 35 140  64	Northumberland
+163 142 128	Cumbria
+ 35 144 192	Lothian
+163 146 255	Ayrshire
+ 35 148   0	Perth
+163 150  64	Aberdeen
+ 36 152 128	Inverness
+164 154 192	Outer Hebrides
+ 36 156 255	Poznan
+164 158   0	Kalisz
+ 36  32  64	Plock
+164  34 128	Mazovia
+ 36  36 192	Lodz
+165  38 255	Sandomir
+ 37  40   0	Galicien
+165  42  64	Halicz
+ 37  44 128	Krakow
+165  46 192	Ratibor
+ 37  48 255	Breslau
+165  50   0	Moravia
+ 38  52  64	Bohemia
+166  54 128	Plsen
+ 38  56 192	Bessarabia
+166  58 255	Podlasia
+ 38  60   0	Troki
+166  62  64	Samogitia
+ 38  64 128	Lithuania
+167  66 192	Letgallen
+ 39  68 255	Pskov
+167  70   0	Polotsk
+ 39  72  64	Minsk
+167  74 128	Grodno
+ 39  76 192	Polesia
+167  78 255	Volhynia
+ 40  80   0	Kiev
+168  82  64	Podolia
+ 40  84 128	Yedisan
+168  86 192	Zaporozhia
+ 40  88 255	Crimea
+168  90   0	Kaffa
+ 40  92  64	Azow
+169  94 128	Kouban
+ 41  96 192	Cherkassk
+169  98 255	Chernigov
+ 41 100   0	Poltava
+169 102  64	Kharkov
+ 41 104 128	Mogilyov
+169 106 192	Smolensk
+ 42 108 255	Tver
+170 110   0	Moskva
+ 42 112  64	Kaluga
+ 74 227  77	Bryansk
+ 42 116 192	Kursk
+170 118 255	Voronezh
+ 42 120   0	Tula
+171 122  64	Ryazan
+ 43 124 128	Tambow
+171 126 192	Saratow
+ 43 128 255	Pensa
+171 130   0	Perm
+ 43 132  64	Nijni-Novgorod
+171 134 128	Vladimir
+ 44 136 192	Yaroslavl
+172 138 255	Olonets
+ 44 140   0	Novgorod
+172 142  64	Kholm
+ 44 144 128	Vologda
+ 72   0 240	Archangelsk
+ 44 148 255	Ustyug
+173 150   0	Finnmark
+ 45 152  64	Kocaeli
+173 154 128	Hüdavendigar
+ 45 156 192	Sugla
+173 158 255	Mentese
+ 45  32   0	Rhodes
+173  34  64	Cyprus
+ 46  36 128	Kütahya
+174  38 192	Konya
+ 46  40 255	Karaman
+174  42   0	Kastamonu
+ 46  44  64	Ankara
+174  46 128	Adana
+ 46  48 192	Sinop
+175  50 255	Sivas
+ 47  52   0	Trebizond
+175  54  64	Erzurum
+ 47  56 128	Marash
+175  58 192	The Baleares
+ 47  60 255	Tangiers
+175  62   0	Mellila
+ 48 244  64	Tlemcen
+176  66 128	Oran
+ 48  68 192	Al-Djazair
+176  70 255	Kabylia
+ 48  72   0	Constantine
+176  74  64	Tunis
+ 48  76 128	Toubkhal
+177  78 192	Fez
+ 49  80 255	Marrakech
+177  82   0	Safi
+ 49  84  64	Figuig
+177  86 128	Ifni
+ 49  88 192	Sus
+177  90 255	Atlas
+ 50  92   0	Aures
+178  94  64	Biskra
+ 50  96 128	Gafsa
+178  98 192	Tataouine
+ 50 100 255	Tripolitania
+178 102   0	Sirt
+ 50 104  64	Cyrenaica
+179 106 128	Darnah
+ 51 108 192	Alexandria
+179 110 255	Fayyum
+ 51 112   0	Qus
+179 114  64	Cairo
+ 51 116 128	Rosetta
+179 118 192	Damietta
+ 52 120 255	Gaza
+180 122   0	Sinai
+ 52 124  64	The Canarias
+180 126 128	The Azores
+ 52 128 192	Madeira
+180 130 255	Orkney
+ 52 132   0	Reykjavik
+181 134  64	Akureyri
+ 53 136 128	Tyrone
+181 138 192	Meath
+ 53 140 255	Leinster
+181 142   0	Munster
+ 53 144  64	Connaught
+181 146 128	Aleppo
+ 54 148 192	Tripoli
+182 150 255	Jerusalem
+ 54 152   0	Al Karak
+182 154  64	Ajlun
+ 54 156 128	Damascus
+182 158 192	Tabuk
+ 54  32 255	Medina
+183  34   0	Mecca
+ 55  36  64	Bishah
+183  38 128	Mokha
+ 55  40 192	Aden
+183  42 255	Mukalla
+ 55  44   0	Sana'a
+183  46  64	Najran
+ 56  48 128	Al-Arid
+184  50 192	Jabal Shammar
+ 56  52 255	El Catif
+184  54   0	Qatar
+ 56  56  64	Bahrain
+184  58 128	Bani Yas
+ 56  60 192	Qawasim
+185  62 255	Suhar
+ 57  64   0	Muscat
+185  66  64	Dhofar
+ 57  68 128	Mahra
+185  70 192	Nizwa
+ 57  72 255	Liwa
+185  74   0	Tadmor
+ 58  76  64	Haditha
+186  78 128	Ar Raqqa
+ 58  80 192	Basra
+186  82 255	Karballa
+ 58  84   0	Baghdad
+186  86  64	Mosul
+ 58  88 128	Ahvaz
+187  90 192	Lorestan
+ 59  92 255	Hamadan
+187  94   0	Kirkuk
+ 59  96  64	Azerbaijan
+187  98 128	Gilan
+ 59 100 192	Diyarbakir
+187 102 255	Yerevan
+ 60 140   0	Ganja
+188 106  64	Shirvan
+ 60 108 128	Imereti
+188 110 192	Kartli
+ 60 112 255	Ardabil
+188 114   0	Dagestan
+ 60 116  64	Amol
+189 118 128	Shahrud
+ 61 120 192	Rey
+189 122 255	Isfahan
+ 61 124   0	Bushehr
+189 126  64	Hormuz
+ 61 128 128	Kerman
+189 130 192	Dash-i-Lut
+ 62 132 255	Quhistan
+190 134   0	Sistan
+ 62 136  64	Birjand
+190 138 128	Atak
+ 62 140 192	Kara Kum
+190 142 255	Mangyshlak
+ 62 144   0	Qaraqalpak
+191 146  64	Khiva
+ 63 148 128	Bukhara
+191 150 192	Ust Yurt
+ 63 152 255	Charjuy
+191 154   0	Marv
+ 63 156  64	Herat
+191 158 128	Kandahar
+ 64  32 192	Gazni
+192  34 255	Ghor
+ 64  36   0	Balkh
+192  38  64	Kabul
+ 64  40 128	Badakhshan
+192  42 192	Qarshi
+ 64  44 255	Samarkand
+193  46   0	Kyrzyl-Kum
+ 65  48  64	Turkestan
+193  50 128	Tashkent
+ 65  52 192	Kokand
+193  54 255	Taraz
+ 65  56   0	Uzkend
+193  58  64	Zhetysu
+ 66  60 128	Mingrelia
+194  62 192	Circassia
+ 66  64 255	Astrakhan
+194  66   0	Nogay
+ 66  68  64	Sarai
+194  70 128	Borisoglebsk
+ 66  72 192	Khazaria
+195  74 255	Ryn
+ 67  76   0	Bayuly
+195  78  64	Alimuly
+ 67  80 128	Zhetyru
+195  82 192	Samara
+ 67  84 255	Yaik
+195  86   0	Bashkortostan
+ 68  88  64	Kypshak
+196  90 128	Nadym
+ 68  92 192	Argyn
+196  94 255	Kerey
+ 68  96   0	Kulunda
+196  98  64	Bermuda
+ 68 100 128	Bahamas
+197 102 192	Turks Islands
+ 69 104 255	Havana
+197 106   0	Moron
+ 69 108  64	Guantamano
+197 110 128	Jamaica
+ 69 112 192	Les Cayes
+197 114 255	Tortuga
+ 70 116   0	Barahonas
+198 118  64	Curacao
+ 70 120 128	Puerto Rico
+198 122 192	St. Thomas
+ 70 124 255	St. Martin
+198 126   0	St. Kitts
+ 70 128  64	Antigua
+199 130 128	Guadelopue
+ 71 132 192	Dominica
+199 134 255	Martinique
+ 71 136   0	St. Lucia
+199 138  64	Barbados
+ 71 140 128	Trinidad
+199 142 192	Kutch
+ 72 144 255	Thatta
+200 146   0	Sehwan
+ 72 148  64	Multan
+200 150 128	Lahore
+ 72 152 192	Kashmir
+200 154 255	Kangra
+ 72 156   0	Sirhind
+201 158  64	Garhwal
+ 73  32 128	Jangladesh
+201  34 192	Jaisalmer
+ 73  36 255	Marwar
+201  38   0	Girnar
+ 73  40  64	Baroda
+201  42 128	Surat
+ 74  44 192	Chittorgarh
+202  46 255	Dundhar
+ 74  48   0	Mewat
+202  50  64	Rajkot
+ 74  52 128	Delhi
+202  54 192	Oudh
+ 74  56 255	Central Doab
+203  58   0	Gird
+ 75  60  64	Mandu
+203  62 128	Khandesh
+ 75  64 192	Hadoti
+203  66 255	North Konkan
+ 75  68   0	South Konkan
+203  70  64	North Kanara
+ 76  72 128	Raichur Doab
+204  74 192	Mysore
+ 76  76 255	Malabar
+204  78   0	Kochin
+ 76  80  64	Madurai
+204  82 128	Venad
+ 76  84 192	Kongu
+205  86 255	Tondainadu
+ 77  88   0	Coromandel
+205  90  64	Vijayanagar
+ 77  92 128	Golconda
+205  94 192	Velanadu
+ 77  96 255	Ahmadnagar
+205  98   0	Marathwada
+ 78 100  64	East Berar
+206 102 128	Bastar
+ 78 104 192	West Berar
+206 106 255	Kalingandhra
+ 78 108   0	Mahakoshal
+206 110  64	Mandla
+ 78 112 128	Cuttack
+207 114 192	Sambalpur
+ 79 116 255	Baisi Rayja
+207 118   0	Jaunpur
+ 79 120  64	Lower Doab
+207 122 128	Katmandu
+ 79 124 192	Patna
+207 126 255	Bundelkhand
+ 80 128   0	Jharkand
+208 130  64	Bengal Delta
+ 80 132 128	Koch
+208 134 192	Gauda
+ 80 136 255	Dacca
+208 138   0	Bhutan
+ 80 140  64	Assam
+209 142 128	Sylhet
+ 81 144 192	Chittagong
+209 146 255	Bijapur
+ 81 148   0	Naga
+209 150  64	Darrang
+ 81 152 128	Kotte
+209 154 192	Kachar
+ 82 156 255	The Andamans
+210 158   0	Eastern Makran
+ 82  32  64	Indus
+210  34 128	Quetta
+ 82  36 192	Khyber
+210  38 255	Arakan
+ 82  40   0	Chin
+211  42  64	Sagaing
+ 83  44 128	Kachin
+211  46 192	Hsenwi
+ 83  48 255	Kyuakse
+211  50   0	Toungoo
+ 83  52  64	Pegu
+211  54 128	Keng Tung
+ 84  56 192	Mongnai
+212  58 255	Chiang Mai
+ 84  60   0	Moulmein
+212  62  64	Tenasserim
+ 84  64 128	Ratchaburi
+212  66 192	Ligore
+ 84  68 255	Pattani
+213  70   0	Perak
+ 85  72  64	Malacca
+213  74 128	Johor
+ 85  76 192	Pahang
+213  78 255	Kelantan
+ 85  80   0	Ayutthaya
+213  82  64	Sukthothai
+ 86  84 128	Chian Rai
+214  86 192	Rayong
+ 86  88 255	Udong
+214  90   0	Prei Nokoi
+ 86  92  64	Panduranga
+214  94 128	Vijaya
+ 86  96 192	Champassak
+215  98 255	Siem Reap
+ 87 100   0	Binh Tri Thien
+215 102  64	Thakhek
+ 87 104 128	Khorat
+215 106 192	Thang Long
+ 87 108 255	Vientiane
+215 110   0	Luang Prabang
+ 88 112  64	Viet Bac
+216 114 128	Aceh
+ 88 116 192	Aru
+216 118 255	Minangkabau
+ 88 120   0	Siak
+216 122  64	Benkulen
+ 88 124 128	Palembang
+217 126 192	Lampung
+ 89 128 255	Banten
+217 130   0	Priangan
+ 89 132  64	Mataram
+217 134 128	Blambangan
+ 89 136 192	Surabaya
+217 138 255	Demak
+ 90 140   0	Sunda
+218 142  64	Bali-Lombok
+ 90 144 128	Sumbawa
+218 146 192	Flores
+ 90 148 255	Sumba
+218 150   0	Timor
+ 90 152  64	Brunei
+219 154 128	Sabah
+ 91 156 192	Kutei
+219 158 255	Banjarmasin
+ 91  32   0	Sukadane
+219  34  64	Makassar
+ 91  36 128	Bone
+219  38 192	Pose
+ 92  40 255	Menade
+220  42   0	Buru
+ 92  44  64	Ambom
+220  46 128	Ceram
+ 92  48 192	Halmahera
+220  50 255	Ternate
+ 92  52   0	Tidore
+221  54  64	Sulu
+ 93  56 128	Maguindanae
+221  58 192	Tagoloan
+ 93  60 255	Samar
+221  62   0	Palawan
+ 93  64  64	Manila
+221  66 128	Samtoy
+ 94  68 192	Cagayan
+222  70 255	Riau
+ 94  72   0	Banna
+222  74  64	Dali
+ 94  76 128	Yunnan
+222  78 192	Wenshan
+ 94  80 255	Guangxi
+223  82   0	Untitled
+ 95  84  64	Hainan
+223  86 128	Guangzhou
+ 95  88 192	Macau
+223  90 255	Fuzhou
+ 95  92   0	Ganzhou
+223  94  64	Changsha
+ 96  96 128	Chenzhou
+224  98 192	Bozhou
+ 96 100 255	Guiyang
+224 102   0	Liangshan
+ 96 104  64	U-Tsang
+224 106 128	Qamdo
+ 96 108 192	Kham
+225 110 255	Sichuan Pendi
+ 97 112   0	Shenquing
+225 114  64	Yichuan
+ 97 116 128	Hanyang
+225 118 192	Nanchang
+ 97 120 255	Hangzhou
+225 122   0	Huai'an
+ 98 124  64	Anqing
+226 126 128	Running
+ 98 128 192	Kaifeng
+226 130 255	Fengyuan
+ 98 132   0	Shandong Bandao
+226 134  64	Jinan
+ 98 136 128	Handan
+227 138 192	Sanguan
+ 99 140 255	Changzhi
+227 142   0	Beijing
+ 99 144  64	Fu
+227 146 128	Datong
+ 99 148 192	Guyuan
+227 150 255	Lanzhou
+100 152   0	Shaanxi
+228 154  64	Ordos
+100 156 128	Ulaanchab
+228 158 192	Chengde
+100  32 255	Liaoxi
+228  34   0	Dangla
+100  36  64	Amdo
+229  38 128	Yumen
+101  40 192	Gansu
+229  42 255	Ningxia
+101  44   0	Hotan
+229  46  64	Qarqan
+101  48 128	Uighuristan
+229  50 192	Kuruk Tag
+102  52 255	Dzungaria
+230  54   0	Urumqi
+102  56  64	Tannu Tuva
+230  58 128	Selenge
+102  60 192	Govi Altay
+230  62 255	Khangai
+102  64   0	Dorno Govi
+231  66  64	Dornod
+103  68 128	Chahar
+231  70 192	Gol
+103  72 255	Yakesa
+231  74   0	Hinggan
+103  76  64	Liaodong
+231  78 128	Heilongjiang
+104  80 192	Sanxing
+232  82 255	Wusuli
+104  84   0	Haixi
+232  86  64	Ninguta
+104  88 128	Hamheung
+232  90 192	Hwangju
+104  92 255	Gangwon
+153 134 173	Hanseong
+217 164 164	Sangju
+233  98 128	Jeonju
+105 100 192	Taiwan
+233 102 255	Kashgar
+105 104   0	Chanderi
+233 106  64	Cumana
+106 108 128	Guayana
+234 110 192	Essequibo
+106 112 255	Demerara
+234 114   0	Paramaribo
+106 116  64	Cayenne
+234 118 128	Tucujulandia
+106 120 192	Grao Para
+235 122 255	Maranhao
+107 124   0	Crato
+235 126  64	Ceara
+107 128 128	Oeiras
+235 130 192	Rio Grande
+107 132 255	Itamaraca
+235 134   0	Pernambuco
+108 136  64	Bahia
+236 138 128	Ilheus
+108 140 192	Goias
+236 142 255	Diamantina
+108 144   0	Porto Seguro
+236 146  64	Espirito Santo
+108 148 128	Sao Tome
+237 150 192	Rio de Janeiro
+109 152 255	Santo Amaro
+237 154   0	Santa Luzia
+109 156  64	Sao Vicente
+237 158 128	Wystruc
+109  32 192	Guayra
+237  34 255	Curitiba
+110  36   0	Braslaw
+238  38  64	Vitebsk
+110  40 128	Uruguay
+238  42 192	Banda Oriente
+110  44 255	Al Junaynah
+238  46   0	Asuncion
+110  48  64	Itenines
+239  50 128	Parana
+111  52 192	Rio de la Plata
+239  54 255	Tandil
+111  56   0	Candelaria Patagones
+239  58  64	Puerto Desaedo
+111  60 128	Tierra del Fuego
+239  62 192	Alacaluf
+112  64 255	Huillimapu
+240  66   0	Pehuenmapu
+112  68  64	Carmen Patagones
+240  70 128	Pincunmapu
+112  72 192	Angoche
+240  74 255	Mtetwa
+112  76   0	Chaco Austral
+241  78  64	Catamarca
+113  80 128	Copiapo
+241  82 192	Atacama
+113  84 255	Jujuy
+241  86   0	Potosi
+113  88  64	Arica
+241  90 128	Oruro
+215 191 212	Mbwila
+242  94 255	Chaco Boreal
+114  96   0	Chiquitos
+242  98  64	Caranga
+114 100 128	Chuquiabo
+242 102 192	Moxos
+114 104 255	Puno
+243 106   0	Arequipa
+115 108  64	Nazca
+243 110 128	Huamanga
+115 112 192	Cuzco
+243 114 255	Lima
+115 116   0	Huancavelica
+243 118  64	Tarma
+116 120 128	Chanchan
+244 122 192	Cajamarca
+116 124 255	Huanuco
+244 126   0	Maynas
+116 128  64	Tumbes
+244 130 128	Cuenca
+116 132 192	Canelos
+245 134 255	Guayaquil
+117 136   0	Quito
+245 138  64	Quijos
+117 140 128	Caqueta
+245 142 192	Cauca
+117 144 255	Mariquita
+245 146   0	Bogota
+118 148  64	Choco
+246 150 128	Antioquía
+118 152 192	Cartagena
+246 154 255	Magdalena
+118 156   0	Maracaibo
+246 158  64	Caracas
+118  32 128	Chiancon
+247  34 192	Graaff-Reinet
+119  36 255	Barinas
+128  34  79	Panama
+  0  36 126	Chorotega
+128  38 173	Nicaragua
+  0  40  32	Mosquito
+128  42  79	Pipil
+  0  44 126	Honduras
+129  46 173	Guatemala
+  1  48  32	Petén
+129  50  79	Belize
+  1  52 126	Zapotec
+129  54 173	Campeche
+  1  56  32	Yucatan
+129  58  79	Mixtec
+  2  60 126	Tohancapan
+130  62 173	Tlapanec
+  2  64  32	Tlaxcala
+130  66  79	Tarasco
+  2  68 126	Mexico
+130  70 173	Huastec
+  2  72  32	Sayultecas
+131  74  79	Huichol
+  3  76 126	Zacatecas
+131  78 173	Guachichil
+  3  80  32	Tamaulipas
+131  82  79	Sinaloa
+  3  84 126	Tepehuan
+131  86 173	Coahuila
+  4  88  32	Yaqui
+132  90  79	Suma
+  4  92 126	Concho
+132  94 173	Cochimi
+  4  96  32	Guaycura
+132  98  79	Mojave
+  4 100 126	Chumash
+133 102 173	Salinan
+  5 104  32	Yorkuts
+133 106  79	Pomo
+  5 108 126	Kalapuya
+133 110 173	Chinook
+  5 112  32	Salish
+133 114  79	Canyon
+  6 116 126	Yavapai
+134 118 173	Pima
+  6 120  32	Navajo
+134 122  79	Apache
+  6 124 126	Pueblo
+134 126 173	Piro
+  6 128  32	Mescalero
+135 130  79	Lipan
+  7 132 126	Karankawa
+135 134 173	Comanche
+  7 136  32	Waco
+135 138  79	Tonkawa
+  7 140 126	Atakapa
+135 142 173	Arapaho
+  8 144  32	Kiowa
+136 146  79	Jicarilla
+  8 148 126	Wichita
+136 150 173	Chitimacha
+  8 152  32	Caddo
+136 154  79	Arkansas
+  8 156 126	Ozark
+137 158 173	Quapaw
+  9  32  32	Kansas
+137  34  79	Osage
+  9  36 126	Tamaroa
+137  38 173	Pawnee
+  9  40  32	Missouri
+137  42  79	Omaha
+ 10  44 126	Nakota
+138  46 173	Iowa
+ 10  48  32	Lakota
+138  50  79	Dakota
+ 10  52 126	Minnesota
+138  54 173	Mandan
+ 10  56  32	Chippewa
+139  58  79	Menominee
+ 11  60 126	Sauk
+139  62 173	Fox
+ 11  64  32	Winnebago
+139  66  79	Illinois
+ 11  68 126	Kaskaskia
+139  70 173	Cahokia
+ 12  72  32	Tennessee
+140  74  79	Chickasaw
+ 12  76 126	Choctaw
+140  78 173	Bayougoula
+ 12  80  32	Mobile
+140  82  79	Pensacola
+ 12  84 126	Alabama
+141  86 173	Tuskegee
+ 13  88  32	Seminole
+141  90  79	Timucua
+ 13  92 126	Apalachee
+141  94 173	Muskogee
+ 13  96  32	Yamasee
+141  98  79	Chiaha
+ 14 100 126	Santee
+142 102 173	Catawba
+ 14 104  32	Shawnee
+142 106  79	Cherokee
+ 14 108 126	Cheraw
+142 110 173	Tuscarora
+ 14 112  32	Pamlico
+143 114  79	Pennyrile
+ 15 116 126	Kentucky
+143 118 173	Cumberland
+ 15 120  32	Wea
+143 122  79	Miami
+ 15 124 126	Potawatomi
+143 126 173	Michigan
+ 16 128  32	Wyandot
+144 130  79	Erie
+ 16 132 126	Ohio
+144 134 173	Monacan
+ 16 136  32	Powhatan
+144 138  79	Kanawha
+ 16 140 126	Manahoac
+145 142 173	Conoy
+ 17 144  32	Allegheny
+145 146  79	Susquehanna
+ 17 148 126	Lenape
+145 150 173	Delaware
+ 17 152  32	Seneca
+145 154  79	Cayuga
+ 18 156 126	Onondaga
+146 158 173	Oneida
+ 18  32  32	Unami
+146  34  79	Mahican
+ 18  36 126	Mohawk
+146  38 173	Manhattan
+ 18  40  32	Connecticut
+147  42  79	Narraganset
+ 19  44 126	Massachusetts
+147  46 173	Pocumtuk
+ 19  48  32	Pennacook
+147  50  79	Abnaki
+ 19  52 126	Nootka
+147  54 173	Squamish
+ 20  56  32	Kwakiutl
+148  58  79	Tsimshian
+ 20  60 126	Tlingit
+148  62 173	Yakutat
+ 20  64  32	Kenai
+148  66  79	Aleut
+ 20  68 126	Beothuk
+149  70 173	Taqamkuk
+ 21  72  32	Unamakik
+149  74  79	Epekwitk
+ 21  76 126	Acadia
+149  78 173	Micmac
+ 21  80  32	Kespek
+149  82  79	Niagara
+ 22  84 126	Huron
+150  86 173	Ontario
+ 22  88  32	Kwedech
+150  90  79	Ottawa
+ 22  92 126	Algonquin
+150  94 173	Hochelega
+ 22  96  32	Stadacona
+151  98  79	Atiamekw
+ 23 100 126	Innu
+151 102 173	Labrador
+ 23 104  32	Ungava
+151 106  79	Nunavik
+ 23 108 126	Cree
+151 110 173	Sault
+ 24 112  32	Abitbi
+152 114  79	Moose Cree
+ 24 116 126	Attawapiskat
+152 118 173	Swampy Cree
+ 24 120  32	Chipewyan
+152 122  79	Ojibwa
+ 24 124 126	Winnipeg
+153 126 173	Atikaki
+ 25 128  32	Manitoba
+153 130  79	Woods Cree
+ 25 132 126	Satsuma
+233  94   0	Cheongju
+ 25 136  32	Bungo
+153 138  79	Okinawa
+ 26 140 126	Nghe An
+154 142 173	Suo
+ 26 144  32	Izumo
+154 146  79	Harima
+ 26 148 126	Kyoto
+154 150 173	Settsu
+ 26 152  32	Amaravati
+155 154  79	Echizen
+ 27 156 126	Echigo
+155 158 173	Dewa
+ 27  32  32	Mutsu
+155  34  79	Hitachi
+ 27  36 126	Musashi
+155  38 173	Kai
+ 28  40  32	Owari
+156  42  79	Kamikawa
+ 28  44 126	Kurils
+156  46 173	Sakhalin
+ 28  48  32	Kamchatka
+156  50  79	Penchisky
+ 28  52 126	Podzhiversk
+157  54 173	Nizhe-Kolymsk
+ 29  56  32	Anadyrsk
+157  58  79	Verkhoyansk
+ 29 254 126	Suntar Khayat
+157  62 173	Gizhiga
+ 29  64  32	Kamnuskoye
+157  66  79	Okhotsk
+ 30  68 126	Tauisk
+158  70 173	Yakutsk
+ 30 243  32	Butalsk
+158 174  79	Jugjur
+ 30  76 126	Udskoye
+158  78 173	Saghalian Oula
+ 30  80  32	Deren
+159  82  79	Uchurskoye
+ 31  84 126	Verkohzehkoye
+159  86 173	Albazinsky
+ 31  88  32	Ilimsk
+159  90  79	Verkne-Angarsky
+ 31  92 126	Barguzinsky
+159  94 173	Udinsky
+ 32  96  32	Nerchinsky
+160  98  79	Bratsk
+ 32 100 126	Irkutsk
+160 102 173	Yeniseysk
+ 32 104  32	Kachinsk
+160 106  79	Sayan
+ 32 108 126	Tomsk
+161 110 173	Kuznetsk
+ 33 112  32	Altai
+161 114  79	Narym
+ 33 116 126	Pegaya Orda
+161 118 173	Surgut
+ 33 120  32	Koda
+161 122  79	Tara
+ 34 124 126	Obdorsk
+162 226 173	Berezov
+ 34 228  32	Sibir
+162 130  79	Tyumen
+ 34 132 126	Kurgan
+162 134 173	Solikamsk
+ 34 136  32	Middle Urals
+163 138  79	Viatka
+ 35 140 126	North Urals
+163 142 173	Simbirsk
+ 35 144  32	Kazan
+163 146  79	Zavolochye
+ 35 148 126	Wadjuk
+163 150 173	Paredarerme
+ 36 152  32	Kaurna
+164 154  79	Woiworung
+ 36 156 126	Wergaia
+164 158 173	Wiradjuri
+ 36 232  32	Eora
+164  34  79	Kamilaroi
+ 36  36 126	Bundjalung
+165  38 173	Barunggam
+ 37 240  32	Gubbi Gubbi
+165  42  79	Falklands
+ 37  44 126	Cape Verde
+165  46 173	Fernando Po
+ 37 248  32	St. Helena
+165  50  79	Socotra
+ 38  52 126	Mahe
+166  54 173	Diego Garcia
+ 38 247  32	Mauritius
+166  58  79	Bourbon
+ 38  60 126	Eiriksfjord
+166  62 173	Vestbygden
+ 38 164  32	Whangarei
+167  66  79	Taranaki
+ 39  68 126	Wairoa
+167  70 173	Timaru
+ 39  72  32	Rio de Oro
+167  74  79	Arguin
+ 39  76 126	Trarza
+167  78 173	Cayor
+ 40  80  32	Gabu
+168  82  79	Brakna
+ 40  84 126	Wolof
+168  86 173	Futa Jallon
+ 40  88  32	Sierra Leone
+168  90  79	Grain Coast
+ 40  92 126	Bambuk
+169  94 173	Bure
+ 41  96  32	Konian
+169  98  79	Segu
+ 41 100 126	Wasuju
+169 102 173	Worodugu
+ 41 104  32	Ivory Coast
+169 106  79	Tuat
+ 42 108 126	Taodeni
+170 110 173	Azawadd
+ 42 112  32	Tadimekket
+170 114  79	Massina
+ 42 116 126	Timbuktu
+170 118 173	Gao
+ 42 120  32	Jenne
+171 122  79	Yatenga
+ 43 124 126	Gurma
+171 126 173	Wagadugi
+ 43 128  32	Kumasi
+171 130  79	Gold Coast
+ 43 132 126	Abomey
+171 134 173	Whydah
+ 44 136  32	Dendi
+172 138  79	Borgu
+ 44 140 126	Oyo
+172 142 173	Nupe
+ 44 144  32	Ife
+172 146  79	Benin
+ 44 148 126	Gobir
+173 150 173	Katsina
+ 45 152  32	Zamfara
+173 154  79	Bonny
+ 45 156 126	Idah
+173 158 173	Pindinga
+ 45  32  32	Zazzau
+173  34  79	Kano
+ 46  36 126	Damagaram
+174  38 173	Damasak
+ 46  40  32	Kanem
+174  42  79	Bagirmi
+ 46  44 126	Bornu
+174 246 173	Bauchi
+ 46  48  32	Wukari
+175  50  79	Calabar
+ 47  52 126	Cameroon
+175  54 173	Gabon
+ 47 236  32	Loango
+175  58  79	Luanda
+206 217  77	Nsoyo
+175  62 173	Mayombe
+ 48  64  32	Kongo
+176  66  79	Ndongo
+ 48  68 126	Benguela
+176  70 173	Namibia
+ 48 172  32	Angra Pequena
+176  74  79	Lesser Namaqualand
+ 48  76 126	Roggeveld
+177  78 173	Cape
+ 49  80  32	Great Karoo
+177  82  79	Swellendam
+ 49  84 126	Transkei
+177  86 173	Natal
+ 49  88  32	Delagoa Bay
+177  90  79	Inhambane
+ 50  92 126	Zimbabwe
+178  94 173	Uteve
+ 50  96  32	Sofala
+178  98  79	Urungwe
+ 50 100 126	Tete
+178 202 173	Barwe
+ 50 104  32	Zumbo
+179 106  79	Sena
+ 51 108 126	Quelimane
+179 110 173	Menabe
+ 51 212  32	Besalampy
+179 114  79	Mozambique
+ 51 116 126	Kilwa
+179 118 173	Ujiji
+ 52 120  32	Tabora
+180 122  79	Bagamoyo
+ 52 124 126	Tanga
+180 126 173	Zanzibar
+ 52 128  32	Mombasa
+180 130  79	Malindi
+ 52 132 126	Chisimayo
+181 134 173	Mogadishu
+ 53 136  32	Mayertern
+181 138  79	Ogaden
+ 53 140 126	Haud
+181 142 173	Berbera
+ 53 144  32	Ifat
+181 146  79	Harer
+ 54 148 126	Zeila
+182 150 173	Shoa
+ 54 152  32	Awsa
+182 154  79	Tajura
+ 54 156 126	Dar Nuba
+182 158 173	Fazughli
+ 54  32  32	Kefa
+183  34  79	Kordofan
+ 55  36 126	Dar Ja'al
+183  38 173	Taqali
+ 55  40  32	Gezira
+183  42  79	Gojjam
+ 55  44 126	Gonder
+183 246 173	Butana
+ 56  48  32	Taka
+184  50  79	Tigre
+ 56 252 126	Dongola
+184  54 173	Berber
+ 56  56  32	Massawa
+184  58  79	Aswan
+ 56  60 126	Suakin
+185  62 173	Kharga
+ 57 164  32	Qasr Ibrim
+185  66  79	Guam
+ 57  68 126	Rabaul
+185  70 173	Papua
+ 57 172  32	Solomon Islands
+185  74  79	Vanuatu
+ 58  76 126	Hawaii
+186  78 173	Kiribati
+ 58 180  32	Fiji
+186  82  79	Samoa
+ 58  84 126	Tahiti
+186  86 173	Irian
+ 58 188  32	Aorangi
+187  90  79	Corsica
+ 59  92 126	Maldives
+187  94 173	Yola
+  1 200 200	Vänern
+  2 200 250	Vättern
+  3 220 250	Gulf of Bothnia
+  4 250 250	Ålands Hav
+  5 200 200	Gulf of Finland
+  6 200 250	Western Baltic Sea
+  7 220 250	Gulf of Riga
+  8 250 250	Southern Baltic Sea
+  9 200 200	Öresund
+ 10 200 250	Kattegat
+ 11 220 250	Peipsi Järv
+ 12 250 250	Ladoga
+ 13 200 200	Onega
+ 14 200 250	Barents Sea
+ 15 220 250	Lofoten Sea
+ 16 250 250	Northern Norwegian Sea
+ 17 200 200	Southern Norwegian Sea
+ 18 200 250	Skagerrack
+ 19 220 250	Helgoland Bight
+ 20 250 250	Coast of Holland
+ 21 200 200	Dogger Bank
+ 22 200 250	Straits of Dover
+ 23 220 250	The Channel
+224 123 123	Taveta
+ 25 200 200	Coast of Britanny
+ 26 200 250	Quiberon Bay
+ 27 220 250	Cote D'Argent
+ 28 250 250	Bay of Biscay
+ 29 200 200	Cantabrian Sea
+ 30 200 250	Tyne
+ 31 220 250	Firth of Forth
+ 32 250 250	The North Sea
+ 33 200 200	Moray Firth
+ 34 200 250	North Channel
+ 35 220 250	Irish Sea
+ 36 250 250	St. George's Channel
+ 37 200 200	Donegal Bay
+ 38 200 250	Dingle Bay
+ 39 220 250	Celtic Sea
+ 40 250 250	Western Approaches
+ 41 200 200	Finisterre Bay
+ 42 200 250	Lusitanian Sea
+ 43 220 250	Gulf of Cadiz
+ 44 250 250	Straits of Gibraltar
+ 45 200 200	Gulf of Almeira
+ 46 200 250	Gulf of Valencia
+ 47 220 250	Gulf of Lion
+ 48 250 250	Cote D'Azur
+ 49 200 200	Ligurian Sea
+ 50 200 250	Shetland Straits
+ 51 220 250	Western Mediterranean
+ 52 250 250	Barbary Coast
+ 53 200 200	Cape Bon
+ 54 200 250	Tyrrenean Sea
+ 55 220 250	Bay of Naples
+ 56 250 250	Gulf of Gabes
+181  48 132	Sao Tome
+ 58 200 250	Straits of Messina
+ 59 220 250	Gulf of Venice
+ 60 250 250	Adriatic Sea
+ 61 200 200	Straits of Otranto
+ 62 200 250	Gulf of Taranto
+ 63 220 250	Ionian Sea
+ 64 250 250	Gulf of Sirte
+ 65 200 200	Gulf of Tobruk
+ 66 200 250	Bay of Alexandrian
+ 67 220 250	Palestinian Coast
+ 68 250 250	Gulf of Cyprus
+209 246   4	Spis
+ 70 200 250	Aegean Sea
+ 71 220 250	Sea of Marmara
+ 72 250 250	Gulf of Varna
+ 73 200 200	Gulf of Odessa
+ 74 200 250	Sea of Azov
+ 75 220 250	Eastern Black Sea
+ 76 250 250	Lake Balaton
+ 77 200 200	Caspian Sea
+ 78 200 250	Aral Sea
+ 79 220 250	Gulf of Suez
+ 80 250 250	Red Sea
+ 81 200 200	Straits of Obokk
+ 82 200 250	Bal el Mandeb
+ 83 220 250	Coast of Mascate
+ 84 250 250	Gulf of Masirah
+ 85 200 200	Straits of Hormuz
+ 86 200 250	Persian Gulf
+ 87 220 250	Gulf of Indus
+ 88 250 250	Gulf of Gujarat
+ 89 200 200	Laquedive Islands
+ 90 200 250	Coast of Malabar
+ 91 220 250	Comorin Cape
+ 92 250 250	Coast of Caramandel
+ 93 200 200	Coast of Orissa
+ 94 200 250	Ganges Delta
+ 95 220 250	Akyab Bay
+ 96 250 250	Irrawady Delta
+ 97 200 200	Andaman Sea
+ 98 200 250	Mergui Archipelago
+ 99 220 250	Straits of Malacca
+100 250 250	Nicobar Isles
+101 200 200	Coast of Atjeh
+102 200 250	Coast of Sumatra
+103 220 250	Christmas Island
+104 250 250	Coast of Java
+105 200 200	Coast of Surabaya
+106 200 250	Straits of Lombok
+107 220 250	Timor Sea
+108 250 250	The Moluccas
+109 200 200	Java Sea
+110 200 250	Straits of Makassar
+111 220 250	Karimata Strait
+112 250 250	Straits of Johore
+113 200 200	Malayan Sea
+114 200 250	Coast of Sarawk
+115 220 250	Mekong Delta
+116 250 250	Gulf of Siam
+117 200 200	Cam Rah Bay
+118 200 250	South China Sea
+119 220 250	Coast of Brunei
+120 250 250	Coast of Annam
+121 200 200	Gulf of Tonkin
+122 200 250	Guanghou Bay
+123 220 250	Taiwan Strait
+124 250 250	Yang Tse Delta
+125 200 200	Western Yellow Sea
+126 200 250	Korea Bay
+127 220 250	South Korean Sea
+  0 251 251	North Korean Sea
+  1 201 201	Coast of Olga
+  2 201 251	Tatar Straits
+  3 221 251	Amur Delta
+  4 251 251	Baj of Ayan
+  5 201 201	Bay of Komenskoie
+  6 201 251	Coast of Kamchatska
+  7 221 251	Oktothsk Sea
+  8 251 251	Coast Sahkalin
+  9 201 201	Soya Strait
+ 10 201 251	Tsugaru Strait
+ 11 221 251	Yamato Basin
+ 12 251 251	Amakusa Sea
+ 13 201 201	Setto Inland Sea
+ 14 201 251	Kii Channel
+ 15 221 251	Ryukyu Islands
+ 16 251 251	Luzon Strait
+ 17 201 201	Paracel Islands
+ 18 201 251	Manila Bay
+ 19 221 251	Coast of Luzon
+ 20 251 251	Gulf of Leyte
+ 21 201 201	Sulu Sea
+ 22 201 251	Sea of Celebes
+ 23 221 251	Sea of Ternete
+ 24 251 251	Sea of Banda
+ 25 201 201	Philipine Sea
+ 26 201 251	Palau Islands
+ 27 221 251	Biak Bay
+ 28 251 251	Vilian Strait
+ 29 201 201	Trobrian Islands
+ 30 201 251	Torres Strait
+ 31 221 251	Arafuam Sea
+ 32 251 251	Kolepom Bay
+ 33 201 201	Gulf of Carpentaria
+ 34 201 251	Great Barrier Reef
+ 35 221 251	Capricorn Bay
+ 36 251 251	Cape Howe
+ 37 201 201	Bass Strait
+ 38 201 251	Kangaroo Island
+ 39 221 251	Great Australian Bight
+ 40 251 251	Cape Leuwiin
+ 41 201 201	Shark Bay
+ 42 201 251	Northwest Cape
+ 43 221 251	King Sound
+ 44 251 251	Tasman Sea
+ 45 201 201	Southern Tasman Sea
+ 46 201 251	Cook Strait
+ 47 221 251	Northern Tasman Sea
+ 48 251 251	Cape Farwell
+ 49 201 201	Coast of New Zealand
+ 50 201 251	Cantebury Bight
+ 51 221 251	Sea of Antarctica
+ 52 251 251	New Caledonian Sea
+ 53 201 201	Coral Sea
+ 54 201 251	Gilbert Sea
+ 55 221 251	Solomon Sea
+ 56 251 251	Nauru Island
+ 57 201 201	Melanesia Sea
+ 58 201 251	Micronesia Sea
+ 59 221 251	Yap Islands
+ 60 251 251	Mariana Islands
+ 61 201 201	Tinian Sea
+ 62 201 251	Iwo Jima Sea
+ 63 221 251	Sanriku Coast
+ 64 251 251	The Kuriles
+ 65 201 201	Bay of Uka
+ 66 201 251	Bay of Oljut
+ 67 221 251	Bay of Anadyr
+ 68 251 251	Bering Sea
+ 69 201 201	Horn of Africa
+ 70 201 251	Coast of Pepper
+ 71 221 251	Zanzibar Strait
+ 72 251 251	Mozambique Channel
+ 73 201 201	Diego Suarez Bay
+ 74 201 251	Western Arabian Sea
+ 75 221 251	Eastern Arabian Sea
+ 76 251 251	The Seychelles
+ 77 201 201	Coast of Tamatave
+ 78 201 251	The Mascareignes
+ 79 221 251	Gulf of Zambeze
+ 80 251 251	Coast of Natal
+ 81 201 201	Coast of Transkei
+ 82 201 251	Coast of Ciskei
+ 83 221 251	Cape of Good Hope
+ 84 251 251	Coast of Namibia
+ 85 201 201	Coast of Angola
+ 86 201 251	Gulf of Kongo
+ 87 221 251	Coast of Cameroon
+ 88 251 251	Gulf of Nigeria
+ 89 201 201	Ivory Coast
+ 90 201 251	Gold Coast
+ 91 221 251	Coast of Gamvia
+ 92 251 251	Coast of Guinea
+ 93 201 201	Maueretanian Coast
+ 94 201 251	Canarian Sea
+ 95 221 251	Coast of Morocco
+ 96 251 251	Jan Mayen Sea
+ 97 201 201	Spitzberg Sea
+ 98 201 251	Icelandic Sea
+ 99 221 251	Eastern Coast of Iceland
+100 251 251	Western Coast of Iceland
+101 201 201	Northeastern Atlantic
+102 201 251	Rockall
+103 221 251	Denmark Strait
+104 251 251	Eastern Coast of Greenland
+105 201 201	Western Coast of Greenland
+106 201 251	Labrador Strait
+107 221 251	Baffin Bay
+108 251 251	Hudson Straits
+109 201 201	James Bay
+110 201 251	Western Hudson Bay
+111 221 251	Eastern Hudson Bay
+112 251 251	Foxe Bassin
+113 201 201	Gulf of St. Lawrence
+114 201 251	Cabot Strait
+115 221 251	Bay of Fundy
+116 251 251	Strait of Belle Isle
+117 201 201	Fortune Bay
+118 201 251	Notre Dame Bay
+119 221 251	Labrador Sea
+120 251 251	Greenland Sea
+121 201 201	Northern Atlantic
+122 201 251	Masschusetts Bay
+123 221 251	Chesapaeake Bay
+124 251 251	Cape Hatteras
+125 201 201	Coast of Carolina
+126 201 251	Coast of Florida
+127 221 251	Sea of Sargassos
+  0 252 252	Florida Straits
+  1 202 202	Apalachee Bay
+  2 202 252	Mobile Bay
+  3 222 252	Galveston Bay
+  4 252 252	Tampico Bay
+  5 202 202	Yucatan Sea
+  6 202 252	Gulf of Mexico
+  7 222 252	Yucatan Channel
+  8 252 252	Belize Bay
+  9 202 202	Moscitos Coast
+ 10 202 252	Gulf of Darien
+ 11 222 252	Jamica Channel
+ 12 252 252	Central Carribean
+ 13 202 202	Northwestern Carribean
+ 14 202 252	Venezualan Gulf
+ 15 222 252	Venezuelan Sea
+ 16 252 252	Eastern Carribean
+ 17 202 202	Windward Islands
+ 18 202 252	Lesser Antilles
+ 19 222 252	Turks & Caicos Sea
+ 20 252 252	Coast of Cuba
+ 21 202 202	Coast of Hispaniola
+ 22 202 252	Guyana Coast
+ 23 222 252	Bay of Belem
+ 24 252 252	Amazonas Gulf
+ 25 202 202	Coast of Brazil
+ 26 202 252	Coast of Recife
+ 27 222 252	Coast of Pernambuc
+ 28 252 252	Todos Santos Bay
+ 29 202 202	Rio De Janeiro
+ 30 202 252	Baia Parangua
+ 31 222 252	Rio De La Plata
+ 32 252 252	Bahia Blanca
+ 33 202 202	Coast of Patagonia
+ 34 202 252	Magellan Strait
+ 35 222 252	South Chilean Coast
+ 36 252 252	Coast of Chile
+ 37 202 202	Atacama Coast
+ 38 202 252	Arica Gulf
+ 39 222 252	Arequipa Bay
+ 40 252 252	Coast of Peru
+ 41 202 202	Guayaguil Bay
+ 42 202 252	Coast of Ecuador
+ 43 222 252	Gulf of Panama
+ 44 252 252	Bay of Costa Rica
+ 45 202 202	Acapulco Bay
+ 46 202 252	Manzazilla Bay
+ 47 222 252	Mazatlan Bay
+ 48 252 252	Gulf of California
+ 49 202 202	Coast of Baja
+ 50 202 252	Coast of California
+ 51 222 252	Santa Catalina Islands
+ 52 252 252	Coast of Oregon
+ 53 202 202	Coast of Columbia
+ 54 202 252	Hecate Strait
+ 55 222 252	Gulf of Alaska
+ 56 252 252	Coast of Alaska
+ 57 202 202	Kuskowim Bay
+ 58 202 252	Hatton Bank
+ 59 222 252	Eastern Gibbs Fracture
+ 60 252 252	Western Gibbs Fracture
+ 61 202 202	Iberian Shelf
+ 62 202 252	Sea of Azores
+ 63 222 252	Corner Seamounts
+ 64 252 252	New England Seamounts
+ 65 202 202	Sable Island Bank
+ 66 202 252	Blake Plataeu
+ 67 222 252	West Bermuda Sea
+ 68 252 252	East Bermuda Sea
+ 69 202 202	Some Funny Seaname
+ 70 202 252	Northern Guiana Basin
+ 71 222 252	Guiana Basin
+ 72 252 252	Southern Guiana Basin
+ 73 202 202	Canary Approach
+ 74 202 252	Cap Verde Approach
+ 75 222 252	Central Atlantic #1
+ 76 252 252	Central Atlantic #2
+ 77 202 202	Central Atlantic #3
+ 78 202 252	Central Atlantic #4
+ 79 222 252	Romanche Gap
+ 80 252 252	East Guinea Basin
+ 81 202 202	West Guinea Basin
+ 82 202 252	Coast of Falklands
+ 83 222 252	New Georgia Islands
+ 84 252 252	Western Atlantic #1
+ 85 202 202	Western Atlantic #2
+ 86 202 252	Western Atlantic #3
+ 87 222 252	Western Atlantic #4
+ 88 252 252	Western Atlantic #5
+ 89 202 202	Western Atlantic #6
+ 90 202 252	East of Magellans
+ 91 222 252	Central Atlantic #5
+ 92 252 252	Central Atlantic #6
+ 93 202 202	Central Atlantic #7
+ 94 202 252	Central Atlantic #8
+ 95 222 252	Eastern Atlantic #1
+ 96 252 252	Eastern Atlantic #2
+ 97 202 202	Eastern Atlantic #3
+ 98 202 252	Eastern Atlantic #4
+ 99 222 252	Eastern Atlantic #5
+100 252 252	Eastern Atlantic #6
+101 202 202	Southern Atlantic #1
+102 202 252	Southern Atlantic #2
+103 222 252	Southern Atlantic #3
+104 252 252	Southern Atlantic #4
+105 202 202	Cape of Storms
+106 202 252	Gulf of Bengal
+107 222 252	Northen Bay of Bengal
+108 252 252	Southern Bay of Bengal
+109 202 202	Ceylon Sea
+110 202 252	Coast of Maldives
+111 222 252	Indian Ocean #1
+112 252 252	Indian Ocean #2
+113 202 202	Indian Ocean #3
+114 202 252	Indian Ocean #4
+115 222 252	Indian Ocean #5
+116 252 252	Indian Ocean #6
+117 202 202	Indian Ocean #7
+118 202 252	Indian Ocean #8
+119 222 252	Indian Ocean #9
+120 252 252	Indian Ocean #10
+121 202 202	Indian Ocean #11
+122 202 252	Indian Ocean #12
+123 222 252	Indian Ocean #13
+124 252 252	Indian Ocean #14
+125 202 202	Indian Ocean #15
+126 202 252	Indian Ocean #16
+127 222 252	Indian Ocean #17
+  0 253 253	Indian Ocean #18
+  1 203 203	Indian Ocean #19
+  2 203 253	Indian Ocean #20
+  3 223 253	Indian Ocean #21
+  4 253 253	Indian Ocean #22
+  5 203 203	Indian Ocean #23
+  6 203 253	Indian Ocean #24
+  7 223 253	Indian Ocean #25
+  8 253 253	Indian Ocean #26
+  9 203 203	Indian Ocean #27
+ 10 203 253	Indian Ocean #28
+ 11 223 253	Indian Ocean #29
+ 12 253 253	Indian Ocean #30
+ 13 203 203	Indian Ocean #31
+ 14 203 253	Indian Ocean #32
+ 15 223 253	Lake Tchad
+ 16 253 253	Lake Victoria
+ 17 203 203	Lake Tangayika
+ 18 203 253	Lake Malawi
+ 19 223 253	White Sea
+ 20 253 253	Lake Balchasj
+ 21 203 203	Lake Bajkal
+ 22 203 253	Poyang Lake
+ 23 223 253	Lake Titicaca
+ 24 253 253	Lake Nicaragua
+ 25 203 203	Everglades
+ 26 203 253	Lake Ontario
+ 27 223 253	Lake Erie
+ 28 253 253	Lake Huron
+ 29 203 203	Lake Michigan
+ 30 203 253	Lake Superior
+ 31 223 253	Lake Nipigon
+ 32 253 253	Lake Winnipeg
+ 33 203 203	Western Pacific #1
+ 34 203 253	Western Pacific #2
+ 35 223 253	Western Pacific #3
+ 36 253 253	Western Pacific #4
+ 37 203 203	Western Pacific #5
+ 38 203 253	Western Pacific #6
+ 39 223 253	Western Pacific #7
+ 40 253 253	Western Pacific #8
+ 41 203 203	Western Pacific #9
+ 42 203 253	Western Pacific #10
+ 43 223 253	Western Pacific #11
+ 44 253 253	Northern Pacific #1
+ 45 203 203	Northern Pacific #2
+ 46 203 253	Northern Pacific #3
+ 47 223 253	Northern Pacific #4
+ 48 253 253	Northern Pacific #5
+ 49 203 203	Northern Pacific #6
+ 50 203 253	Northern Pacific #7
+ 51 223 253	Northern Pacific #8
+ 52 253 253	Northern Pacific #9
+ 53 203 203	Northern Pacific #10
+ 54 203 253	Central Pacific #1
+ 55 223 253	Central Pacific #2
+ 56 253 253	Central Pacific #3
+ 57 203 203	Central Pacific #4
+ 58 203 253	Central Pacific #5
+ 59 223 253	Central Pacific #6
+ 60 253 253	Central Pacific #7
+ 61 203 203	Central Pacific #8
+ 62 203 253	Central Pacific #9
+ 63 223 253	Central Pacific #10
+ 64 253 253	Coast of Hawaii
+ 65 203 203	Central Pacific #11
+ 66 203 253	Central Pacific #12
+ 67 223 253	Eastern Pacific #1
+ 68 253 253	Eastern Pacific #2
+ 69 203 203	Eastern Pacific #3
+ 70 203 253	Eastern Pacific #4
+ 71 223 253	Eastern Pacific #5
+ 72 253 253	Eastern Pacific #6
+ 73 203 203	Eastern Pacific #7
+ 74 203 253	Eastern Pacific #8
+ 75 223 253	Eastern Pacific #9
+ 76 253 253	Eastern Pacific #10
+ 77 203 203	Eastern Pacific #11
+ 78 203 253	Eastern Pacific #12
+ 79 223 253	Eastern Pacific #13
+ 80 253 253	Eastern Pacific #14
+ 81 203 203	Eastern Pacific #15
+ 82 203 253	Eastern Pacific #16
+ 83 223 253	Eastern Pacific #17
+ 85 203 203	Southern Pacifc #1
+ 86 203 253	Southern Pacifc #2
+ 87 223 253	Southern Pacifc #3
+ 88 253 253	Southern Pacifc #4
+ 89 203 203	Southern Pacifc #5
+ 90 203 253	Southern Pacifc #6
+ 91 223 253	Southern Pacifc #7
+ 92 253 253	Southern Pacifc #8
+ 93 203 203	Southern Pacifc #9
+ 94 203 253	Southern Pacifc #10
+ 95 223 253	Southern Pacifc #11
+ 96 253 253	Southern Pacifc #12
+ 97 203 203	Southern Pacifc #13
+ 98 203 253	Southern Pacifc #14
+ 99 223 253	Southern Pacifc #15
+100 253 253	Southern Pacifc #16
+101 203 203	Southern Pacifc #17
+102 203 253	Southern Pacifc #18
+103 223 253	Southern Pacifc #19
+104 203 203	Southern Pacifc #20
+106 203 253	Southern Pacifc #22
+107 223 253	Southern Pacifc #23
+108 253 253	Southern Pacifc #24
+109 203 203	Southern Pacifc #25
+110 203 253	Southern Pacifc #26
+ 66  68 126	Limburg
+194  70 173	Cambray
+ 66  72  32	Antwerpen
+195  74  79	Cantabria
+ 67  76 126	Burgos
+195  78 173	Caceres
+ 67  80  32	La Mancha
+195  82  79	Cadiz
+ 67  84 126	Alicante
+195  86 173	Ceuta
+ 68  88  32	Rzhev
+196  90  79	Kostroma
+ 68  92 126	Orel
+196  94 173	Ustyug
+ 68  96  32	Budjak
+196  98  79	Oberpfalz
+ 68 100 126	Hannover
+197 102 173	Potsdam
+ 69 104  32	Koblenz
+197 106  79	Alzey
+ 69 108 126	Kassel
+197 110 173	Niederlausitz
+ 69 112  32	Burgas
+197 114  79	Nis
+ 70 116 126	Kosovo
+198 118 173	Osijek
+ 70 120  32	Lienz
+198 122  79	Görz
+ 70 124 126	Ostmarch
+198 126 173	Erz
+ 70 128  32	Presburg
+199 130  79	Achaea
+ 71 132 126	Treviso
+199 134 173	Holstein
+ 71 136  32	Karelia
+199 138  79	Kola
+ 71 140 126	Kasimov
+199 142 173	Rub' al Khali
+ 72 144  32	Komi
+200 146  79	Western Siberia
+ 72 148 126	Eastern Siberia
+200 150 173	Koryak
+ 72 152  32	Tiam Shan
+200 154  79	Karakoram
+ 72 156 126	Takla Makan
+201 158 173	Himalaya
+ 73  32  32	Arunachal
+201  34  79	Maoke
+ 73  36 126	Western Australia
+201  38 173	Central Australia
+201  42  79	Merina
+ 74  44 126	El Djouf
+202  46 173	Central Sahara
+ 74  48  32	East Sahara
+202  50  79	Central Africa
+ 74  52 126	Inner Kongo
+202  54 173	Imatong
+ 74  56  32	Urgoma
+203  58  79	Limpopo
+ 75  60 126	Kalahari
+203  62 173	Northern Amazonas
+ 75  64  32	Southern Amazonas
+203  66  79	Greenland
+ 75  68 126	Québec
+203  70 173	Weagamow
+ 76  72  32	Baffin Island
+204  74  79	Great Basin
+ 76  76 126	Great Plains
+204  78 173	Alaska
+ 76  80  32	Nunavut
+204  82  79	Northwest Territories
+ 76  84 126	Saskatchewan
+205  86 173	Columbia
+ 77  88  32	Ayeyarwady
+205  90  79	Hejian
+ 77  92 126	Nan
+205  94 173	Chikuzen
+ 77  96  32	Tosa
+205  98  79	Awa
+ 78 100 126	Nanjing
+206 102 173	Shangai
+ 78 104  32	Stung Treng
+206 106  79	Wenzhou
+ 78 108 126	Aki
+206 110 173	Lika
+ 78 112  32	Raska
+207 114  79	Soli
+ 79 116 126	Untitled
+207 118 173	Tajima
+ 79 120  32	Travunia
+207 122  79	Yamato
+ 79 124 126	Ji'an
+207 126 173	Dorpat
+ 80 128  32	Mino
+208 130  79	Nanyang
+ 80 132 126	Etchu
+208 134 173	Hefei
+ 80 136  32	Totomi
+208 138  79	Guilin
+ 80 140 126	Marienburg
+209 142 173	Narva
+ 81 144  32	Kozuke
+209 146  79	Untitled
+ 81 148 126	Pyeongyang
+209 150 173	Amasya
+ 81 152  32	Shiribeshi
+209 154  79	Hamid
+ 82 156 126	Hama
+210 158 173	Mudanjiang
+ 82  32  32	Ribatejo
+210  34  79	Tokachi
+ 82  36 126	Kozani
+210  38 173	Jaffa
+ 82  40  32	Sidon
+211  42  79	Abkhazia
+ 83  44 126	Lauenburg
+211  46 173	Stettin
+ 83  48  32	Torun
+211  50  79	Norfolk
+ 83  52 126	Derby
+211  54 173	Cremona
+ 84  56  32	Graz
+212  58  79	Somogy
+ 84  60 126	Ghent
+212  62 173	Namur 
+ 84  64  32	Freiburg
+212  66  79	Augsburg
+ 84  68 126	Zürich
+213  70 173	S:t Gallen
+ 85  72  32	Wallis
+ 86  84 126	Ulm
+ 85  76 126	Chur
+213  78 173	Bremen
+142 110 192	Turin
+213  82  79	Frankfurt
+ 86  92 126	Charolais
+214  86 173	Aachen
+ 86  88  32	Alencon
+214  90  79	Sundgau
+213  74  79	St. Barthélemy
+214  94 173	Bône
+  0   0 232	Western Finish lakes
+  1   0 236	East Finish lakes
+  2   0 240	Central finish lakes
+  3   0 244	Storavan
+  4   0 248	Storsjon
+  5   0 232	Kara Sea
+  6   0 236	Lake geneva
+  7   0 240	Bodensee
+  8   0 244	Tuz Gola
+  9   0 248	Lake Van
+ 10   0 232	Lake Daryacheh
+ 11   0 236	Sevan Lake
+ 12   0 240	Lake Taihu
+ 13   0 244	Lake Hongze
+ 14   0 248	Dongting
+ 15   0 232	Tonie Sap Lake
+ 16   0 236	Tana lake
+ 17   0 240	Lake Turkana
+ 81 104 191	Mpangu
+ 19   0 248	Lake Poopo
+ 20   0 232	Lake Champlain
+ 21   0 236	Lac Saint Jean
+ 22   0 240	Lac Manicouagan
+ 23   0 244	Lac Michikamau
+ 24   0 248	Lac Bienville
+ 25   0 232	Lac Al Eau Claire
+ 26   0 236	Lac Minto
+ 27   0 240	La Grande Riviere
+ 28   0 244	Lake Island
+ 29   0 248	Lake Reindeer
+ 30   0 232	Wollaston Lake
+ 31   0 236	Great Slave Lake
+ 32   0 240	Lake Athabasca
+ 33   0 244	Dubawni Lake
+ 34   0 248	Yathkyed Lake
+ 35   0 232	Kasba Lake
+ 36   0 236	Nueltin Lake
+ 37   0 240	Wholdaia Lake
+ 38   0 244	Peter Pond Lake
+ 39   0 248	Great salt lake
+ 40   0 232	Williston Lake
+ 62 206 252	Greenland tip
+225 191 200	Tana
+ 62 230 252	Northern baltic sea
+ 62 218 252	Eastern baltic sea
+ 62 234 252	Western Alands sea
+ 62 210 252	Western Norwegian Sea
+237 154  79	Åland
+130  60  50	East Frisia
+ 49 150 248	Gulf of Satalia
+ 50   0 232	Bari
+251   0  36	Lucania
+ 52   0 240	Semigallia
+ 55   0   0	Kovno
+ 65   0 250	Grodno
+ 75   0  25	Wizna 
+ 85   0 225	Leczyca
+ 95   0  50	Belz
+105   0 200	Turov
+110   0  75	Zhytomyr
+115   0 175	Bratslav
+120   0 100	Cherkasy
+125   0 150	Novgorod-Seversky
+ 63   0 244	Desh
+ 64   0 248	Gingee
+ 65   0 232	Bidar
+ 66   0 236	Tirupati
+ 67   0 240	Meghalaya
+ 68   0 244	Hunyad
+ 69   0 248	Maramaros
+ 70   0 232	Szabolcs
+ 71   0 236	Torontal
+172 146 192	Kholmogory
+ 73   0 244	Suzdal
+ 74   0 248	Galich
+ 75   0 232	Kargopol
+ 76   0 236	Torzhok
+ 77   0 240	Ostrov
+ 78   0 244	Ladoga
+ 79   0 248	Kudymkar
+ 80   0 232	Cherdyn
+ 81   0 236	Ust-Sysolsk
+ 88 116 126	Buzuluk
+216 118 173	Chelyaba
+217 126 173	Khujand
+ 89 128  32	Kulob
+216 122  79	Sozak
+ 88 120  32	Syghnak
+ 88 112  32	Tsaritsyn
+216 114  79	Udmurtia
+ 88 124 126	Urgench
+215 110 173	Yedishkul
+105 225 255	Sea of Jutland
+ 93   0 244	Dead Sea
+ 94   0 248	Mälaren
+ 95   0 232	Shetlands
+ 96   0 236	Färöarnax
+136 253 253	Sea of Japan
+ 98   0 244	Bornholm
+ 99   0 248	Blekinge
+100   0 232	Lolland
+101   0 236	Nordjylland
+102 240   0	Närke
+103   0 244	New Caledonia
+104   0 248	Society Islands
+105   0 232	Rapa Nui
+106   0 236	Tonga
+107   0 240	Tuvalu
+108   0 244	Gilbert Islands
+109   0 248	Nauru
+110   0 232	Marshall Islands
+111   0 236	Wake
+112   0 240	Micronesia
+113   0 244	Palau
+114   0 248	Midway
+115   0 232	Christmas Island
+116   0 236	Cocos Island
+ 60 221 221	Qinghai Lake
+ 95 200 200	Siling Lake
+200 135 255	Galápagos Islands
+120   2 232	Ktunaxa
+125   4 236	Niitsitapi
+130   8 240	Asinaan
+135  16 244	Apsáalooke
+140  32 248	Arikara
+145  64 232	Yankton
+150 128 236	Teton
+ 55   1  80	Connecticut
+155   2 120	Shenandoah
+105   3 160	Arsigantegok
+ 75   4  40	Kennebec
+105   6 160	Natchitoches
+ 65   7  40	Nipigon
+155   8 120	Bungi
+105   9 160	Nehiyawewin
+ 55  10  40	Tsuutina
+105  11 120	Nimiipu
+155  12 160	Bannock
+ 25  13  70	Miwok
+155   5 120	Haida
+ 55  14 120	Munsee
+255  15 160	Ajiraan
+255  16  40	South Georgia
+255  17 120	Tanjore
+230  18 160	Arcot
+255  19  90	Mahur
+255  20 120	South Kanara
+255  21 160	Goa
+ 16 134 155	Morasanadu
+ 16 245 155	Malenadu
+188 164  69	Savanaur
+255 120   0	Pune
+ 81 148 103	Gulbarga
+156 172  45	Baglana
+205 119 117	Warangal
+213 157 165	Midnapore
+213 242 165	Sunderbans
+ 84 237  87	Sadiya
+ 64 189   3	Manipur
+246  92  62	Koch Hajo
+  0 225  69	Balasore
+181  16 160	Bhagalpur
+ 53 124  86	Rangpur
+193 131  23	Nasirabad
+ 85 160 133	Tirhut
+198 203 170	Garjat
+ 73  18 169	Khurda
+184  70   8	Chanda
+215 241 160	Bhavnagar
+122 234  32	Navanagar
+225 142  66	Patan
+156 201 151	Ahmadabad
+156 201 221	Gorakhpur
+156  61 221	Rewakantha
+ 75 190  64	Bhelsa
+231  98 182	Mewar
+237  96  10	Kalpi
+255 192 227	Upper Doab
+255 192   0	Katehar
+193  76 178	Panipat
+152 160 243	Etawah
+202 218 255	Shekhawati
+ 53 215 217	Batthiana
+116 145 119	Nagaur
+212  53  53	Gorwar
+ 72 225 192	Siwistan
+187 154 212	Kumaon
+123 181  72	Chaubisi Rajas
+234 189  93	Limbuwan
+ 96 229 237	Bhakkar
+154 192  44	Baltistan
+151 175 205	Ladakh
+  0  18 255	Doaba
+  0 194 255	Sialkot
+224 140 221	Margalla
+ 32 140 221	Bannu
+132 140 221	Dera Ghazi Khan
+219 108   9	Srikakulam
+142  80 134	Lakhnor
+ 17 138  94	Raipur
+205  86  82	Kosta
+193   0 241	Konaseema
+161 165 225	Tiruchirapalli
+197 225 191	Cholistan
+224 213 178	Ajmer
+ 66 156 186	Umarkot
+ 81 142  66	Chaul
+154  52 179	Rayalaseema
+145  33  11	Tripura
+170 185 212	Mahadeo
+230 190  64	Mandsaur
+ 78 155 191	Bahreich
+222  94  94	Varanasi
+210 243 194	Damin
+ 95 101 222	Baghelkhand
+148 136 138	Surguja
+193 207  44	Kandy
+195 123 121	Vanni
+186 239  22	Tirunelveli
+215 191  26	Urkan
+103 132 224	Udi
+104 136  64	Birija
+105 148 160	Kuru
+105 162  80	Furdan
+104 158 240	Ningguta
+100  98 144	Huncun
+100  90  80	Boduna
+ 99  86 240	Yehe
+199 223 102	Hetu Ala
+115 210 143	Andong
+193 133 132	Gaizhou
+106 172 160	Ereen
+107 180 224	Chahar
+108 206 240	Ih Huree
+219 224 124	Zasagt
+116 102 240	Urzhar
+114  56  64	Chuguchak
+114 115  55	Ili
+112  32  64	Kuqa
+111 244 160	Hami
+111 254 240	Qakilik
+115  78 240	Yarkand
+115  86 112	Kochkor
+155 139  47	Chuy
+115  82  80	Yashilkul
+123 184 128	Ngari
+122 174 240	Changtang
+121 152  64	Nyingchi
+196 187  21	Qamdo
+119 138 144	Markam
+118 126 240	Dege
+119 120 192	Rebgong
+118 130  80	Garze
+124 210 144	Untitled
+143  75  75	Daming
+ 86 118 240	Wuding
+145  24  24	Laizhou
+238 254 148	Yanzhou
+107 218 111	Untitled
+ 84  80 128	Huai'an
+190  53  53	Fengyang
+ 82  62 176	Fuyang
+185  51  51	Zhenjiang
+185 197  39	Ningguo
+150  42  42	Huizhou
+ 41 150  61	Shaoxin
+121  54  54	Ningbo
+ 69 102  64	Jinhua
+131 100  35	Poyang
+144  37  37	Jianning
+ 67  84 112	Tingzhou
+233 216  92	Kelang
+ 97  44  96	Middag
+146  81  81	Chaochow
+ 65  52 224	Waichow
+ 65  46 176	Shiukwan
+ 64  44 160	Leichow
+ 65  34  80	Ngaichow
+ 64  32  64	Limchow
+ 68  78  64	Ngchow
+ 67  62 128	Liuzhou
+ 67  70 192	Namning
+255 216   0	Pu'er
+ 69 205  50	Dehong
+ 75 240  74	Lijiang
+ 79 254 112	Bozhou
+149  33  33	Langzhong
+ 90 182 176	Songqu
+153  57  57	Untitled
+ 81  48  64	Jingzhou
+  0  36 255	Yuanling
+158  62  62	Hengyang
+171 198  23	Runing
+ 88 144  64	Shangqiu
+ 89 162 208	Ningwu
+ 90 172  96	Lu'an
+ 91 188 224	Yan'an
+ 79 246 240	Tianshui
+ 93 216  64	Pingliang
+ 95 236 224	Liangzhou
+ 93 222 112	Taozhou
+215 210  43	Untitled
+103 120 128	Mergen
+105 156 224	Iman
+106 164  96	Sartu
+100 102 176	Alchuka
+110 220 160	Tsetserleg
+205 158 124	Qaraqorum
+108 196 160	Ejin
+217 220  84	Korla
+ 96  42  80	Govi
+113 106  26	Kunlun
+255  18 160	Adyghe
+255  19  40	Guria
+255  25   0	Cabardia
+255 126  40	Khundzia
+255 200 150	Tarki
+243 202  12	Suleiman Range
+255  22 200	Alania
+255 223   0	Melikates
+255  23  23	Kakheti
+255 224 200	Samtskhe
+255  24  40	Nakhchivan
+255 225 120	Urmia
+255 125 200	Maragheh
+255 125 215	Terek
+255  24  90	Ilam
+187 165  22	Kirmanshah
+187 215 128	Ardalan
+ 60 143  34	Zanjan
+187 205  22	Qom
+ 81  81 192	Golestan
+187  24  90	Qazvin
+187  24 155	Semnan
+255 112  90	Yasuj
+165  72  84	Sarvestan
+ 58  88 180	Bandar Langeh
+ 81  81 255	Bam
+165  72 137	Mashhad
+ 81  81 221	Ardakan
+215  50 155	Larestan
+190  44   0	Ferah
+210 227   0	Bamyan
+ 90 187  34	Jalalabad
+208 154  12	Kunduz
+ 40  59 211	Maymana
+ 90 156  34	Bust
+129 171 129	Chakhansur
+121 210  41	Bela
+190  72  59	Kharan
+152 137  59	Western Makran
+193 215  62	Rafsanjan
+190  72  96	Sabzevar
+131 211 134	Bojnord
+160 109 157	Tekrur
+ 80  73 160	Kantor
+120  75 185	Siine 
+120 137 132	Galam
+200 111 182	Beafada
+240  69 110	Karou
+ 80 135 107	Termes
+160 139 157	Tagant
+240 113 207	Wagadu
+ 40 115 232	Baghena
+ 80 117  83	Walata
+120 119 108	Do
+160 151 133	Sibiridugu
+160  77 210	Bendugu 
+ 80  61 184	Bagoe 
+200 117 235	Lobi
+160 121 133	Gwiriko
+240 125 232	Bonoman
+ 40 127 183	Gyaaman
+ 40 139 159	Dagbon
+ 80 129 208	Denkyira
+120 131 233	Cape Coast
+160 133  84	Bara
+200  79 235	Mema
+160 115 210	Kala
+116  98 168	Karabara
+200  91 211	Haayre
+200 135 109	Hombori
+240 119  86	Liptako
+140 199 183	Bilanga
+240 137 134	Tenkodogo
+ 40  83  11	Aribanda
+200 147  85	Zarmaganda
+ 40 121  11	Dallol
+ 80 141 184	Azawagh
+160 127 186	Azbin
+120 143 209	Ader
+160 145 234	Agades
+120 125 161	Tenere
+ 80 123 136	Itesan
+240 161  86	Kawar 
+240 149 110	Kebbi 
+120 155 185	Daura
+160 157 210	Biram
+200 159 235	Rano
+ 40 151 135	Muniyo
+240 143 207	Bedde
+160  89 186	Manga
+200 129 211	Marghi
+240 131 236	Logone
+ 40 163  11	Kotoko
+ 40 133  82	Yao
+ 40  71 135	Ondo 
+240  81  86	Ijebu
+120  87 161	Ketu
+140 145 232	Moshi
+200 141 182	Yawuri
+200 153 158	Warri
+ 80 147  83	Atakora
+209  68 153	Biga
+245 152 169	Saruhan
+255 230 147	Tekke
+226 231 102	Bolu
+198  68 153	Bozok
+  0 155 175	Kayseri
+187 186 222	Icel
+167 163  54	Malatya
+157  36 128	Canik
+ 89 153  66	Erzincan
+184 183  51	Mush
+207 225 132	Van
+  0 153  75	Urfa
+132  41 144	Sinjar
+250  19  41	Tikrit
+ 51 130  63	Samawat
+242 102  96	Wasit
+181 181  52	Antioch
+ 49  11  71	Rahba
+139  22  59	Suez
+  4  24  61	Al Gharbia
+149 201  61	Minya
+157 215 209	Bahariya
+206 231 202	Manfalut
+ 62  48 146	Ras Gharib
+203 185  45	Queseer
+212 227 131	Wadi Halfa
+158 168 213	Sahra an Nubyah
+239  69 139	Halaib
+245 244 179	Tarrana
+178  31 114	Bardiyah
+154 216 222	Maan
+  0 120  91	Tayma
+101 125  54	Yanbu
+ 59  82  37	Ma'din Sulaym
+250 203 224	Jeddah
+188 228 233	Truba
+  0 124 194	Abd al-Qays
+225 224 174	Badiyat ash Sham
+  9 115 187	Dawasir
+238  16 102	Aflaj
+255  21 245	Buraydah
+201  24 126	Hafar
+157  34 114	Yabrin
+ 91   4  48	Grane
+213 231 178	Sharqiyah
+ 56  16  31	Wusta
+117  18  67	Hadramawt
+210  25 111	Marib
+240 238 129	Beihan
+252 183 112	Jazan
+  0 120  94	Hofuf
+108 157  64	Chios
+ 71 208  47	Kizil-Su
+151  50 205	Konjikala
+169 158  86	Shekty
+103 104 152	Alty-Kuduk
+ 57 202  53	Tortkara
+155 167  88	Shegendyk
+189 174  66	Narym
+ 39 216 132	Shymkent
+211 106  44	Aksary
+179 181  74	Altyn
+ 69 186 122	Baganaly
+ 68  40 113	Tobykty
+ 23 130  61	Dzhaman-Kuduk
+168 175  18	Gurganj
+145  49  49	Atakent
+193 255 128	Talas
+183 191  72	Orda
+179 165  85	Utva
+ 88 175 171	Lower Yik
+135 100 164	Karamegdan
+175  88 119	Lower Ishim
+108 130 155	Kungirot
+127   0   0	Song La
+  0  38 255	Hai Phong
+137  76  72	Hue
+ 53 204 105	Kauthara
+244 127  25	Rhade
+225 191   0	Prek Russey
+ 82 199  61	Teuk Khmao
+255   0 110	Kratie
+  0 148 255	Battambang
+190  35 195	Phnom Penh
+ 34  65  11	Luang Namtha
+154  12  26	Savanh Nakhone
+127  31  12	Khukhanor Surin
+ 17  79 170	Nong Khai
+ 42 127 127	Nongbua Lamphu
+ 91 112   0	Chaiyaphum
+ 71  64 128	Phetchaburi
+ 32  38 255	Phitsanulok
+213 130 225	Phra Bang
+202  66 152	Chaiya
+211  44  63	Thalang
+135  98 114	Selangor
+ 44 142  85	Terengganu
+ 92 175  36	Kedah
+ 32 124  32	Hkamti Long
+255 117 154	Mong Kawng
+141 255 107	Tamanthi
+ 53 168 141	Thaungdut
+255 242 109	Pagan
+255 160  58	Hsipaw
+255 163 137	Yawnghwe
+137 255 104	Sandoway
+255  92  71	Martaban
+ 97 198  71	Mergui
+ 54  91  72	Bendery
+151  78 142	Ingil
+ 89  70 120	Pereyaslav
+211 223  69	Lipetsk
+202  43 139	Bahmut
+153 230 204	Theodoro
+179 204 153	Mansur
+122 143 170	Kyzyl-Yar
+ 70  70 122	Tyn
+116  74 122	Azaraba
+ 60  44 114	Etkara
+ 66  75 120	Majar
+182  25  40	Kuma
+ 85  58 215	Ukek
+171 208 192	Kanadey
+247  22  12	Agyidel
+ 45  31  18	Juketau
+163  72  18	Veda-Suvar
+163 189  18	Alatyr
+151 186 110	Peremyshl
+ 89  61  78	Naryan-Mar
+ 34  74 126	Yamal
+166  83  32	Ostyaki
+153 102  93	Yugan
+ 63 102  93	Agan
+ 88 198  79	Baykha
+172 201 135	Uchamin
+162 183  79	Chulym
+170 202 126	Vah
+ 63 134 173	Barnaul
+ 34  80  89	Nukhtui
+ 34  43  58	Chuna
+154 175  58	Seganka
+ 34  74  58	Kharya
+173 104  32	Yarmanka
+173  66  32	Kagyrgyn
+ 72 130  79	Iglino
+ 72  28  79	Ust-Kut
+ 47 122 167	Kan
+164  48  70	Bashgird
+166 144  32	Mangazea
+148  47  32	Chara
+228  43  43	Mantrega
+144  31 145	Fezzan
+ 81 144  95	Jufra
+207 131  46	Ghadames
+ 39  31 246	Thubaqt
+165  31 196	Zuwarah
+102  12 145	Sfax
+228 231  95	Kairouan
+ 60 161  46	Bizerte
+186 131 246	Touggourt
+123  51 196	Mzab
+249 249 145	Hodna
+ 21   1  95	Titteri
+147 151  46	Saoura
+ 84 131 246	Dahra
+210  11 196	Ouarsenis
+ 42  12 145	Kasdir
+168 151  95	Ouarzazate
+105 109  46	Oujda
+231  15 246	Draa
+ 63 119 196	Meknes
+189 221 145	Tadla
+126   1  95	Dukkala
+252  31  46	Haha
+  1 246 246	Chott el-Jerid
+252 131  46	Ouargla
+189 121 145	Souss
+148 133  60	Tajarhi
+ 37 133 180	Djado
+  1   0 145	Kumeyaay
+127  20 145	Yuki
+ 64 119 246	Tachi
+190 100 196	Maidu
+ 22  32 145	Shasta
+148 161  95	Klamath
+ 85  91  46	Kalapuya
+211  31 246	Umatilla
+ 43  51 196	Quileute
+169   2 145	Chehalis
+106  12  95	Yakima
+232 201  46	Spokane
+  4  51 246	Palus
+130 130 196	Bohogue
+ 67 201 145	Goshute
+193 139  95	Hualapai
+ 25 191  46	Chiricahua
+151 161 246	Hopi
+ 88  38 196	Zuni
+214 231 145	Acoma
+ 46 231  95	Jicarilla
+172 191  46	Lipiyanes
+109  41 246	Jumao
+235 152 196	Coahuilteco
+  7 131 145	Querecho
+133 231  95	Piegan
+ 70 161  46	Haaninin
+196  31 246	Ashshipite
+ 28 171 196	Eelalapito
+154 243 145	Tsitsistas
+ 91   2  95	Kuccuntikka
+217 131  46	Baachinena
+ 49 141 246	Skiri
+175  43 196	Utsehta
+112 164 145	Mandan
+238 244  95	Itscheabine
+ 10 121  46	Wahpekute
+136 158 246	Moingwena
+ 73 112 196	Michigamea
+199 232 145	Satuskhdin
+ 31  64  95	Adai
+157 164  46	Mdewakanton
+ 94  48 246	Noquet
+220  44 196	Kilatika
+ 52 183 145	Mengkonkia
+178   3  95	Okouara
+115 141  46	Mascouten
+241 101 246	Piankeshaw
+ 13  31 196	Wabash
+139  11 145	Chillicothe
+ 76   1  95	Shatteras
+202 202  46	Chickamauga
+ 34 122 246	Yazoo
+160 221 196	Natchez
+ 97  12 145	Biloxi
+223 132  95	Napochi
+ 55 131  46	Tohome
+181 201 246	Chatot
+118 131 196	Yustaga
+244 231 145	Calusa
+ 16  19  95	Mayaimi
+142  31  46	Hitchiti
+ 79 131 246	Yamasee
+205   1 196	Mocama
+ 37   6 145	Coweta
+163 191  95	Saluda
+100   3  46	Cusabo
+226  41 246	Waccamaw
+ 58   1 196	Yadkin
+184  31 145	Waxhaw
+121 161  95	Chicora
+247 131  46	Roanoke
+ 19 131 246	Tutelo
+145 255 196	Moratok
+ 82  31 145	Doeg
+208 199  95	Monongahela
+ 40  61  46	Manahoac
+166  31 246	Potomac
+103  21 196	Nanticoke
+229  31 145	Honniasont
+ 61  31  95	Juniata
+187 222  46	Atrakwaye
+124 131 246	Espachomy
+250 141 196	Adirondack
+  2 131 145	Quinnipiac
+128 181  95	Wampanoag
+ 65 133  46	Pennacook
+191 123 246	Missiquoi
+ 23  31 196	Sokoki
+149 122 145	Kennebec
+ 86 141  95	Passamaquoddy
+212 215  46	Aroostook
+ 44 131 246	Kespukwitk
+170  31 196	Eskikewakik
+107  31 145	Wolystoq
+233 111  95	Madawaska
+  5 202  46	Siknikt
+131 101 246	Placentia
+ 68   1 196	Sikumiut
+194 214 145	Naskapi
+ 26   3  95	Mingan
+152   1  46	Manicouagan
+ 89 121 246	Anticosti
+215   2 196	Piekougami
+ 47   1 145	Atikamekw
+173 199  95	Timiskaming
+110   1  46	Maliseet
+236  51 246	Etchemins
+  8 121 196	Loup
+134  31 145	Kichesipi
+ 71 194  95	Tionontate
+197 197  46	Odawa
+ 29  41 246	Piscatang
+155  31 196	Kesagami
+ 92  45 145	Shaggami
+218  26  95	Outoulibi
+ 50 131  46	Omushkego
+221 144 246	Wappus
+176 181 246	Quenebigon
+113 131 196	Kesyehotinne
+239  18 145	Mahmikiwiniyak
+ 11  51  95	Sipiwininiwak
+137  28  46	Hebina
+ 74  15 246	Athabasca
+200  31 196	Nihithawak
+ 32  64 145	Danezaa
+158 114  95	Siksikawa
+ 95 122  46	Sekani
+ 53 131 196	Dakelh
+179 219 145	Secwepemc
+116   3  95	Tsilhoqotin
+242 255  46	Okanagan
+ 14 130 246	Rocky Mountains
+140 131 196	Nisga'a
+ 77 132 145	Heiltsuk
+203  41  95	Kodiak
+ 35 221  46	Eyak
+161 131 246	Sitka
+ 98  31 196	Cotoname
+224  44 145	Guamares
+ 56  31  95	Seri
+182 201  46	Huichol
+119 154 246	Toboso
+245  31 196	Laguneros
+ 17 131 145	Nakipa
+143  19  95	Tizapan
+ 80  31  46	Cuitzeo
+206 154 246	Cutzamala
+ 38  44 196	Patzcuaro
+164  12 145	Hinonoeino
+101  31  95	Tulucan
+227 201  46	Cihuatlan
+ 59 132 246	Tepeacac
+185 227 196	Coyolapan
+122 232 145	Tochtepec
+248 248  95	Zaachila
+ 20 131  46	Untitled
+146 146 246	Mani
+ 83 119 196	Uaymil
+209 219 145	Chiapas
+ 41  15  95	Chacujal
+167  37  46	Chortli
+104 124 246	Untitled
+230  31 196	Raritan
+104  54 246	Lenca
+240  31 196	Tziccoac
+ 62  45 145	Metztitlan
+188 191  95	Apatzingan
+125  31  46	Cholula
+251 188 246	Teloloapan
+  3  31 196	Coixtlahuacan
+129  31 145	Cuetlaxtlan
+ 66  13  95	Yopitzinco
+192 201  46	Tehuantepec
+ 25  31 246	Champutun
+150 231 196	Ah Canul
+ 87  31 145	Ecab
+213 213  95	Iximché
+ 45 131  46	Baracoa
+171  31 246	Bayamo
+108  31 196	Camaguey
+234  31 145	Colima
+  6  15  95	Maguana
+132  16  46	Magua "x 	"
+ 69  31 246	Managua
+195  31 196	Uluas
+ 27 141 145	Olancho
+153  31  95	Nicoya
+ 90  31  46	Veraguas
+216  31 246	Ais
+ 48  31 196	Tuintsundé
+174 231 145	Cacaxtes
+111  31  95	Borrado
+237  31  46	Hasinai
+111  61  95	Tkaronto
+237 231  46	Missisage
+192 101  46	Kitkehaki
+ 51 255  40	Pasai
+ 60 214  57	Peureulak
+ 29  38 119	Rokan
+150 146 184	Indragiri
+ 48  55 127	Jambi
+214 113 131	Bangka
+ 21 117 104	Belitung
+ 55 130  71	Muko-Muko
+ 76 118 155	Pagarruyung
+ 92  59 239	Pariaman
+130  64  29	Mentawai
+ 79 130 125	Nias
+237  46  40	Gayo
+ 44 214  56	Bintan
+216  49 158	Pakuan
+130  85 130	Cirebon
+198  98  83	Kendal
+165 116 117	Pajang
+216  58  34	Kediri
+216  67 201	Madura
+104  16  91	Lombok
+136 210 148	East Gangwon
+107  66 100	East Timor
+181  45  81	Yamdena
+163  70  58	Tondo
+163 207  58	Pangasinan
+255  75  66	Bikol
+197 255  53	Panay
+219 211 164	Tagloc
+ 65 219  88	Butuan
+104 158  82	Lehad Datu
+132  76 108	Sibu
+131 183 111	Kuching
+255  61 138	Katapang
+234  86  86	Barito
+255 107  28	Sampit
+196 102 196	Tarakan
+ 87 204  89	Berau
+105 135 119	Bulungan
+175  65 144	Samarinda
+255 228  94	Gorontalo
+255  89 185	Palu
+127 150 255	Palopo
+137 255 124	Buton
+201 219  43	Sula
+241 207 129	Fak-Fak
+119 128  17	Madang
+ 82 206 171	Lae
+131 198 119	Kerema
+178 198  73	Daru
+ 33 198 152	Yos Sudarso
+221 212 104	Asmat
+124  63  62	Aru
+147 120  31	Malgana
+255 141  71	Minang
+ 93 107  37	Tiwi
+255 102  79	Yolngu
+ 38 104 109	Awngthim
+ 53 255  77	Guugu Yimithirr
+ 45 107  40	Wulgurukaba
+255 101  63	Baiali
+170  83 124	Yuin
+ 32  82 163	Gunditjmara
+253 255 158	Nukunu
+124  56   0	Ahuriri
+186 139   0	Waitaha
+152  83 186	Kirikiriroa
+249 177 179	Borneo
+138  58  45	Jeju
+162  64 128	Yukjin
+209 139 185	Gyeongseong
+122  48  97	Nyeongbyeon
+134  53 105	West Gyeongsang
+213  38  84	Vidin
+106 186  80	Khara Narin Ula
+ 80  32 128	Jianchang
+ 37 208 234	Tikhvin
+234 227 107	Plovdiv
+ 68 230 179	Cuenca
+  3 196 128	Romsdal
+188  67  67	Narbonne
+231  35 179	La Mancha
+ 68   8 179	Soria
+166  56 206	Welayta
+ 86 116  66	Kaffa
+ 46 186 146	Illubabor
+116 166 116	Gambela
+126 216  46	Hadiya
+134  44 124	Arsi
+120  55 111	Damot
+ 48 148 218	Asosa
+ 26 216 116	Ausa
+146  66 126	Assab
+186  46 176	Mendefera
+ 82 128 128	Enderta
+198  74 105	Angot
+193  91  31	Lasta
+ 58 147 124	Agew
+ 71 100 145	Semien
+145 101   5	Dembiya
+151 190 194	Mora
+ 93 188  84	Kismayo
+204  79  98	Merca
+ 89 155 254	Afgooye
+ 89 124  82	Bardera
+178  66 140	Warder
+183 255 142	Afder
+219 174  92	Beledweyne
+ 89 138  43	Gedo
+206 152  45	Warsheikh
+155 170  68	Hobyo
+142 151 215	Galkayo
+255 153 153	El Buur
+ 86 100 255	Bosaso
+201 151  89	Hamasien
+201 201  89	Hafun
+194 170 163	Las Khorey
+194  89 105	Sanaag
+126 107 255	Ankober
+211 163  46	Togdheer
+ 97 209  85	Hargeisa
+206 145  88	Barawa
+206 101  70	Meregh
+183 132 255	Pate
+200 122 110	Shendy
+160 160  88	Soba
+ 48  97  59	Sennar
+167 174 136	Kosti
+ 47 174  78	Medwa
+137  75 113	Kobbe
+194 235   0	Delta
+114 125 229	Guasipati
+ 27 143  57	Uyapari
+208 224 161	Riohacha
+ 31 196 124	Altagracia
+212 203 165	Coro
+193 104 146	Llanos
+184 224 133	Apure
+196 122 203	Atabapo
+ 39 189  75	Pore
+ 68  93 174	Merida
+ 66 225 110	Meta
+147 198 249	Puerto Carreno
+232 144 132	Guavire
+215 227  10	Nieva
+215  34  10	Popayan
+205 227 166	Darien
+210  55  24	Esmeraldas
+203  13 178	Piwra
+203 230 178	Tucume
+162  29 132	Moyomba
+ 26 229  50	Wankapampa
+208 231  17	Pisqupampa
+227  10  66	Chimbote
+234 182 195	Huaraz
+155  76  12	Camana
+212 200 121	Ayaviri
+212  54 121	Quero
+129 170 176	Tiahuanaco
+ 53 203   7	Exaltacion
+203  28  28	Madre de Dios
+229 187 219	Santa Cruz de la Sierra
+227 205 162	Sucre
+121 191 224	Tucuman
+164 195 139	Santa Catalina
+203  49  78	Tarija
+223 236 112	Puna de Atacama
+192 102 234	Calama
+ 87 166 169	Antofagasta
+ 74   6 176	Santiago del Estero
+115 227 215	La Rioja
+207  88  96	Chepes
+220 218  83	San Juan
+201  29 167	Quisquisacate
+ 61 225  80	San Luis
+112 183   0	Santa Fe
+195 231 140	Rosario
+238  42  55	Montevideo
+217  40 128	Colonia
+102  64 154	Salto
+239 193 128	Yareyu
+ 39  54 255	Chaco Central
+175 213 219	Misiones
+ 80 211 231	Highveld
+131 154 204	Rio Grande do Sul
+138 169  13	Santiago (Misiones)
+243 235 206	Itapua
+179  64  89	Querandi
+130 104 224	Sauce
+ 28  77 217	Coquimbo
+220 131  82	Rio Negro
+ 16  91  52	Senqu
+196 165  91	Puelches
+234  27  27	Olavarria
+154  92  25	Chanar
+201  74  24	Bahia Blanca
+225 248  32	Florida Blanca
+198  12 148	Tehuelmapu
+162  91  52	Poya
+ 94  52 213	Chiquiyami
+141 225  31	Chiloe
+ 27 159 129	Aysen
+179 101 229	Chubut
+ 58 117 171	Teush
+ 97  56 208	Mendoza
+191  40 143	Matara
+  9 140 159	Santa Tecla
+164 234  53	Griqualand
+124  22 150	Corumba
+140 215  23	Fuerte Borbon
+ 73 105  12	Melodia
+239  33  57	Povos das Missoes
+237  42  10	Barra
+219  26  16	Parnaiba
+ 13 172  47	Santa Catarina
+ 60  68 219	Cuiaba
+101 200  35	Rio Branco
+184  44 219	Marajo
+177 115  49	Santa Ana das Minas
+108  80 213	Araxas
+108 140  23	Ofaie
+ 51  88 196	Sao Joao del Rei
+ 50 191 200	Castro
+234  61  69	Campinas
+116 224 158	Araraquara
+237  44   0	Serro
+232 197  34	Vila Rica
+213  84  63	Guapore
+219 210 106	Cerejeiras
+ 30  80 222	Vila Bela
+225  47   5	Caceres Mato Grosso
+198 166  54	Diamantino
+227  31  59	Rio Das Mortes
+219  44  97	Ipora
+ 31 236  55	Vila Boa
+231 147 101	Formosa
+ 56 203  20	Conceicao
+220 138  41	Pontal
+ 83  46 201	Natividad
+232 205 202	Sergipe
+208  20 175	Jeremoabo
+ 62  16 191	Inhambupe
+133 105 215	Pambu
+200 153  63	Rio Contas
+ 81 145  18	Paratinga
+239 221  25	Campo Largo
+128 188  22	Luziana
+241 204 106	Coxim
+217 232 114	Alegoas
+ 21 102 201	Borborema
+218 229  92	Pastos Bons
+ 94 145 166	Timon
+ 49 196 123	Parnagua
+ 52 123  87	Grajau
+200 160  82	Alcantara
+229  22  80	Tucurui
+166  19  60	Para
+239 225 105	Santarem
+ 44 225  91	Pirara
+ 44  72 166	Waddai
+ 43 143 201	Faro
+222 176  35	Manaus
+239  49 105	Muturu
+ 72  80  35	Guyana
+225  45  45	Suriname
+236 171  15	Oiapoque
+236  78   0	Zaraza
+167 186  36	Chichas (Tupiza)
+ 12 149 188	Choquechaca (Caracaras)
+ 31 124  26	Charcas
+ 45 116  57	Chachapoyas
+219  84  58	Ucayali
+121 162 208	Yurimaguas
+ 42  72 201	Quillacas
+ 68 225  26	Macaya
+196 104 191	Matamba
+ 72 198  51	Mbata
+ 32 218 173	Buhera
+236  57 116	Manikya
+236 220 116	Madanda
+236 222 116	Hjälmaren
+ 29  59 159	Djerba
+107 121 191	Ingolstadt
+224 134  54	Straubing
+ 70 224  54	Regensburg
+239  33  81	Osterode
+255 133  59	Tarnow
+ 61 201 123	Sadecki
+241 249  20	Lwow
+208 213  71	Rowne
+ 85 232 161	Notec/Bydgoszcz
+ 75 169 217	Altmark
+ 52 253  37	Vogtland
+243   1  69	Glogau
+ 32 251 212	Eger
+ 88 163 215	Budejovice
+121 225 101	Sternberg
+255 239 163	Hradekco
+231 154   5	Hoya
+249 240   1	Paderborn
+255 162  53	Meppen
+248  19  19	Loon
+ 42 231 108	Kleves
+205  23  23	Umbria
+248 231 136	Urbino
+ 99 204 234	Arezzo
+192 219  10	Novara
+241  15  15	Lucca
+222 108  69	Asti
+227 135  53	Syracuse
+150 159  47	Salerno
+206 227 169	Costenza
+223 236  73	Capitanata
+ 55 246  23	Cagliari
+220 251  47	Urgell
+232  11  11	Tarragona
+200  58  78	Rioja
+181 150  96	Teruel
+243  21 172	Draguignan
+ 91 125 222	Albenga
+136  48 142	Stargard
+248 245 157	Greifswald
+234 228 174	Stolp
+229 171  33	Wismar
+ 34  25 232	Pomerelia
+ 48 193 191	Bucaresti
+255  90 203	Hormuz
+231 176  70	Nis
+232   5   5	Skopje
+134 198 192	Sarajevo
+188 110 220	Euboea
+189 110 220	Unused1 
+190 110 220	Unused2 
+191 110 220	Unused3 
+192 110 220	Unused4 
+193 110 220	Unused5 
+194 110 220	Unused6 
+195 110 220	Unused7 
+196 110 220	Unused8 
+197 110 220	Unused9 
+199 110 220	Unused10 
+200 110 220	Unused11 
+201 110 220	Unused12 
+202 110 220	Unused13 
+203 110 220	Unused14 
+204 110 220	Unused15 
+205 110 220	Unused16 
+206 110 220	Unused17 
+207 110 220	Unused18 
+207 110 221	Unused19 
+207 110 222	Unused20 
+207 110 223	Unused11 
+207 110 224	Unused12 
+207 110 225	Unused13 
+207 110 226	Unused14 
+207 110 227	Unused15 
+207 110 228	Unused16 
+207 110 229	Unused17 
+207 110 230	Unused18 
+207 110 231	Unused19 
+207 110 232	Unused20 
+207 110 233	Unused21 
+207 110 234	Unused22 
+207 110 235	Unused23 
+207 110 236	Unused24 
+207 110 237	Unused25 
+207 110 238	Unused26 
+207 110 239	Unused27 
+207 110 240	Unused28 
+207 110 241	Unused29 
+207 110 242	Unused30 
+207 110 243	Unused31 
+207 110 244	Unused32 
+207 110 245	Unused33 
+207 110 246	Unused34 
+207 110 247	Unused35 
+207 110 248	Unused36 
+207 110 249	Unused37 
+207 110 250	Unused38 
+208 110   1	Unused39 
+207 110   2	Unused40 
+207 110   3	Unused41 
+207 110   4	Unused42 
+207 110   5	Unused43 
+207 110   6	Unused44 
+207 110   7	Unused45 
+207 110   8	Unused46 
+207 110   9	Unused47 
+207 110  10	Unused48 
+207 110  11	Unused49 
+207 110  12	Unused50 
+207 110  13	Unused51 
+207 110  14	Unused52 
+207 110  15	Unused53 
+207 110  16	Unused54 
+207 110  17	Unused55 
+207 110  18	Unused56 
+207 110  19	Unused57 
+207 110  20	Unused58 
+207 110  21	Unused59 
+207 110  22	Unused60 
+207 110  23	Unused61 
+207 110  24	Unused62 
+207 110  25	Unused63 
+207 110  26	Unused64 
+207 110  27	Unused65 
+207 110  28	Unused66 
+207 110  29	Unused67 
+207 110  30	Unused68 
+207 110  31	Unused69 
+207 110  32	Unused70 
+207 110  33	Unused71 
+207 110  34	Unused72 
+207 110  35	Unused73 
+207 110  36	Unused74 
+207 110  37	Unused75 
+207 110  38	Unused76 
+207 110  39	Unused77 
+207 110  40	Unused78 
+207 110  41	Unused79 
+207 110  42	Unused80 
+207 110  43	Unused81 
+207 110  44	Unused82 
+207 110  45	Unused83 
+207 110  46	Unused84 
+207 110  47	Unused85 
+207 110  48	Unused86 
+207 110  49	Unused87 
+207 110  50	Unused88 
+207 110  51	Unused89 
+207 110  52	Unused90 
+207 110  53	Unused91 
+207 110  54	Unused92 
+207 110  55	Unused93 
+207 110  56	Unused94 
+207 110  57	Unused95 
+207 110  58	Unused96 
+207 110  59	Unused97 
+207 110  60	Unused98 
+207 110  61	Unused99 
+207 110  62	Unused100 
+207 110  63	Unused101 
+207 110  64	Unused102 
+207 110  65	Unused103 
+207 110  66	Unused104 
+207 110  67	Unused105 
+207 110  68	Unused106 
+207 110  69	Unused107 
+207 110  70	Unused108 
+207 110  71	Unused109 
+207 110  72	Unused110 
+207 110  73	Unused111 
+207 110  74	Unused112 
+207 110  75	Unused113 
+207 110  76	Unused114 
+207 110  77	Unused115 
+207 110  78	Unused116 
+207 110  79	Unused117 
+207 110  80	Unused118 
+207 110  81	Unused119 
+207 110  82	Unused120 
+207 110  83	Unused121 
+207 110  84	Unused122 
+207 110  85	Unused123 
+207 110  86	Unused124 
+207 110  87	Unused125 
+207 110  88	Unused126 
+207 110  89	Unused127 
+207 110  90	Unused128 
+207 110  91	Unused129 
+207 110  92	Unused130 
+207 110  93	Unused131 
+207 110  94	Unused132 
+207 110  95	Unused133 
+207 110  96	Unused134 
+207 110  97	Unused135 
+207 110  98	Unused136 
+207 110  99	Unused137 
+207 110 100	Unused138 
+207 110 101	Unused139 
+207 110 102	Unused140 
+207 110 103	Unused141 
+207 110 104	Unused142 
+207 110 105	Unused143 
+207 110 106	Unused144 
+207 110 107	Unused145 
+207 110 108	Unused146 
+207 110 109	Unused147 
+207 110 110	Unused148 
+207 110 111	Unused149 
+207 110 112	Unused150 
+207 110 113	Unused151 
+207 110 114	Unused152 
+207 110 115	Unused153 
+207 110 116	Unused154 
+207 110 117	Unused155 
+207 110 118	Unused156 
+207 110 119	Unused157 
+207 110 120	Unused158 
+207 110 121	Unused159 
+207 110 122	Unused160 
+207 110 123	Unused161 
+207 110 124	Unused162 
+207 110 125	Unused163 
+207 110 126	Unused164 
+207 110 127	Unused165 
+207 110 128	Unused166 
+207 110 129	Unused167 
+207 140 130	Unused168 
+207 140 131	Unused169 
+207 140 132	Unused170 
+207 140 133	Unused171 
+207 140 134	Unused172 
+207 140 135	Unused173 
+207 140 136	Unused174 
+207 140 137	Unused175 
+207 140 138	Unused176 
+219  32   0	UnusedLand0 
+219  32   1	UnusedLand1 
+219  32   2	UnusedLand2 
+219  32   3	UnusedLand3 
+219  32   4	UnusedLand4 
+219  32   5	UnusedLand5 
+219  32   6	UnusedLand6 
+219  32   7	UnusedLand7 
+219  32   8	UnusedLand8 
+219  32   9	UnusedLand9 
+219  32  10	UnusedLand10 
+219  32  11	UnusedLand11 
+219  32  12	UnusedLand12 
+219  32  13	UnusedLand13 
+219  32  14	UnusedLand14 
+219  32  15	UnusedLand15 
+219  32  16	UnusedLand16 
+219  32  17	UnusedLand17 
+219  32  18	UnusedLand18 
+219  32  19	UnusedLand19 
+219  32  20	UnusedLand20 
+219  32  21	UnusedLand21 
+219  32  22	UnusedLand22 
+219  32  23	UnusedLand23 
+219  32  24	UnusedLand24 
+219  32  25	UnusedLand25 
+219  32  26	UnusedLand26 
+219  32  27	UnusedLand27 
+219  32  28	UnusedLand28 
+219  32  29	UnusedLand29 
+219  32  30	UnusedLand30 
+219  32  31	UnusedLand31 
+219  32  32	UnusedLand32 
+219  32  33	UnusedLand33 
+219  32  34	UnusedLand34 
+219  32  35	UnusedLand35 
+219  32  36	UnusedLand36 
+219  32  37	UnusedLand37 
+219  32  38	UnusedLand38 
+219  32  39	UnusedLand39 
+219  32  40	UnusedLand40 
+219  32  41	UnusedLand41 
+219  32  42	UnusedLand42 
+219  32  43	UnusedLand43 
+219  32  44	UnusedLand44 
+219  32  45	UnusedLand45 
+219  32  46	UnusedLand46 
+219  32  47	UnusedLand47 
+219  32  48	UnusedLand48 
+219  32  49	UnusedLand49 
+219  32  50	UnusedLand50 
+219  32  51	UnusedLand51 
+219  32  52	UnusedLand52 
+219  32  53	UnusedLand53 
+219  32  54	UnusedLand54 
+219  32  55	UnusedLand55 
+219  32  56	UnusedLand56 
+219  32  57	UnusedLand57 
+219  32  58	UnusedLand58 
+219  32  59	UnusedLand59 
+219  32  60	UnusedLand60 
+219  32  61	UnusedLand61 
+219  32  62	UnusedLand62 
+219  32  63	UnusedLand63 
+219  32  64	UnusedLand64 
+219  32  65	UnusedLand65 
+219  32  66	UnusedLand66 
+219  32  67	UnusedLand67 
+219  32  68	UnusedLand68 
+219  32  69	UnusedLand69 
+219  32  70	UnusedLand70 
+219  32  71	UnusedLand71 
+219  32  72	UnusedLand72 
+219  32  73	UnusedLand73 
+219  32  74	UnusedLand74 
+219  32  75	UnusedLand75 
+219  32  76	UnusedLand76 
+219  32  77	UnusedLand77 
+219  32  78	UnusedLand78 
+219  32  79	UnusedLand79 
+219  32  80	UnusedLand80 
+219  32  81	UnusedLand81 
+219  32  82	UnusedLand82 
+219  32  83	UnusedLand83 
+219  32  84	UnusedLand84 
+219  32  85	UnusedLand85 
+219  32  86	UnusedLand86 
+219  32  87	UnusedLand87 
+219  32  88	UnusedLand88 
+219  32  89	UnusedLand89 
+219  32  90	UnusedLand90 
+219  32  91	UnusedLand91 
+219  32  92	UnusedLand92 
+219  32  93	UnusedLand93 
+219  32  94	UnusedLand94 
+219  32  95	UnusedLand95 
+219  32  96	UnusedLand96 
+219  32  97	UnusedLand97 
+219  32  98	UnusedLand98 
+219  32  99	UnusedLand99 
+219  32 100	UnusedLand100 
+219  32 101	UnusedLand101 
+219  32 102	UnusedLand102 
+219  32 103	UnusedLand103 
+219  32 104	UnusedLand104 
+219  32 105	UnusedLand105 
+219  32 106	UnusedLand106 
+219  32 107	UnusedLand107 
+219  32 108	UnusedLand108 
+219  32 109	UnusedLand109 
+219  32 110	UnusedLand110 
+219  32 111	UnusedLand111 
+219  32 112	UnusedLand112 
+219  32 113	UnusedLand113 
+219  32 114	UnusedLand114 
+219  32 115	UnusedLand115 
+219  32 116	UnusedLand116 
+219  32 117	UnusedLand117 
+219  32 118	UnusedLand118 
+219  32 119	UnusedLand119 
+219  32 120	UnusedLand120 
+219  32 121	UnusedLand121 
+219  32 122	UnusedLand122 
+219  32 123	UnusedLand123 
+219  32 124	UnusedLand124 
+219  32 125	UnusedLand125 
+219  32 126	UnusedLand126 
+219  32 127	UnusedLand127 
+219  32 128	UnusedLand128 
+219  32 129	UnusedLand129 
+219  32 130	UnusedLand130 
+219  32 131	UnusedLand131 
+219  32 132	UnusedLand132 
+219  32 133	UnusedLand133 
+219  32 134	UnusedLand134 
+219  32 135	UnusedLand135 
+219  32 136	UnusedLand136 
+219  32 137	UnusedLand137 
+219  32 138	UnusedLand138 
+219  32 139	UnusedLand139 
+219  32 140	UnusedLand140 
+219  32 141	UnusedLand141 
+219  32 142	UnusedLand142 
+219  32 143	UnusedLand143 
+219  32 144	UnusedLand144 
+219  32 145	UnusedLand145 
+219  32 146	UnusedLand146 
+219  32 147	UnusedLand147 
+219  32 148	UnusedLand148 
+219  32 149	UnusedLand149 
+219  32 150	UnusedLand150 
+219  32 151	UnusedLand151 
+219  32 152	UnusedLand152 
+219  32 153	UnusedLand153 
+219  32 154	UnusedLand154 
+219  32 155	UnusedLand155 
+219  32 156	UnusedLand156 
+219  32 157	UnusedLand157 
+219  32 158	UnusedLand158 
+219  32 159	UnusedLand159 
+219  32 160	UnusedLand160 
+219  32 161	UnusedLand161 
+219  32 162	UnusedLand162 
+219  32 163	UnusedLand163 
+219  32 164	UnusedLand164 
+219  32 165	UnusedLand165 
+219  32 166	UnusedLand166 
+219  32 167	UnusedLand167 
+219  32 168	UnusedLand168 
+219  32 169	UnusedLand169 
+219  32 170	UnusedLand170 
+219  32 171	UnusedLand171 
+219  32 172	UnusedLand172 
+219  32 173	UnusedLand173 
+219  32 174	UnusedLand174 
+219  32 175	UnusedLand175 
+219  32 176	UnusedLand176 
+219  32 177	UnusedLand177 
+219  32 178	UnusedLand178 
+219  32 179	UnusedLand179 
+219  32 180	UnusedLand180 
+219  32 181	UnusedLand181 
+219  32 182	UnusedLand182 
+219  32 183	UnusedLand183 
+219  32 184	UnusedLand184 
+219  32 185	UnusedLand185 
+219  32 186	UnusedLand186 
+219  32 187	UnusedLand187 
+219  32 188	UnusedLand188 
+219  32 189	UnusedLand189 
+219  32 190	UnusedLand190 
+219  32 191	UnusedLand191 
+219  32 192	UnusedLand192 
+219  32 193	UnusedLand193 
+219  32 194	UnusedLand194 
+219  32 195	UnusedLand195 
+219  32 196	UnusedLand196 
+219  32 197	UnusedLand197 
+219  32 198	UnusedLand198 
+219  32 199	UnusedLand199 
+219  32 200	UnusedLand200 
+219  32 201	UnusedLand201 
+219  32 202	UnusedLand202 
+219  32 203	UnusedLand203 
+219  32 204	UnusedLand204 
+219  32 205	UnusedLand205 
+219  32 206	UnusedLand206 
+219  32 207	UnusedLand207 
+219  32 208	UnusedLand208 
+219  32 209	UnusedLand209 
+219  32 210	UnusedLand210 
+219  32 211	UnusedLand211 
+219  32 212	UnusedLand212 
+219  32 213	UnusedLand213 
+219  32 214	UnusedLand214 
+219  32 215	UnusedLand215 
+219  32 216	UnusedLand216 
+219  32 217	UnusedLand217 
+219  32 218	UnusedLand218 
+219  32 219	UnusedLand219 
+219  32 220	UnusedLand220 
+219  32 221	UnusedLand221 
+219  32 222	UnusedLand222 
+219  32 223	UnusedLand223 
+219  32 224	UnusedLand224 
+219  32 225	UnusedLand225 
+219  32 226	UnusedLand226 
+219  32 227	UnusedLand227 
+219  32 228	UnusedLand228 
+219  32 229	UnusedLand229 
+219  23 120	RNW 
+219  23 121	RNW 
+219  23 122	RNW 
+219  23 123	RNW 
+219  23 124	RNW 
+219  23 125	RNW 
+219  23 126	RNW 
+219  23 127	RNW 
+219  23 128	RNW 
+219  23 129	RNW 
+219  23 130	RNW 
+219  23 131	RNW 
+219  23 132	RNW 
+219  23 133	RNW 
+219  23 134	RNW 
+219  23 135	RNW 
+219  23 136	RNW 
+219  23 137	RNW 
+219  23 138	RNW 
+219  23 139	RNW 
+219  23 140	RNW 
+219  23 141	RNW 
+219  23 142	RNW 
+219  23 143	RNW 
+219  23 144	RNW 
+219  23 145	RNW 
+219  23 146	RNW 
+219  23 147	RNW 
+219  23 148	RNW 
+219  23 149	RNW 
+219  23 150	RNW 
+219  23 151	RNW 
+219  23 152	RNW 
+219  23 153	RNW 
+219  23 154	RNW 
+219  23 155	RNW 
+219  23 156	RNW 
+219  23 157	RNW 
+219  23 158	RNW 
+219  23 159	RNW 
+219  23 160	RNW 
+219  23 161	RNW 
+219  23 162	RNW 
+219  23 163	RNW 
+219  23 164	RNW 
+219  23 165	RNW 
+219  23 166	RNW 
+219  23 167	RNW 
+219  23 168	RNW 
+219  23 169	RNW 
+219  23 170	RNW 
+219  23 171	RNW 
+219  23 172	RNW 
+219  23 173	RNW 
+219  23 174	RNW 
+219  23 175	RNW 
+219  23 176	RNW 
+219  23 177	RNW 
+219  23 178	RNW 
+219  23 179	RNW 
+219  23 180	RNW 
+219  23 181	RNW 
+219  23 182	RNW 
+219  23 183	RNW 
+219  23 184	RNW 
+219  23 185	RNW 
+219  23 186	RNW 
+219  23 187	RNW 
+219  23 188	RNW 
+219  23 189	RNW 
+219  23 190	RNW 
+219  23 191	RNW 
+219  23 192	RNW 
+219  23 193	RNW 
+219  23 194	RNW 
+219  23 195	RNW 
+219  23 196	RNW 
+219  23 197	RNW 
+219  23 198	RNW 
+219  23 199	RNW 
+219  23 200	RNW 
+219  23 201	RNW 
+219  23 202	RNW 
+219  23 203	RNW 
+219  23 204	RNW 
+219  23 205	RNW 
+219  23 206	RNW 
+219  23 207	RNW 
+219  23 208	RNW 
+219  24 209	RNW 
+219  24 210	RNW 
+219  24 211	RNW 
+219  24 212	RNW 
+219  24 213	RNW 
+219  24 214	RNW 
+219  24 215	RNW 
+219  24 216	RNW 
+219  24 217	RNW 
+219  24 218	RNW 
+219  24 219	RNW 
+219  24 220	RNW 
+219  24 221	RNW 
+219  24 222	RNW 
+219  24 223	RNW 
+219  24 224	RNW 
+219  24 225	RNW 
+219  24 226	RNW 
+219  24 227	RNW 
+219  24 228	RNW 
+219  24 229	RNW 
+219  24 230	RNW 
+219  24 231	RNW 
+219  24 232	RNW 
+219  24 233	RNW 
+219  24 234	RNW 
+219  24 235	RNW 
+219  24 236	RNW 
+219  24 237	RNW 
+219  24 238	RNW 
+219  24 239	RNW 
+219  24 240	RNW 
+219  24 241	RNW 
+219  24 242	RNW 
+219  24 243	RNW 
+219  24 244	RNW 
+219  24 245	RNW 
+219  24 246	RNW 
+219  24 247	RNW 
+219  24 248	RNW 
+219  24 249	RNW 
+219  24 150	RNW 
+225  25 151	RNW 
+225  25 152	RNW 
+225  25 153	RNW 
+225  25 154	RNW 
+225  25 155	RNW 
+225  25 156	RNW 
+225  25 157	RNW 
+225  25 158	RNW 
+225  25 159	RNW 
+225  25 160	RNW 
+225  25 161	RNW 
+225  25 162	RNW 
+225  25 163	RNW 
+225  25 164	RNW 
+225  25 165	RNW 
+225  25 166	RNW 
+225  25 167	RNW 
+225  25 168	RNW 
+225  25 169	RNW 
+225  25 170	RNW 
+225  25 171	RNW 
+225  25 172	RNW 
+225  25 173	RNW 
+225  25 174	RNW 
+225  25 175	RNW 
+225  25 176	RNW 
+225  25 177	RNW 
+225  25 178	RNW 
+225  25 179	RNW 
+225  25 180	RNW 
+225  25 181	RNW 
+225  25 182	RNW 
+225  25 183	RNW 
+225  25 184	RNW 
+225  25 185	RNW 
+225  25 186	RNW 
+225  25 187	RNW 
+225  25 188	RNW 
+225  25 189	RNW 
+225  25 190	RNW 
+225  25 191	RNW 
+225  25 192	RNW 
+225  25 193	RNW 
+225  25 194	RNW 
+225  25 195	RNW 
+225  25 196	RNW 
+225  25 197	RNW 
+225  25 198	RNW 
+225  25 199	RNW 
+225  25 200	RNW 
+225  25 201	RNW 
+225  25 202	RNW 
+225  25 203	RNW 
+225  25 204	RNW 
+225  25 205	RNW 
+225  25 206	RNW 
+225  25 207	RNW 
+225  25 208	RNW 
+225  25 209	RNW 
+225  25 200	RNW 
+225  25 201	RNW 
+225  25 202	RNW 
+225  25 203	RNW 
+225  25 204	RNW 
+225  25 205	RNW 
+225  25 206	RNW 
+225  25 207	RNW 
+225  25 208	RNW 
+225  25 209	RNW 
+100  10 120	RNW 
+100  10 121	RNW 
+100  10 122	RNW 
+100  10 123	RNW 
+100  10 124	RNW 
+100  10 125	RNW 
+100  10 126	RNW 
+100  10 127	RNW 
+100  10 128	RNW 
+100  10 129	RNW 
+100  10 130	RNW 
+100  10 131	RNW 
+100  10 132	RNW 
+100  10 133	RNW 
+100  10 134	RNW 
+100  10 135	RNW 
+100  10 136	RNW 
+100  10 137	RNW 
+100  10 138	RNW 
+100  10 139	RNW 
+100  10 140	RNW 
+100  10 141	RNW 
+100  10 142	RNW 
+100  10 143	RNW 
+100  10 144	RNW 
+100  10 145	RNW 
+100  10 146	RNW 
+100  10 147	RNW 
+100  10 148	RNW 
+100  10 149	RNW 
+100  10 150	RNW 
+100  10 151	RNW 
+100  10 152	RNW 
+100  10 153	RNW 
+100  10 154	RNW 
+100  10 155	RNW 
+100  10 156	RNW 
+100  10 157	RNW 
+100  10 158	RNW 
+100  10 159	RNW 
+100  10 160	RNW 
+100  10 161	RNW 
+100  10 162	RNW 
+100  10 163	RNW 
+100  10 164	RNW 
+100  10 165	RNW 
+100  10 166	RNW 
+100  10 167	RNW 
+100  10 168	RNW 
+100  10 169	RNW 
+100  10 170	RNW 
+100  10 171	RNW 
+100  10 172	RNW 
+100  10 173	RNW 
+100  10 174	RNW 
+100  10 175	RNW 
+100  10 176	RNW 
+100  10 177	RNW 
+100  10 178	RNW 
+100  10 179	RNW 
+100  10 180	RNW 
+100  10 181	RNW 
+100  10 182	RNW 
+100  10 183	RNW 
+100  10 184	RNW 
+100  10 185	RNW 
+100  10 186	RNW 
+100  10 187	RNW 
+100  10 188	RNW 
+100  10 189	RNW 
+100  10 190	RNW 
+100  10 191	RNW 
+100  10 192	RNW 
+100  10 193	RNW 
+100  10 194	RNW 
+100  10 195	RNW 
+100  10 196	RNW 
+100  10 197	RNW 
+100  10 198	RNW 
+100  10 199	RNW 
+100  11 100	RNW 
+100  11 101	RNW 
+100  11 102	RNW 
+100  11 103	RNW 
+100  11 104	RNW 
+100  11 105	RNW 
+100  11 106	RNW 
+100  11 107	RNW 
+100  11 108	RNW 
+100  11 109	RNW 
+100  11 110	RNW 
+100  11 111	RNW 
+100  11 112	RNW 
+100  11 113	RNW 
+100  11 114	RNW 
+100  11 115	RNW 
+100  11 116	RNW 
+100  11 117	RNW 
+100  11 118	RNW 
+100  11 119	RNW 
+100  11 120	RNW 
+100  11 121	RNW 
+100  11 122	RNW 
+100  11 123	RNW 
+100  11 124	RNW 
+100  11 125	RNW 
+100  11 126	RNW 
+100  11 127	RNW 
+100  11 128	RNW 
+100  11 129	RNW 
+100  11 130	RNW 
+100  11 131	RNW 
+100  11 132	RNW 
+100  11 133	RNW 
+100  11 134	RNW 
+100  11 135	RNW 
+100  11 136	RNW 
+100  11 137	RNW 
+100  11 138	RNW 
+100  11 139	RNW 
+100  11 140	RNW 
+100  11 141	RNW 
+100  11 142	RNW 
+100  11 143	RNW 
+100  11 144	RNW 
+100  11 145	RNW 
+100  11 146	RNW 
+100  11 147	RNW 
+100  11 148	RNW 
+100  11 149	RNW 
+100  11 150	RNW 
+100  11 151	RNW 
+100  11 152	RNW 
+100  11 153	RNW 
+100  11 154	RNW 
+100  11 155	RNW 
+100  11 156	RNW 
+100  11 157	RNW 
+100  11 158	RNW 
+100  11 159	RNW 
+100  11 160	RNW 
+100  11 161	RNW 
+100  11 162	RNW 
+100  11 163	RNW 
+100  11 164	RNW 
+100  11 165	RNW 
+100  11 166	RNW 
+100  11 167	RNW 
+100  11 168	RNW 
+100  11 169	RNW 
+100  11 170	RNW 
+100  11 171	RNW 
+100  11 172	RNW 
+100  11 173	RNW 
+100  11 174	RNW 
+100  11 175	RNW 
+100  11 176	RNW 
+100  11 177	RNW 
+100  11 178	RNW 
+100  11 179	RNW 
+100  11 180	RNW 
+100  11 181	RNW 
+100  11 182	RNW 
+100  11 183	RNW 
+100  11 184	RNW 
+100  11 185	RNW 
+100  11 186	RNW 
+100  11 187	RNW 
+100  11 188	RNW 
+100  11 189	RNW 
+100  11 190	RNW 
+100  11 191	RNW 
+100  11 192	RNW 
+100  11 193	RNW 
+100  11 194	RNW 
+100  11 195	RNW 
+100  11 196	RNW 
+100  11 197	RNW 
+100  11 198	RNW 
+100  11 199	RNW 
+100  12 100	RNW 
+100  12 101	RNW 
+100  12 102	RNW 
+100  12 103	RNW 
+100  12 104	RNW 
+100  12 105	RNW 
+100  12 106	RNW 
+100  12 107	RNW 
+100  12 108	RNW 
+100  12 109	RNW 
+100  12 110	RNW 
+100  12 111	RNW 
+100  12 112	RNW 
+100  12 113	RNW 
+100  12 114	RNW 
+100  12 115	RNW 
+100  12 116	RNW 
+100  12 117	RNW 
+100  12 118	RNW 
+100  12 119	RNW 
+100  12 120	RNW 
+100  12 121	RNW 
+100  12 122	RNW 
+100  12 123	RNW 
+100  12 124	RNW 
+100  12 125	RNW 
+100  12 126	RNW 
+100  12 127	RNW 
+100  12 128	RNW 
+100  12 129	RNW 
+100  12 130	RNW 
+100  12 131	RNW 
+100  12 132	RNW 
+100  12 133	RNW 
+100  12 134	RNW 
+100  12 135	RNW 
+100  12 136	RNW 
+100  12 137	RNW 
+100  12 138	RNW 
+100  12 139	RNW 
+100  12 140	RNW 
+100  12 141	RNW 
+100  12 142	RNW 
+100  12 143	RNW 
+100  12 144	RNW 
+100  12 145	RNW 
+100  12 146	RNW 
+100  12 147	RNW 
+100  12 148	RNW 
+100  12 149	RNW 
+100  12 150	RNW 
+100  12 151	RNW 
+100  12 152	RNW 
+100  12 153	RNW 
+100  12 154	RNW 
+100  12 155	RNW 
+100  12 156	RNW 
+100  12 157	RNW 
+100  12 158	RNW 
+100  12 159	RNW 
+100  12 160	RNW 
+100  12 161	RNW 
+100  12 162	RNW 
+100  12 163	RNW 
+100  12 164	RNW 
+100  12 165	RNW 
+100  12 166	RNW 
+100  12 167	RNW 
+100  12 168	RNW 
+100  12 169	RNW 
+100  12 170	RNW 
+100  12 171	RNW 
+100  12 172	RNW 
+100  12 173	RNW 
+100  12 174	RNW 
+100  12 175	RNW 
+100  12 176	RNW 
+100  12 177	RNW 
+100  12 178	RNW 
+100  12 179	RNW 
+100  12 180	RNW 
+100  12 181	RNW 
+100  12 182	RNW 
+100  12 183	RNW 
+100  12 184	RNW 
+100  12 185	RNW 
+100  12 186	RNW 
+100  12 187	RNW 
+100  12 188	RNW 
+100  12 189	RNW 
+100  12 190	RNW 
+100  12 191	RNW 
+100  12 192	RNW 
+100  12 193	RNW 
+100  12 194	RNW 
+100  12 195	RNW 
+100  12 196	RNW 
+100  12 197	RNW 
+100  12 198	RNW 
+100  12 199	RNW 
+100  13 100	RNW 
+100  13 101	RNW 
+100  13 102	RNW 
+100  13 103	RNW 
+100  13 104	RNW 
+100  13 105	RNW 
+100  13 106	RNW 
+100  13 107	RNW 
+100  13 108	RNW 
+100  13 109	RNW 
+100  13 110	RNW 
+100  13 111	RNW 
+100  13 112	RNW 
+100  13 113	RNW 
+100  13 114	RNW 
+100  13 115	RNW 
+100  13 116	RNW 
+100  13 117	RNW 
+100  13 118	RNW 
+100  13 119	RNW 
+100  13 120	RNW 
+100  13 121	RNW 
+100  13 122	RNW 
+100  13 123	RNW 
+100  13 124	RNW 
+100  13 125	RNW 
+100  13 126	RNW 
+100  13 127	RNW 
+100  13 128	RNW 
+100  13 129	RNW 
+100  13 130	RNW 
+100  13 131	RNW 
+100  13 132	RNW 
+100  13 133	RNW 
+100  13 134	RNW 
+100  13 135	RNW 
+100  13 136	RNW 
+100  13 137	RNW 
+100  13 138	RNW 
+100  13 139	RNW 
+100  13 140	RNW 
+100  13 141	RNW 
+100  13 142	RNW 
+100  13 143	RNW 
+100  13 144	RNW 
+100  13 145	RNW 
+100  13 146	RNW 
+100  13 147	RNW 
+100  13 148	RNW 
+100  13 149	RNW 
+100  13 150	RNW 
+100  13 151	RNW 
+100  13 152	RNW 
+100  13 153	RNW 
+100  13 154	RNW 
+100  13 155	RNW 
+100  13 156	RNW 
+100  13 157	RNW 
+100  13 158	RNW 
+100  13 159	RNW 
+100  13 160	RNW 
+100  13 161	RNW 
+100  13 162	RNW 
+100  13 163	RNW 
+100  13 164	RNW 
+100  13 165	RNW 
+100  13 166	RNW 
+100  13 167	RNW 
+100  13 168	RNW 
+100  13 169	RNW 
+100  13 170	RNW 
+100  13 171	RNW 
+100  13 172	RNW 
+100  13 173	RNW 
+100  13 174	RNW 
+100  13 175	RNW 
+100  13 176	RNW 
+100  13 177	RNW 
+100  13 178	RNW 
+100  13 179	RNW 
+100  13 180	RNW 
+100  13 181	RNW 
+100  13 182	RNW 
+100  13 183	RNW 
+100  13 184	RNW 
+100  13 185	RNW 
+100  13 186	RNW 
+100  13 187	RNW 
+100  13 188	RNW 
+100  13 189	RNW 
+100  13 190	RNW 
+100  13 191	RNW 
+100  13 192	RNW 
+100  13 193	RNW 
+100  13 194	RNW 
+100  13 195	RNW 
+100  13 196	RNW 
+100  13 197	RNW 
+100  13 198	RNW 
+100  13 199	RNW 
+100  14 100	RNW 
+100  14 101	RNW 
+100  14 102	RNW 
+100  14 103	RNW 
+100  14 104	RNW 
+100  14 105	RNW 
+100  14 106	RNW 
+100  14 107	RNW 
+100  14 108	RNW 
+100  14 109	RNW 
+100  14 110	RNW 
+100  14 111	RNW 
+100  14 112	RNW 
+100  14 113	RNW 
+100  14 114	RNW 
+100  14 115	RNW 
+100  14 116	RNW 
+100  14 117	RNW 
+100  14 118	RNW 
+100  14 119	RNW 
+239 204 149	Comoros
+244  97  32	Antankara
+217 166  43	Iboina
+142 185 186	Tsimihety
+100 201  61	Maroantsetra
+ 38  83  21	Vatomandry
+169  74  32	Antemoro
+215  80 147	Betsileo
+ 79 160  47	Mahafaly
+139  53 205	Antanosy
+185 135 224	Bara
+201  54  85	Antsalova
+222 145 161	Fiherana
+217 108 129	Al Qadirif
+155  61  79	Makua
+227 164  55	Ngindo
+234 204 150	Wayao
+200  19 117	Katsekera
+ 49 155  99	Lolo
+ 38 234 130	Lundu
+ 44  52 201	Kalonga
+145 165 177	Kinga
+220  30 106	Makonde
+171  67 109	Phangwa
+219 159 183	Ngonde
+ 44 123  42	Tumbuka
+106 189 104	Lala
+ 33 220  28	Nsenga
+225  80 159	Lomwe
+123 127 208	Ibo
+210 164  53	Luangwa
+ 46 174 176	Ewaso Ngiro
+ 28 134 135	Dawa
+208 113 137	Turkana
+ 57 112  35	Kuria
+169 127  77	Shamba
+234  32  70	Gogo
+ 78 126  60	Nyatura
+ 30 188  53	Zigua
+215 196 132	Shaga
+215  17  73	Kikuyu
+141 193 135	Buzinza
+ 57 208  42	Basoga
+203 160  93	Karagwe
+172 118  32	Buganda
+220  52   0	Bunyoro
+187 203 173	Ndorwe
+133 213  62	Nduga
+ 97 177  26	Buzozo
+ 28 191  70	Bushubi
+219  44 196	Nkoma
+207 205  37	Buyogoma
+181 113  48	Ruguru
+227 125  26	Hehe
+239 192 146	Pubungo
+191 117  46	Lango
+ 53 152  36	Muhambwe
+145  76 136	Rukwa
+219  94  40	Mayumba
+220 158 209	Ngoyo
+120 115 207	Soyo
+ 82 225 176	Tyo
+217  90 204	Kasanje
+217 173 199	Shinje
+ 32 114 111	Malem
+ 87 220 115	Yaka
+219 217  53	Nunu
+ 52 121  25	Kumbana
+213  60  93	Munene
+ 96 201  25	Kuba
+219 217  76	Songye
+101 224  33	Mpasu
+140  15 150	Rund
+150  15 175	Lwena
+160  15 200	Chokwe
+170  15 100	Ishindi
+180  15 150	Kalundwe
+190  15 175	Luba
+200  15 200	Upemba
+210  15 100	Hemba
+220  15 150	Luapala
+230  15 175	Lualaba
+240  15 200	Bemba
+250  15 100	Tabwa
+207  15 150	Lamba
+207  15 175	Kusu
+207  15 200	Lenje
+197  15 100	Kanongesha
+207  15 100	Kaonde
+197  15 150	Lega
+231 127  43	Sutherland
+119 212 150	Saintonge
+157 124 213	Aurilac
+103 160 108	Uleaborg
+145  85 134	Luleå
+156  39 189	Mazyr
+119 162 166	Belyov
+205 163 151	Bezhetsk
+180 212 180	Desmond
+177 112  53	Sligo
+160  91 132	Kildare
+185 241 202	Ulster
+ 43 136 207	Shenkursk
+ 43 106  43	Birkaland
+109 195 109	Kexholm
+210 205  68	Szolnok
+229  71  55	Bacs
+146 198 217	Turda
+142 201 142	Kiralyföld
+ 53 164  53	Ust-Vym
+222  47  96	Somerset
+227  54  54	Nanbu
+ 70 229 231	Mweru
+ 88 239 241	Kivu
+103 216 217	Rutanzige
+139 230 231	Lake Albert
+ 45 225 227	Zaysan
+ 79 222 224	Alakol
+ 40 196 198	Issyk-Kul
+ 54  54 236	Oulujärvi
+ 34  34 210	Saimaa
+207  42  19	Ditmarschen
+198 219  57	Aarhus
+127 186  98	Smålenene
+222  69  44	Bratsberg
+201 191 169	Agdesiden
+225 223  19	Jotenheimen
+ 74 217  74	Rostov
+222 151 200	Luki
+ 44 184  44	Kolding
+145 151 212	Évora
+208  10 168	Kuusamo
+113 153   0	Enare
+225 223  21	Scandes
+225 223  23	Pyrenees
+225 223  25	Carpathians
+225 223  27	Caucasus
+225 223  29	The Alps
+117 150  26	Janjero
+237 230  38	Alps2
+224 220 117	Alps3
+208 202  39	Alps4
+231 224  22	Alps5
+220 144  23	Elfsborg
+150 213  76	Dalsland
+220  78 202	Göinge
+ 54 157  76	Tiohärad/Värend
+195 207  97	High Atlas
+135 142  79	High Atlas2
+222 203 239	Aures
+111  33 184	Zagros
+176 122 149	Abarquh
+ 22 236 239	Zagros2
+106  34 172	Syrmia
+200 147 147	Durres
+ 15 161 198	Lezhe
+ 81  63 217	Branicevo
+222  79 239	Elburz
+ 16 119  24	Pontic Mountains
+ 24 212  37	Armenian Highlands
+224 105  71	Hyuga
+171  64  58	Higo
+222 162 158	Hizen
+148 243 182	Iwami
+ 29 167 101	Bizen
+136  40 113	Tango
+164 211 156	Iyo
+137 170  36	Kii
+219 191  83	Shinano
+183 128 213	Sagami
+ 74  53 198	Shimousa
+150 104 225	Shimotsuke
+207 150 214	Ugo
+102 179 145	Oshima
+ 94  52  48	Yongping
+151 185 125	Zhending
+104 143 106	Haizhou
+148 197 227	Huangzhou
+ 56 144 141	Fengxiang
+ 45 117  59	Tongren
+ 29 161 216	Hulan
+ 44  97  35	Jianzhou
+186 143  58	Taining
+ 89  66 107	Ju Ud
+ 44  45 128	Anding
+ 35  68 112	Nagchu
+ 38 129  72	Balikul
+129  51  84	Turpan
+196 198  53	Qurqara-usu
+129 112 172	Maralbexi
+101  69 107	Yangi Hissar
+ 72  32  16	Dazhou
+122  61 105	Jiazhou
+ 40  46  10	Luzhou
+ 26  53  83	Kalar
+ 22 100 123	Fudali
+ 74 143  77	Ulch
+ 52  80 119	Pijin
+ 69 105 171	Buteha
+117  42  41	Bayan Tumen
+ 44 113 137	Khiagt
+148 144  46	Dundgovi
+ 50  81 144	Ulaangom
+209 115   2	Hetao
+ 36 150 179	Tokai Sea
+ 64 173 200	Coast of Hokkaido
+ 29 124 148	North Japan Basin
+105  96  64	Daegu
+195  44 140	Naju
+188 200  56	Chungju
+158 186  44	Suwon
+231 184  20	Haeju
+145  81  35	Ganggye
+ 31 182 184	Bahai Sea
+ 45 117 167	Eastern Yellow Sea
+144 225 232	Vistula Lagoon
+255   0   0	Trencin
+ 48 237 244	Olomouc
+ 37 208  93	Liegnitz
+239  10  10	Belgrade
+ 89 225  36	Fejer
+203 127  53	Wenden
+ 35 224  48	Ula
+239 225  69	Toropets
+170 114 128	Starodub
+ 69 133 239	Vyazma
+152 182 201	Mstislav
+ 34 217 219	Owrucz
+215  30 112	Kashin
+141 220 172	Zubtsov
+153  30 210	Mologa
+ 46  39 195	Mozhaisk
+ 83 167 188	Kolomna
+ 15 241 244	Yuriev
+222  17  17	Starodub
+215 103 103	Pronsk
+ 44 142  46	Solvychegodsk
+ 44 152  95	Mezen
+  9 169 133	Onega
+201 146  58	Velsk
+ 79 181  81	Vyshny Volochyok
+166  50  94	Ustyuzhna
+ 31 227  36	Totma
+171  13  54	Sol Galitskaya
+159 200 147	Tetyushi
+ 39 208 178	Ar-Chally
+191 107 198	Izhkar
+198 197  95	Bolgar
+213  56  56	Aqabah
+214 231  24	Al Wajh
+209 227  59	Azraq
+ 91 196  33	Suwayda
+255  14  59	Al Jawf
+127  84 164	Al-Kariatan
+ 31 210  90	Sudayr
+ 53 200 195	Al-Yamamah
+188 102  18	Jabal Tubaiq
+219  23  88	Taifa
+ 69  59 200	Qunfudhah
+ 67 107 179	Zabid
+215 128  24	Taiz
+ 67 191  24	Dhamar
+210 179  54	Sahda
+224  24  38	Shihr
+ 99 150  71	Al Ghayda
+181 124 124	Baraimi Oasis
+187 208  10	Sur
+200  92  20	Ibra
+ 83 203  86	Shatt
+ 17 195 138	Shushtar
+ 79 184  27	Hoveyzeh
+168 219  32	Qazaniya
+ 53  76 176	Mardin
+212  79 154	Arbil
+150 146  41	Sulimaniyeh
+ 48 167  51	Hisn Kayfa
+116  62 183	Bitlis
+ 99  32 200	Homs
+231  78  10	Ayntab
+ 70 198  70	Shamakhi
+225 205  36	Mianeh
+232 184  55	Gori
+ 13  94 109	Bayazid
+213 197  16	Oltu
+184 111 111	Khoy
+210  42  42	Shaki
+117 109 201	Khumuk
+134 177 141	Aksaray
+ 69  25  75	Denizli
+118 176 123	Aydin
+135 155 105	Divrigi
+ 67 121 108	Karahisar
+105 195  57	Sultanönü
+ 94 189 108	Kangiri
+159  73  73	Kirshehir
+124  60  86	Tokat
+ 51 172 108	Mansura
+ 99  77 195	Buhaira
+ 63 128  27	Atfih
+163 183  82	Isna
+195  83 191	Girga
+121  21 154	Eastern Desert
+184  65  29	Eastern Desert
+224  40  15	Farafreh
+149 186 149	Ghuriyan
+222  47  29	Sarakhs
+134 196 131	Nishapur
+244 221 131	Jask
+143  34 255	Chagai
+ 96 128 136	Fasa
+ 54 193 106	Darab
+212  14  89	Kazarun
+112 120 148	Siraf
+104 180 181	Dahlak Archipelago
+224  12  72	Tabas
+236 112  20	Kashan
+215 155  85	Tus
+ 73 158 166	Savah
+201  70  30	Soltanieh
+208  71 200	Rasht
+ 88 224 142	Astara
+191 220  33	Sari
+208 198 117	Malamir
+208  26  73	Termez
+178 231  94	Kish
+155 155 198	Saidabad
+149 226 227	Qamr Bay
+144 206 207	Pirate Coast
+198  47 101	Ifuago
+105 219 142	Laguna
+154  86 212	Mindoro
+104 196 152	Buglas
+219 168  88	Cebu
+ 89  35 145	Leyte
+135  77 125	Zamboanga
+248 245 172	Caraga
+201 167  29	Taytay
+125 226 241	Visayan Sea
+112 219 220	Cuyo Archipelago
+185 227  40	Ise
+235 159  33	Mikawa
+203 124 124	East March
+220  22  22	West March
+212 118  56	Argyll
+236 203  22	Inner Hebrides
+177 171 135	Mann
+196 128   0	Montgomery
+219 150 147	Hull
+231  51  43	Scarborough
+221 244 212	Carmarthen
+115 143 176	Cambridgeshire
+146 207 152	Sussex
+207 182 116	Coventry
+161 114 192	Devon
+155 153  90	Dorset
+229 133  39	Chester
+160  66  61	Leicester
+ 91 132 207	Ormond
+207 145 145	Kinsale
+181  38  38	Middlands
+186  74  52	Donegal
+ 24  57 119	Oversticht
+213 194  38	Ommeland
+220 189 139	Haag
+234 156  30	Rennes
+206 210 106	Cotentin
+153  88 207	Vendee
+227 104  55	Angouleme
+ 90  50 219	Chartres
+212 131  52	Touraine
+154 146   0	Troyes
+208  37 117	Vivarais
+227 148 148	Auxerrois
+181 227  89	Tabayin
+223  76 249	Salin
+  7 183 221	Yamethin
+ 38 227  36	Prome
+ 87 141  35	Yawnghwe
+145  54  67	Mawkmai
+209 206 232	Dagon
+  4 138 139	Naga Hills
+ 99   2 220	Arakan Mountains
+  8  19  70	Gaoligong Mountains
+174 133  74	Hengduan Mountains
+186 179  78	Minsin
+135  83 198	Katha
+131 123 246	Mong Kung
+231  58  53	Ruhunu
+227 170 169	Salavata
+154 153  27	Trincomale
+166 186 106	Kumari
+212 178  42	Samana
+133  65  23	Dindigul
+198  87 134	Cannanore
+ 52 160 146	Salem
+178 189 107	Negapatam
+157  72 136	Tranqebar
+141 167 109	Kanchipuram
+117 239 166	Nelore
+ 38 123  72	Adanki
+186 136 135	Chandragiri
+139 213 167	Seringapatam
+164 123  44	Sira
+160 139 213	Gutti
+200 161 210	Adavani
+ 41 164  76	Kondavidu
+125 191  66	Chitradurg
+203 173  64	Honnavara
+169 212  66	Mudgal
+136 124  77	Rajapur
+152 147  85	Daman
+179 186 121	Kolhapur
+ 98 169 103	Junir
+163 195 165	Nasik
+186 154 125	Dharangaon
+ 88 201 147	Sholhapur
+136 232   0	Rachakonda
+ 54 129 205	Paithre
+205  54 168	Nander
+145 107 154	Khamammet
+130 111  51	Narayanpur
+194 210 199	Ganjam
+ 85 174 169	Washim
+149 183 181	Karanja
+ 34  42 215	Manidurg
+219 203  71	Kanker
+169 171 101	Kalahandi
+ 71 148  48	Patna-Garjat
+ 33  48   2	Parlakhimedi
+ 26 159  60	Jammu
+178 193 146	Mahurbanj
+177 236  52	Sonpur
+201 133  87	Ratanpur
+219 144  64	Thalner
+181  86 133	Porbandar
+185 186  60	Diu
+159  60  34	Jhalavad
+145 120  59	Cambay
+ 83 131 220	Narbada
+175 215  67	Saugor
+184 119  42	Handia
+110 157 103	Ujjain
+117 210 107	Vagad
+217  58  31	Bhatnair
+ 75 196 192	Bundi
+ 27 212  53	Ranthambore
+169  43 205	Mahoba
+123  99 213	Kalinjar
+139 196 111	Bandogarh
+160 208  76	Rohtasgarh
+154  48  40	Soumelpur
+167 163  46	Bishnupur
+179  62  43	Monghir
+113 133  32	Chakla
+ 24  58 154	Sonargaon
+143  28 164	Fathabad
+203  30 140	Nadia
+128  58 103	Satgaon
+ 61 102  20	Haibatnagar
+174  31  98	Goraghat
+205  97  50	Mahikantha
+136 104  42	Punakah
+140  34  49	Sikkim
+155  64  94	Morung
+118 110  21	Makwanpur
+193  52 118	Palpa
+171 177  19	Purnia
+148  81  21	Saran
+123  80  42	Champaran
+171 132  97	Hajipur
+174  36  95	Ghazipur
+156 116 221	Dang
+ 13  33 111	Doti
+230 154 212	Sirmur
+ 71  99 200	Khairabad
+ 33  52 116	Feyzabad
+ 30  17  88	Kora
+ 54 145  99	Qannauj
+255 102   0	Sambhal
+ 82 102   0	Bareily
+ 74 162   0	Bharatpur
+ 57 188 152	Bhilwara
+ 33  53  48	Merta
+ 26  88  92	Mansura
+177 200 201	Nasirpur
+ 36 125 131	Khairpur
+184  27 108	Barmer
+100  83 123	Churu
+ 66  30 116	Bahawalpur
+124  37  78	Karor
+193 162  69	Shorkot
+102  77  89	Bhera
+ 49 208 224	Bharuch
+ 50  71 157	Dipalpur
+219 157 116	Sakya
+ 86  55 145	Gyirong
+167  66  99	Purang
+ 52 169  90	Nedong
+ 61 145 123	Tsurphu
+ 68 108 100	Damxung
+118 126  72	Rutog
+ 63  93 131	Skardu
+108  61  52	Aqenganggyai
+192   6  69	Inowroclaw
+ 77 251 233	Dobrzyn
+152  90   7	Rawa
+176 178  68	Gniezno
+ 84 110 247	Checiny
+113 193 204	Kuyavia
+148 138 245	Iasi
+135  97  96	Birlad
+ 56 160  69	Giurgiu
+200 147 231	Severin
+100 226  85	Wielun
+171   8  15	Upita
+181  39 199	Wilkimierz
+125 175 248	Lida
+  2 159 164	Nowogrodek
+ 70 186 107	Chelm
+ 79 252 132	Kremenets
+174 173  70	Winnica
+166  72  55	Drohobycz
+216 183 153	Lubnie
+  3 190 120	Rylsk
+235  46 209	Bobrujsk
+145   7 164	Sluck
+121 225  48	Malaga
+155 170 197	Albacete
+242  90  38	Huelva
+  7 115   1	Untitled
+217 244  86	Castellon
+ 73 146 227	Avila
+130  85 172	Palencia
+ 43  46 167	Zamora
+146 111  28	Lugo
+183  26  10	Vigo
+184  42  69	Aviero
+240  89   1	Lleida
+155  55  22	Orense
+  0  63 140	Minorca
+118 241  78	Ibiza
+  1 230  30	Tetouan
+182  33 133	Mers el Kebir
+  7 121  35	Sale
+  6 134 126	Anfa
+227  16 124	Tenerife
+105  24 165	Kairwan
+ 81 109 203	Sabha
+173  82 127	Demnate
+198 135 133	High Atlas3
+  0  14 150	Texcoco
+ 40  69 175	Tlacopan
+ 80 137 200	Malinalco
+120 176 225	Acambaro
+160  14 250	Ihuatzio
+200  69 150	Puruaran
+240 137 175	Amaxocotlan
+202  14 175	Tohono
+  1 176 200	Tzapotzingo
+ 41  14 225	Sayula
+ 81  69 250	Tecoman
+121 137 150	Yohualtepec
+161 176 175	Teotitlan
+201  14 200	Untitled
+241  69 225	Mitla
+  2 137 250	Tzotzil
+ 42 176 150	Jakaltek
+ 82  14 175	Qumarkaj
+122  69 200	Kobox
+162 137 225	Moran
+202 176 250	Untitled
+242  14 150	Sotuta
+  3  69 175	Ulva
+ 43 137 200	Untitled
+ 83 176 225	Tzul
+123  14 250	Guaymi
+163  69 150	Kuna
+203 137 175	Talamanca
+243 176 200	Cuauhtochco
+  4  14 225	Sinu
+ 44  69 250	Magangue
+ 84 137 150	Chimila
+124 176 175	Motilones
+164  14 200	Moniquira
+204  69 225	Pastos
+244 137 250	Putumayos
+242  69 200	Chichitames
+  5 176 150	Pijaos
+ 55  14 175	Achaguas
+ 85  69 200	Variquicimeto
+125 137 225	Yukpa
+165 176 250	Wayuu
+205  14 150	Tacarigua
+245  69 175	Guanaguanare
+  6 137 200	Tunebo
+ 66 176 225	Guanipa
+ 86  14 250	Anzoategui
+126  69 150	Guaju
+166 137 175	Yaquimo
+206 176 200	Marien
+246  14 225	Ciguayo
+  7  69 250	Higuey
+ 67 137 150	Canimar
+ 87 176 175	Escambrey
+127  14 200	Guane
+167  69 225	Mayaca
+247 176 150	Potano
+  8  14 175	Tanu
+ 68  69 200	Nitahende
+ 88 137 225	Tel Kondaha
+128 176 250	Natahende
+168  14 150	Towa
+208  69 175	Keres
+248 137 200	Sobaipuri
+  9 176 225	Tsekaadn
+ 69  14 250	Taaqtam
+ 89  69 150	Choinumni
+129 137 175	Ohlone
+169 176 200	Wintun
+209  14 225	Paipai
+249  69 250	Tecpatitlan
+  1 137 150	Untitled
+ 61 176 175	Pame
+ 81  14 200	Untitled
+121  69 225	Jocome
+161 137 250	Untitled
+201 176 150	Tarahumara
+241  14 175	Untitled
+  2  69 200	Acaxee
+ 62 137 250	Mayo
+ 82 176 150	Opata
+214 134 156	Tsushima
+140  69 200	Haicheng 
+117 192 171	Maolian
+ 60 240  76	Fuerhe
+194  93 131	Shilimian
+ 95 228 201	Wolanhe
+220  32 204	Changbai Mountains
+245 120   6	Nanghaer
+237 134 253	Tulutingshan
+130 176  43	Tunhe
+246 142  22	Edala
+213 239 212	Halacha
+163 187 193	Jixi
+ 79 144 220	North Buteha
+ 18 225  17	South Buteha
+147 155 192	South Hulunbur
+209 189 232	North Setsen
+206  72 139	West Ih Huree
+137  60 168	East Dornogovi
+  1 153  63	West Khara Narin Ula
+ 55  94  80	East Ereen
+ 43 141 219	North Ju Ud
+221  36 225	East Xilin Gol
+ 77  35  96	North Jirem
+122 140  89	Central Jirem
+ 27 169   8	West Alxa
+248 107  18	East Govi
+147 150 150	East Qaraqorum
+236  42 149	North Tsetserleg
+  3  38  13	East Zagast
+215 140 255	North Kobdo
+106  90 108	South Kobdo
+186 144  83	East Hoboskar
+255 216   1	Dzhemenika
+196  69   0	Karagandy
+255  90   0	Ekibastuz
+255 186   0	Imakia
+255 223 172	Baraba
+255 150   0	Om
+231  61   8	Ishim
+255 227   0	As
+255 213   0	Turgay
+254 103 217	Keriya
+172 194 112	Foix
+195 118 123	Carcassonne
+243  42   7	Toulon
+ 22 120  77	La Marche
+223   0 153	Cephalonia
+164  48  47	Arta
+137  22  12	Lesbos
+135 128  17	Corinth
+ 68  83 143	Siroz
+190 143 135	Kostendil
+213 232 183	Tirnovo
+203 245 164	Gumulcine
+ 94  32 199	Tolcu
+ 86  92 128	Rosenheim
+136 148 128	Freising
+ 71 104  32	Passau
+ 48 231 108	Bregenz
+226 210 106	Donauwörth
+ 27 146   0	Konstanz
+185 110  79	Urach
+139 150 128	Durlach
+135 130 221	Rothenburg
+223 230  73	Coburg
+184  22  22	Bayreuth
+  8 175 128	Aschaffenburg
+161 116  28	Annecy
+ 29 123 204	Geneva
+192  98 255	Fribourg
+ 33 178 172	Illanz
+ 63 106 212	Opole
+ 28 140 117	Pardubice
+182  22 144	Jindrichuv Hradec
+ 14   8  38	Ostrava
+ 11 159  77	Saluzzo
+ 23 128  70	Pavia
+111 248 124	Padova
+ 24 248 124	Bologna
+ 50 217  66	Spoleto
+216 236 203	Terracina
+144 222  92	Molise
+239  33 241	Avellino
+ 77  22 255	Arborea
+255 193 247	Trapani
+172  68 159	Girgenti
+110 243  21	Trieste
+255 193  31	Bergamo
+123 111  79	Como
+206  82  89	Halle
+ 24  36 126	Nordhausen
+ 70  32  26	Weimar
+ 35  63 199	Zwickau
+ 86 194  97	Rügen
+213 132   0	Wolgast
+111 118   8	Dramburg
+170  79 248	Brandenburg
+ 39 120 238	Stargardland
+167 101 106	Kruje
+162 186 147	Cilli
+232 189 231	Rijeka
+144 219 143	Zadar
+177 229 130	Kotor
+224 202  77	Podrinje
+163 165 183	Bjelovar
+133 229 130	Kolubara
+186  81  38	Etsch
+220  54 163	Upper Carinthia
+194 192 231	Innviertel
+154 237 147	Traungau
+243 138  80	Wienerwald
+238 230  38	Alps6
+179 106 111	Salins
+255 253 196	Mulhouse
+138 136  91	Verdun
+253 135 143	Zweibrucken
+253 215 143	Julich
+125 215 143	Lille
+181 160  75	s-Hertogenbosch
+ 52  36  48	Verden
+228 189 115	Celle
+ 70 135  54	Göttingen
+175 138  37	Fulda
+199  14  89	Bielefeld
+177 186  20	Blois
+202 126  16	Forez
+ 32  31  94	Görlitz
+124  10 162	Gallipoli
+ 25 224 138	Ohrid
+197   9  45	Transvaal
+ 45 197   9	Tswana
+  9  45 197	Swazi
+135  45   9	Upper Limpopo
+ 98 179 208	Sheffield
+ 45  27  97	Priegnitz
+ 91 178  26	Ribatejo
+168 196   4	Plasencia
+254 145 124	Segovia
+170  98  56	West Java
+ 50  43  20	East Cirebon
+153 169 173	East Kendal
+237 108 140	South Demak
+148  48 116	East Kediri
+221  84  31	Bone
+237  99  81	Kendari
+228 249 251	Soppeng
+  4 235 103	Wajo
+ 15 154 146	Sambaliung
+132  11 182	Paser
+183 228  84	Batulican
+ 79 254 101	South Pontiniak
+248  45   0	North Katapang
+148  41  14	West Kuching
+238 141 151	East Sibu
+228  15  86	Inland Sarawak
+185  69 211	North Borneo
+230 213 205	Sumatra
+ 58 125  63	South Peureulak
+251 189  80	South Deli
+ 78  19 109	Barus
+115  67 188	Gerik
+193 124  50	Penang
+204  29  35	Semantan
+150  40 142	Singapura
+ 81 176  19	Rengat
+136  32  11	Padang
+158  68 193	Indrapura
+238 111 151	Son Nam
+179  39  82	Minh Quang
+118 178 134	Nghe An
+240 117 163	Amaravati
+ 74 237 125	Jarai
+182 255   0	Tay Nguyen
+139 124  98	Pursat
+134 235 115	Kampot
+ 63 194 255	Kampom Pous Thom
+182   1   4	Preah Vihear
+235 170 132	Raung Dapey
+ 72 209 160	Rayong
+207  79 128	Bangkok
+245  59 108	Lopburi
+182 244 187	Phetchabun
+ 52  21 131	Suphanburi
+ 73  71  64	Kanchanaburi
+118 104  40	Si Thep
+ 61  16 160	Muang Ngoi
+239  13 190	Sip Et
+128 190 153	Ubon
+174 140 171	Salavan
+186  15 122	Lamphun
+100 174 128	Lakhon
+130 228 241	Annamite Mountains
+ 37 164 140	Dawna Hills
+ 90 235  85	Mamuju
+229 139  97	Woolna
+162  71  29	Yunawa
+ 29 162  89	Mingin
+ 64 217 133	Kurtjar
+174 141 221	Biri
+ 97 115 229	Gureng
+ 55  67 139	WuliWuli
+ 88  95 140	Bidjara
+ 73  93 221	Badtjala
+ 62  74 151	Yiman
+ 74  74 198	Barunggam
+ 88 140  91	Bundjalung
+137 231 142	Tharawal
+ 44 179  51	Gundungurra
+ 24 116  29	Dharug
+117 158 119	Waveroo
+  9  63  12	Ngadjuri
+179  87  31	Nyaki
+218 177 152	Yuat
+218 196 123	Kurrama
+156 144 105	Mangala
+227 196  94	Wunambul
+136  85 174	Pyemmairrener
+ 56  20  83	Peerapper
+ 40 100 119	Austalian Lakes
+  1  70 150	Cowasuk
+ 11  80 175	Wenrohronon
+ 21  90 200	Pegwaki
+ 31 100 225	Westenhuck
+ 41 110 150	Minqua
+ 51  70 175	Scahentowanen
+ 61  80 200	Nottoway
+ 71  90 225	Eno
+ 81 100 150	Kituwah
+ 91 110 175	Combahee
+101  70 200	Sawokli
+111  80 225	Etali
+121  90 150	Napochi
+141 110 200	Houma
+151  70 225	Avoyel
+161  80 150	Nasoni
+241 100 225	Cochati
+  2 110 150	Tatteroa
+ 12  70 175	Mohetan
+ 22  80 200	Kichesipirini
+ 32  90 225	Piktuk
+ 42 100 150	Iroquet
+ 52 110 175	Nebesek
+ 62  70 200	Ottagotouemin
+ 72  80 225	Batiscan
+ 82  90 150	Meductic
+ 92 100 175	Keinouche
+102 110 200	Gichigamininiwag
+112  70 225	Mamaceqtaw
+122  80 150	Otoe
+132  90 175	Saone
+142 100 200	Makandwewin
+152 110 225	Chinko
+171  90 175	Espeminkia
+181 100 200	Tapouaro
+191 110 225	Coiracoentanon
+201  70 150	Mosopelea
+221  80 175	Tawehash
+231  90 200	Kitsash
+162  70 150	Tawakoni
+172  80 175	Nabaydacu
+182  70 150	Ahkwesahsne
+192  80 175	Aniyutsi
+202  90 200	Neosho
+212 100 225	Pitahawirata
+222 110 150	Ponca
+232  70 175	Selis
+242  80 200	Huhkpapha
+  3  90 225	Sihabi
+ 13 100 150	Wadopabina
+131 100 175	Kuttawa
+ 23 110 175	Pepikokia
+ 45  70 200	Pacaha
+200  10   1	Laurentian Massif
+200  40  41	White Mountains
+200  70  81	Adirondacks
+200 100 121	Blue Mountains
+200  20 161	Allegheny Front
+200  50  11	Appalachian Ridges
+200  80  51	Alleghenies
+200  30  91	Cumberland Mountains
+200  60 131	Smoky Mountains
+200  90 171	Blue Ridge
+210  10   1	Maui
+210  40  41	Oahu
+210  70  81	Kauai
+210  20 121	Lau
+210  50 161	Vanua Levu
+210  80  11	Te Moana-a-Toi
+ 29 216 197	Lake Tulare
+ 30 216 201	Lake Cahuilla
