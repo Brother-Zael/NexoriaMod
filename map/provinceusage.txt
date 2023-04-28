@@ -1,5 +1,21 @@
-0512 Max
+0512 Max          4152 (scandes) mountain  4151 (enare) desert 4150 (kuusamo) tundra/forest wasteland 4149 (evora) swampp wasteland
 
-0218
+0218              1882t/m1928 not used 
 
-0504
+0504              1249t/m 1740
+
+0692
+
+2283 
+
+2714
+
+3093            3190t/m 3235 used      3236t/m 4190 not used  
+
+4522
+
+5323
+
+5396
+
+
