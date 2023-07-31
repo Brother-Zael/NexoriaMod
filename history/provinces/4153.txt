@@ -1,12 +1,2 @@
-#
-controller = SWE
-culture = NoCulture
-religion = NoReligion
-base_tax = 0
-base_production = 0
-trade_goods = nothing
-base_manpower = 0
-capital = "wioBcKiUTARM"
-is_city = no
-discovered_by = eastern
+# Mountain
 discovered_by = western
