@@ -1,2 +1,3 @@
 # Tundra/Jungle
 discovered_by = western
+is_city = no
