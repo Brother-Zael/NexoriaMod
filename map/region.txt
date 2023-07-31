@@ -31,6 +31,6 @@ china4 = {
 }
 china5 = { 
 	areas = { 
-		Asia36 Asia39 Asia42 Asia43 Asia45 Asia35 Asia37 
+		Asia36 Asia39 Asia42 Asia43 Asia45 Asia35 Asia37 Asia44 
 	}
 }
