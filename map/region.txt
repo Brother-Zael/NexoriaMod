@@ -4,3 +4,33 @@ NotEngland = {
 		2 4 3 5 6 10 44 
 	}
 }
+China1 = { 
+	areas = { 
+		Asia19 Asia18 Asia17 Asia01 Asia02 Asia03 Asia04 Asia16 Asia05 
+	}
+}
+China2 = { 
+	areas = { 
+		Asia26 Asia27 Asia28 Asia29 Asia25 Asia21 Asia31 Asia24 Asia23 
+	}
+}
+China3 = { 
+	areas = { 
+		Asia20 Asia15 Asia14 Asia06 Asia07 Asia08 Asia09 Asia22 Asia13 
+	}
+}
+dontuse = { 
+	areas = { 
+		dontuse 
+	}
+}
+china4 = { 
+	areas = { 
+		Asia12 Asia10 Asia11 Asia30 Asia33 Asia32 Asia40 Asia41 Asia38 Asia34
+	}
+}
+china5 = { 
+	areas = { 
+		Asia36 Asia39 Asia42 Asia43 Asia45 Asia35 Asia37 
+	}
+}
