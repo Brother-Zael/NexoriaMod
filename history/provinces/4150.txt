@@ -1,12 +1,2 @@
-#
-controller = WBG
-culture = NoCulture
-religion = NoReligion
-base_tax = 0
-base_production = 0
-trade_goods = grain
-base_manpower = 0
-capital = "wiJahFiXJItb"
-is_city = yes
+# Tundra/Jungle
 discovered_by = western
-discovered_by = ottoman
