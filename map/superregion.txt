@@ -9,4 +9,5 @@ Notchina = {
 }
 NotNorthAmerica = { 
 	RAmerica1 RAmerica2 RAmerica4 RAmerica3 RAmerica5 RAmerica6 RAmerica7 RAmerica8 RAmerica10 RAmerica9
+	RAmerica11 RAmerica12 
 }

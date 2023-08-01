@@ -61,6 +61,7 @@ RAmerica4 = {
 RAmerica5 = { 
 	areas = { 
 		America56 America57 America58 America59 America60 America61 America62 America63 America64 America65
+		America171 America172 America173 
 	}
 }
 RAmerica6 = { 
@@ -72,7 +73,7 @@ RAmerica6 = {
 RAmerica7 = { 
 	areas = { 
 		America81 America85 America86 America87 America88 America90 America79 America89 America80 America83
-		America82 America84 America78 America91 America93 America94 America95  America96 
+		America82 America84 America78 America91 America93 America94 America95 America96 
 	}
 }
 RAmerica8 = { 
@@ -90,6 +91,18 @@ RAmerica9 = {
 RAmerica10 = { 
 	areas = { 
 		America124 America126 America125 America127 America128 America129 America130 America131 America132 America134
-		America135 
+		America135 America137 America138 America139 America140 America141 
+	}
+}
+RAmerica11 = { 
+	areas = { 
+		America142 America143 America148 America149 America150 America151 America145 America144 America146 America147
+		America152 America153 America154 America155 America156 America157 America158 America160 America161 America162
+	}
+}
+RAmerica12 = { 
+	areas = { 
+		America159 America163 America164 America165 America166 America167 America168 America169 America170 
+		America174 America175 America176 America177 
 	}
 }
