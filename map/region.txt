@@ -34,3 +34,62 @@ china5 = {
 		Asia36 Asia39 Asia42 Asia43 Asia45 Asia35 Asia37 Asia44 
 	}
 }
+RAmerica1 = { 
+	areas = { 
+		America1 America2 America3 America4 America6 America5 America7 America9 America10 America11
+		America8 America12 America13 America14 
+	}
+}
+RAmerica2 = { 
+	areas = { 
+		America16 America15 America18 America19 America23 America22 America20 America17 America21 America24
+		America25 America26 America27 America28 America29 
+	}
+}
+RAmerica3 = { 
+	areas = { 
+		America30 America31 America32 America33 America35 America36 America37 America38 America39 America40
+		America41 America34 
+	}
+}
+RAmerica4 = { 
+	areas = { 
+		America43 America44 America45 America46 America47 America48 America50 America51 America52 America53
+		America54 America55 America42 America49 America136 
+	}
+}
+RAmerica5 = { 
+	areas = { 
+		America56 America57 America58 America59 America60 America61 America62 America63 America64 America65
+	}
+}
+RAmerica6 = { 
+	areas = { 
+		America69 America70 America71 America72 America73 America74 America75 America77 America67 America66
+		America68 
+	}
+}
+RAmerica7 = { 
+	areas = { 
+		America81 America85 America86 America87 America88 America90 America79 America89 America80 America83
+		America82 America84 America78 America91 America93 America94 America95  America96 
+	}
+}
+RAmerica8 = { 
+	areas = { 
+		America97 America98 America99 America100 America101 America102 America103 America104 America106 America107
+		America108 America109 America110 America111 
+	}
+}
+RAmerica9 = { 
+	areas = { 
+		America112 America113 America114 America115 America116 America118 America119 America120 America121 America117
+		America122 America133 
+	}
+}
+RAmerica10 = { 
+	areas = { 
+		America124 America126 America125 America127 America128 America129 America130 America131 America132 America134
+		America135 
+	}
+}
