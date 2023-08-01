@@ -1,5 +1,5 @@
 Noteurope = { 
-	NotEngland 
+	NotEngland SW1 SW2 SW3 SW4 
 }
 dontuse = { 
 	dontuse 
@@ -10,4 +10,43 @@ Notchina = {
 NotNorthAmerica = { 
 	RAmerica1 RAmerica2 RAmerica4 RAmerica3 RAmerica5 RAmerica6 RAmerica7 RAmerica8 RAmerica10 RAmerica9
 	RAmerica11 RAmerica12 
+}
+NotIndia1 = { 
+	India1 India2 India3 India5 India8 
+}
+Notindia2 = { 
+	India4 India6 India7 India9 
+}
+NotCentralAsia1 = { 
+	Midlands12 Midlands10 Midlands9 
+}
+NotCentralAsia2 = { 
+	Midlands3 Midlands1 Midlands4 Midlands2 
+}
+NotCentralAsia3 = { 
+	Midlands5 Midlands6 Midlands7 Midlands8 
+}
+Noteurope2 = { 
+	SW6 SW9 SW5 SW7 
+}
+Noteurope3 = { 
+	SW12 SW11 SW8 SW10 
+}
+Notstralia1 = { 
+	Shrimp1 Shrimp2 Shrimp5 Shrimp6 Shrimp4 
+}
+Notstralia2 = { 
+	Shrimp9 Shrimp8 Shrimp20 Shrimp21 
+}
+Notstralia3 = { 
+	Shrimp10 Shrimp11 Shrimp13 
+}
+Notstralia4 = { 
+	Shrimp14 Shrimp12 
+}
+Notstralia5 = { 
+	Shrimp17 Shrimp18 Shrimp19 
+}
+Notstralia6 = { 
+	Shrimp15 Shrimp16 Shrimp7 
 }

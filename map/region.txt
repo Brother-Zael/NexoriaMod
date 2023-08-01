@@ -1,7 +1,5 @@
 NotEngland = { 
 	areas = { 
-		18 13 8 9 11 12 15 14 7 1
-		2 4 3 5 6 10 44 
 	}
 }
 China1 = { 
@@ -102,7 +100,309 @@ RAmerica11 = {
 }
 RAmerica12 = { 
 	areas = { 
-		America159 America163 America164 America165 America166 America167 America168 America169 America170 
-		America174 America175 America176 America177 
+		America159 America163 America164 America165 America166 America167 America168 America169 America170 America174
+		America175 America176 America177 
+	}
+}
+India1 = { 
+	areas = { 
+		ind06 ind07 ind08 ind04 ind03 ind02 ind05 
+	}
+}
+India2 = { 
+	areas = { 
+		ind24 ind36 ind37 ind26 ind28 ind27 ind21 ind20 ind19 
+	}
+}
+India3 = { 
+	areas = { 
+		ind18 ind25 ind16 ind01 ind17 ind22 ind23 
+	}
+}
+India4 = { 
+	areas = { 
+		ind09 ind10 ind30 ind12 ind11 ind14 ind29 ind15 ind13 
+	}
+}
+India5 = { 
+	areas = { 
+		ind39 ind50 ind51 ind52 ind49 ind58 ind56 ind54 ind53 ind40
+		ind42 ind38 ind69 ind57 
+	}
+}
+India6 = { 
+	areas = { 
+		ind35 ind34 ind48 ind33 ind60 ind46 ind32 ind47 ind59 ind41
+		ind44 ind31 
+	}
+}
+India7 = { 
+	areas = { 
+		ind43 ind62 ind61 ind45 ind65 ind63 ind68 ind64 ind66 
+	}
+}
+India8 = { 
+	areas = { 
+		ind71 ind72 ind73 ind70 ind74 ind75 ind77 ind78 ind79 ind76
+		ind82 ind89 ind83 
+	}
+}
+India9 = { 
+	areas = { 
+		ind67 ind80 ind90 Eu001 ind87 ind88 ind81 ind85 ind84 
+	}
+}
+Midlands1 = { 
+	areas = { 
+		Eu036 Eu052 Eu047 Eu048 Eu019 Eu018 Eu038 Eu037 Eu053 Eu046
+		Eu051 Eu049 Eu050 Eu020 Eu039 
+	}
+}
+Midlands2 = { 
+	areas = { 
+		Eu067 Eu089 Eu091 Eu090 Eu078 Eu076 Eu069 Eu068 Eu077 Eu062
+		Eu070 Eu079 Eu092 
+	}
+}
+Midlands3 = { 
+	areas = { 
+		Eu071 Eu072 Eu054 Eu065 Eu066 Eu063 Eu064 Eu073 Eu055 
+	}
+}
+Midlands4 = { 
+	areas = { 
+		Eu093 Eu080 Eu094 Eu081 Eu095 Eu096 Eu082 Eu083 Eu098 Eu099
+		Eu097 Eu100 Eu101 
+	}
+}
+Midlands5 = { 
+	areas = { 
+		Eu103 Eu102 Eu104 Eu106 Eu107 Eu105 Eu111 Eu112 Eu110 Eu108
+		Eu109 Eu113 
+	}
+}
+Midlands6 = { 
+	areas = { 
+		Eu120 Eu122 Eu126 Eu141 Eu143 Eu142 Eu139 Eu137 Eu134 Eu133
+		Eu124 Eu123 Eu136 Eu138 Eu140 Eu135 Eu121 
+	}
+}
+Midlands7 = { 
+	areas = { 
+		Eu115 Eu116 Eu117 Eu125 Eu128 Eu129 Eu130 Eu118 Eu127 
+	}
+}
+Midlands8 = { 
+	areas = { 
+		Eu131 Eu132 Eu119 Eu016 Eu005 Eu030 Eu029 Eu088 Eu014 Eu006
+		Eu008 Eu031 Eu015 
+	}
+}
+Midlands9 = { 
+	areas = { 
+		Eu114 Eu086 Eu087 Eu085 Eu084 Eu074 Eu075 Eu058 Eu007 Eu061
+		Eu060 Eu059 
+	}
+}
+Midlands10 = { 
+	areas = { 
+		Eu056 Eu057 Eu045 Eu043 Eu025 Eu024 Eu023 Eu042 Eu009 Eu022
+		Eu040 Eu041 Eu021 Eu044 Eu002 Eu010 
+	}
+}
+Midlands12 = { 
+	areas = { 
+		Eu035 Eu034 Eu028 Eu013 Eu004 Eu012 Eu003 Eu011 Eu027 Eu032
+		Eu017 Eu026 Eu033 
+	}
+}
+Euro1 = { 
+	areas = { 
+	}
+}
+SW1 = { 
+	areas = { 
+		12 15 2 4 1 3 5 6 7 10
+		9 11 8 13 44 18 14 
+	}
+}
+SW2 = { 
+	areas = { 
+		28 26 24 25 23 22 21 16 20 19
+		17 
+	}
+}
+SW3 = { 
+	areas = { 
+		29 31 30 32 34 36 33 27 120 50
+		49 71 
+	}
+}
+SW4 = { 
+	areas = { 
+		35 37 38 48 40 41 39 
+	}
+}
+SW5 = { 
+	areas = { 
+		62 63 64 42 47 53 59 45 60 61
+		160 46 
+	}
+}
+SW6 = { 
+	areas = { 
+		65 56 66 68 67 55 52 51 54 69
+		70 
+	}
+}
+SW7 = { 
+	areas = { 
+		97 57 99 126 125 121 85 127 124 122
+		72 128 123 98 140 
+	}
+}
+SW9 = { 
+	areas = { 
+		81 73 76 75 79 80 83 78 77 84
+	}
+}
+SW8 = { 
+	areas = { 
+		93 94 58 86 89 87 88 90 91 92
+		95 96 82 
+	}
+}
+SW10 = { 
+	areas = { 
+		149 146 147 148 153 150 151 154 157 156
+		155 162 163 166 161 165 164 159 152 
+	}
+}
+SW11 = { 
+	areas = { 
+		132 131 130 129 136 134 135 118 139 143
+		119 138 144 142 141 137 145 133 
+	}
+}
+SW12 = { 
+	areas = { 
+		103 104 102 106 taken! 110 113 112 111 117
+		115 101 105 108 109 114 116 
+	}
+}
+Shrimp1 = { 
+	areas = { 
+		Aus024 Aus023 Aus020 Aus018 Aus017 Aus019 Aus021 Aus022 Aus031 Aus037
+		Aus044 Aus033 Aus035 Aus034 
+	}
+}
+Shrimp2 = { 
+	areas = { 
+		Aus032 Aus038 Aus039 Aus042 Aus041 Aus040 Aus226 Aus030 Aus029 Aus026
+		Aus028 Aus027 Aus025 
+	}
+}
+Shrimp3 = { 
+	areas = { 
+	}
+}
+Shrimp4 = { 
+	areas = { 
+		Aus012 Aus011 Aus013 Aus010 Aus009 Aus008 Aus006 Aus002 Aus001 Aus003
+		Aus004 Aus014 Aus005 Aus016 Aus007 
+	}
+}
+Shrimp5 = { 
+	areas = { 
+		Aus53 Aus49 Aus48 Aus47 Aus45 Aus54 Aus55 Aus46 Aus043 Aus50
+		Aus51 Aus56 Aus52 Aus57 
+	}
+}
+Shrimp6 = { 
+	areas = { 
+		Aus60 Aus64 Aus62 Aus63 Aus58 Aus59 Aus61 
+	}
+}
+Shrimp7 = { 
+	areas = { 
+		Aus68 Aus67 Aus71 Aus72 Aus73 Aus70 Aus66 Aus65 Aus69 Aus74
+		Aus75 Aus76 
+	}
+}
+Shrimp9 = { 
+	areas = { 
+		Aus199 Aus201 Aus198 Aus197 Aus190 Aus193 Aus194 Aus196 Aus192 Aus195
+		Aus191 
+	}
+}
+Shrimp8 = { 
+	areas = { 
+		Aus200 Aus203 Aus202 Aus207 Aus205 Aus204 Aus206 Aus208 Aus77 
+	}
+}
+Shrimp10 = { 
+	areas = { 
+		Aus157 Aus152 Aus158 Aus153 Aus159 Aus160 Aus161 Aus154 Aus156 
+	}
+}
+Shrimp12 = { 
+	areas = { 
+		Aus82 Aus80 Aus142 Aus150 Aus81 Aus139 Aus149 Aus151 Aus83 Aus140
+		Aus143 Aus147 
+	}
+}
+Shrimp11 = { 
+	areas = { 
+		Aus155 Aus162 Aus164 Aus163 Aus168 Aus171 Aus169 Aus167 Aus165 Aus166
+	}
+}
+Shrimp13 = { 
+	areas = { 
+		Aus176 Aus170 Aus175 Aus177 Aus178 Aus179 Aus173 Aus185 Aus180 
+	}
+}
+Shrimp14 = { 
+	areas = { 
+		Aus84 Aus85 Aus86 Aus141 Aus138 Aus144 Aus174 Aus172 Aus145 Aus181
+		Aus146 Aus137 
+	}
+}
+Shrimp15 = { 
+	areas = { 
+		Aus87 Aus89 Aus90 Aus91 Aus92 Aus94 Aus93 Aus88 Aus95 Aus98
+		Aus97 
+	}
+}
+Shrimp16 = { 
+	areas = { 
+		Aus96 Aus100 Aus107 Aus108 Aus106 Aus101 Aus103 Aus104 Aus99 Aus105
+		Aus102 
+	}
+}
+Shrimp17 = { 
+	areas = { 
+		Aus109 Aus110 Aus112 Aus113 Aus111 Aus116 Aus115 Aus134 Aus117 Aus114
+	}
+}
+Shrimp18 = { 
+	areas = { 
+		Aus123 Aus124 Aus126 Aus127 Aus125 Aus122 Aus121 Aus120 Aus119 Aus118
+		Aus132 Aus135 
+	}
+}
+Shrimp19 = { 
+	areas = { 
+		Aus129 Aus130 Aus128 Aus131 Aus222 Aus220 Aus218 Aus221 Aus224 Aus225
+		Aus223 Aus136 Aus219 
+	}
+}
+Shrimp20 = { 
+	areas = { 
+		Aus183 Aus216 Aus213 Aus214 Aus212 Aus215 Aus133 
+	}
+}
+Shrimp21 = { 
+	areas = { 
+		Aus184 Aus211 Aus210 Aus217 Aus209 Aus189 Aus186 Aus188 Aus187 Aus182
 	}
 }
