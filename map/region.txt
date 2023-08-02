@@ -286,8 +286,8 @@ SW11 = {
 }
 SW12 = { 
 	areas = { 
-		103 104 102 106 110 113 112 111 117
-		115 101 105 108 109 114 116 
+		103 104 102 106 110 113 112 111 117 115
+		101 105 108 109 114 116 
 	}
 }
 Shrimp1 = { 
@@ -493,5 +493,75 @@ RAmerica13 = {
 	areas = { 
 		America180 America179 America178 America181 America184 America186 America188 America189 America185 America183
 		America182 America187 
+	}
+}
+RAmerica14 = { 
+	areas = { 
+		America296 America297 America300 America305 America306 America320 America329 America331 America364 America332
+		America379 America370 America365 America330 America299 America298 America319 America318 America366 America335
+		America337 America336 America334 America326 America325 America323 America304 America195 America193 America327
+		America321 America302 America301 America194 America324 America328 America338 America381 America380 America382
+	}
+}
+RAmerica15 = { 
+	areas = { 
+		America309 America236 America226 America206 America211 America208 America203 America199 America198 America293
+		America307 America315 America317 America303 America196 America197 America192 America191 America201 America294
+		America295 America200 America190 America210 America212 America209 America207 America204 America205 America235
+		America308 America202 
+	}
+}
+RAmerica16 = { 
+	areas = { 
+		America314 America313 America311 America310 America222 America221 America220 America214 America215 America216
+		America218 America230 America255 America252 America232 America251 America243 America246 America229 America244
+		America239 America228 America241 America254 America247 America249 America231 America223 America219 America217
+		America213 America237 America225 America240 America242 America224 America227 America238 America312 America250
+		America245 America234 America265 
+	}
+}
+RAmerica17 = { 
+	areas = { 
+		America347 America345 America349 America360 America357 America356 America355 America354 America352 America353
+		America350 America351 America348 America344 America343 America342 America340 America341 America363 America362
+		America359 America361 America358 America339 America383 America384 
+	}
+}
+RAmerica18 = { 
+	areas = { 
+		America253 America257 America280 America287 America290 America292 America276 America278 America275 America271
+		America270 America272 America274 America269 America268 America264 America273 America279 America286 America289
+		America291 America288 America285 America284 America282 America283 America259 America258 America233 America261
+		America260 America281 America262 America266 America263 America267 
+	}
+}
+NWEastCoast1 = { 
+	areas = { 
+		America346 America399 America407 America406 America400 America402 America395 America398 America411 America410
+		America424 America428 America416 America415 America414 America404 America401 America408 America409 America405
+		America403 America425 
+	}
+}
+NWEastCoast2 = { 
+	areas = { 
+		America435 America438 America436 America439 America440 America442 America445 America448 America449 America450
+		America455 America457 America462 America461 America463 America454 America453 America452 America451 America447
+		America443 America446 America444 
+	}
+}
+NWEastCoast3 = { 
+	areas = { 
+		America387 America389 America388 America385 America394 America397 America396 America412 America423 America456
+		America458 America459 America460 America434 America433 America432 America431 America417 America392 America377
+		America376 America373 America375 America427 America420 America429 America426 America419 America421 America430
+		America418 America390 America386 America391 America378 America372 America371 America374 America422 America393
+	}
+}
+NWEastCoast4 = { 
+	areas = { 
+		America464 America465 America466 America469 America468 America467 America478 America476 America470 America471
+		America475 America480 America481 America479 America484 America503 America485 America486 America488 America490
+		America491 America474 America473 America482 America487 America494 America493 America492 America489 America495
+		America496 America497 America498 America499 America500 America501 America441 America483 America472 
 	}
 }

@@ -61,3 +61,12 @@ NotNewWorld3 = {
 NotNorthAmerica2 = { 
 	RAmerica3 RAmerica1 RAmerica2 RAmerica4 RAmerica12 RAmerica13 
 }
+NotNorthAmerica3 = { 
+	RAmerica16 RAmerica18 
+}
+NotNorthAmerica4 = { 
+	RAmerica14 RAmerica17 RAmerica15 
+}
+NotNorthAmerica5 = { 
+	NWEastCoast3 NWEastCoast1 NWEastCoast2 NWEastCoast4 
+}
