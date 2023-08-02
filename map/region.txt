@@ -485,7 +485,7 @@ Newreg11 = {
 }
 Newreg12 = { 
 	areas = { 
-		New239  New190 New191 New200 New198 New199 New197 New236 New237
-		New196 New193 New194 New201 New195 New192 New235 
+		New239 New190 New191 New200 New198 New199 New197 New236 New237 New196
+		New193 New194 New201 New195 New192 New235 New304 
 	}
 }

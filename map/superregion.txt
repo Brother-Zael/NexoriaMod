@@ -54,8 +54,8 @@ NotNewWorld1 = {
 	Newreg05 Newreg02 Newreg03 Newreg01 
 }
 NotNewWorld2 = { 
-	Newreg04 Newreg06 Newreg12 Newreg07 
+	Newreg04 Newreg06 Newreg12 Newreg07 Newreg08 
 }
 NotNewWorld3 = { 
-	Newreg08 Newreg10 Newreg11 Newreg09 
+	Newreg10 Newreg11 Newreg09 
 }
