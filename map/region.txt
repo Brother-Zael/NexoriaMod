@@ -489,3 +489,9 @@ Newreg12 = {
 		New193 New194 New201 New195 New192 New235 New304 
 	}
 }
+RAmerica13 = { 
+	areas = { 
+		America180 America179 America178 America181 America184 America186 America188 America189 America185 America183
+		America182 America187 
+	}
+}

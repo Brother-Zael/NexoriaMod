@@ -8,8 +8,7 @@ Notchina = {
 	china4 china5 China2 China1 China3 
 }
 NotNorthAmerica = { 
-	RAmerica1 RAmerica2 RAmerica4 RAmerica3 RAmerica5 RAmerica6 RAmerica7 RAmerica8 RAmerica10 RAmerica9
-	RAmerica11 RAmerica12 
+	RAmerica5 RAmerica6 RAmerica7 RAmerica8 RAmerica10 RAmerica9 RAmerica11 
 }
 NotIndia1 = { 
 	India1 India2 India3 India5 India8 
@@ -58,4 +57,7 @@ NotNewWorld2 = {
 }
 NotNewWorld3 = { 
 	Newreg10 Newreg11 Newreg09 
+}
+NotNorthAmerica2 = { 
+	RAmerica3 RAmerica1 RAmerica2 RAmerica4 RAmerica12 RAmerica13 
 }
