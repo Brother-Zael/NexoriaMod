@@ -406,3 +406,86 @@ Shrimp21 = {
 		Aus184 Aus211 Aus210 Aus217 Aus209 Aus189 Aus186 Aus188 Aus187 Aus182
 	}
 }
+Newreg01 = { 
+	areas = { 
+		New005 New006 New008 New010 New011 New014 New013 New007 New009 New004
+		New003 New002 New001 New012 
+	}
+}
+Newreg02 = { 
+	areas = { 
+		New038 New039 New044 New180 New048 New046 New040 New041 New042 New167
+		New172 New169 New050 New049 New168 New057 New052 New053 New054 New055
+		New056 New058 New059 New051 New037 New043 New171 New173 New177 New176
+		New175 New179 New174 New178 New061 New062 New065 New064 New066 New060
+		New063 
+	}
+}
+Newreg03 = { 
+	areas = { 
+		New075 New074 New073 New071 New068 New077 New076 New067 New070 New072
+		New069 New078 New095 New088 New087 New086 New085 New084 New083 New081
+		New079 New082 New089 New092 New090 New091 New080 
+	}
+}
+Newreg04 = { 
+	areas = { 
+		New101 New098 New099 New100 New093 New094 New096 New122 New115 New118
+		New121 New120 New119 New114 New113 New110 New106 New105 New102 New104
+		New108 New107 New109 New112 New103 
+	}
+}
+Newreg05 = { 
+	areas = { 
+		New151 New152 New150 New154 New170 New166 New161 New160 New159 New158
+		New157 New155 New153 New165 New162 New156 New163 New164 New148 New149
+	}
+}
+Newreg06 = { 
+	areas = { 
+		New146 New145 New144 New142 New140 New139 New125 New126 New138 New135
+		New134 New132 New130 New027 New131 New133 New129 New128 New127 New137
+		New136 New116 New117 New124 New147 New123 New143 New141 
+	}
+}
+Newreg07 = { 
+	areas = { 
+		New202 New203 New015 New206 New204 New207 New205 New208 New030 New032
+		New031 New034 New036 New035 New033 New029 New028 New215 New214 New217
+		New218 New213 New212 New210 New209 New211 New216 
+	}
+}
+Newreg08 = { 
+	areas = { 
+		New188 New189 New187 New184 New183 New182 New181 New186 New259 New246
+		New258 New256 New251 New250 New248 New253 New249 New254 New257 New255
+		New185 New252 
+	}
+}
+Newreg09 = { 
+	areas = { 
+		New247 New275 New276 New277 New278 New283 New288 New282 New281 New274
+		New273 New293 New292 New291 New294 New295 New298 New296 New297 New025
+		New302 New303 New300 New299 New024 New023 New026 New301 
+	}
+}
+Newreg10 = { 
+	areas = { 
+		New245 New244 New243 New265 New266 New240 New225 New219 New220 New227
+		New226 New242 New241 New232 New221 New222 New223 New228 New233 New234
+		New017 New231 New230 New016 New229 New224 
+	}
+}
+Newreg11 = { 
+	areas = { 
+		New018 New019 New021 New020 New022 New269 New290 New289 New287 New285
+		New270 New263 New261 New260 New279 New280 New271 New284 New262 New264
+		New267 New286 New268 
+	}
+}
+Newreg12 = { 
+	areas = { 
+		New239  New190 New191 New200 New198 New199 New197 New236 New237
+		New196 New193 New194 New201 New195 New192 New235 
+	}
+}
