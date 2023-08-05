@@ -308,6 +308,19 @@ categories =  {
 		allowed_num_of_buildings = 1
 		nation_designer_cost_multiplier = 1.05
 	}
+
+	city = {
+		color = { 232 172 103 }		
+
+		type = plains
+		sound_type = plains
+
+		movement_cost = 1.00
+		local_development_cost = 0.05
+		nation_designer_cost_multiplier = 0.95
+		supply_limit = 7
+		allowed_num_of_buildings = 1
+	}
 }
 	
 ##################################################################
