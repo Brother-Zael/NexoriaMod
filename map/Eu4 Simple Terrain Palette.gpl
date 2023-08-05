@@ -1,0 +1,29 @@
+GIMP Palette
+Name: EU4-Provinces.gpl
+Columns: 64
+#
+255 255 255	ocean
+0 0 200 inland_ocean
+235 235 235 glacier
+179 255 64 farmlands
+18 74 9 forest
+113 176 151 hills
+41 155 22 woods
+105 24 4 mountain
+128 128 128 impassable_mountains
+90 235 27 grasslands
+98 163 18 jungle
+13 189 130 marsh
+242 242 111 desert
+255 211 110 coastal_desert
+49 175 191 coastline
+232 172 102 drylands
+176 129 21 highlands
+248 199 23 savannah
+147 200 83 steppe
+105 24 5 volcano
+105 24 6 mountain_pass
+49 175 192 sequestered_coastline
+41 155 23 magical_grove
+179 255 65 fertile_lands
+232 172 103 city
