@@ -21,9 +21,9 @@ Columns: 64
 176 129 21 highlands
 248 199 23 savannah
 147 200 83 steppe
-105 24 5 volcano
-105 24 6 mountain_pass
-49 175 192 sequestered_coastline
-41 155 23 magical_grove
-179 255 65 fertile_lands
-232 172 103 city
+221 65 28 volcano
+30 7 2 mountain_pass
+116 195 206 sequestered_coastline
+250 149 245 magical_grove
+171 252 105 fertile_lands
+155 151 146 city
