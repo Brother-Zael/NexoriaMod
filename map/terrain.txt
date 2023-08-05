@@ -243,6 +243,71 @@ categories =  {
 		nation_designer_cost_multiplier = 0.9	
 		supply_limit = 6
 	}	
+
+	volcano = {
+		color = { 105 24 5  }
+
+		type = mountains
+		sound_type = mountains
+
+		movement_cost = 1.5
+		defence = 2
+		local_defensiveness = 0.25
+		local_development_cost = 0.35
+		nation_designer_cost_multiplier = 0.75
+		supply_limit = 4
+	}
+
+	mountain_pass = {
+		color = { 105 24 6  }
+
+		type = mountains
+		sound_type = mountains
+
+		movement_cost = 1.5
+		defence = 2
+		local_defensiveness = 0.25
+		local_development_cost = 0.35
+		nation_designer_cost_multiplier = 0.75
+		supply_limit = 4
+	}
+
+	sequestered_coastline = {
+		color = { 49 175 192 }
+
+		sound_type = sea
+
+		movement_cost = 1.0
+		local_development_cost = 0.15
+		nation_designer_cost_multiplier = 0.85		
+		supply_limit = 6 
+	}
+
+	magical_grove = {
+		color = { 41 155 23 }
+
+		type = forest
+		sound_type = forest
+
+		movement_cost = 1.10
+		defence = 1
+		local_development_cost = 0.15
+		nation_designer_cost_multiplier = 0.9
+		supply_limit = 6
+	}
+
+	fertile_lands = {
+		color = { 179 255 65 }
+
+		type = plains
+		sound_type = plains
+
+		movement_cost = 1.10
+		local_development_cost = -0.05
+		supply_limit = 10
+		allowed_num_of_buildings = 1
+		nation_designer_cost_multiplier = 1.05
+	}
 }
 	
 ##################################################################
