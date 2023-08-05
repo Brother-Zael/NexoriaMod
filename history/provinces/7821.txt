@@ -1,16 +1,11 @@
 #
-add_core = SWE
 owner = SWE
 controller = SWE
 culture = swedish
 religion = catholic
 base_tax = 5
 base_production = 5
-trade_goods = grain
 base_manpower = 3
 capital = "uOdOgQJdzMvr"
-is_city = yes
-discovered_by = eastern
+is_city = no
 discovered_by = western
-discovered_by = muslim
-discovered_by = ottoman

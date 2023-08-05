@@ -19,7 +19,7 @@ China3 = {
 }
 dontuse = { 
 	areas = { 
-		dontuse 
+		dontuse ImpassDesert ImpassMountain ImpassSwamp 
 	}
 }
 china4 = { 
@@ -287,7 +287,7 @@ SW11 = {
 SW12 = { 
 	areas = { 
 		103 104 102 106 110 113 112 111 117 115
-		101 105 108 109 114 116 
+		101 105 108 109 114 116 167 
 	}
 }
 Shrimp1 = { 
@@ -532,7 +532,7 @@ RAmerica18 = {
 		America253 America257 America280 America287 America290 America292 America276 America278 America275 America271
 		America270 America272 America274 America269 America268 America264 America273 America279 America286 America289
 		America291 America288 America285 America284 America282 America283 America259 America258 America233 America261
-		America260 America281 America262 America266 America263 America267 America 504 
+		America260 America281 America262 America266 America263 America267 America504 
 	}
 }
 NWEastCoast1 = { 
