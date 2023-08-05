@@ -1,0 +1,200 @@
+bertocean = { 
+	color = { 
+		239 59 185 
+	}
+	provinces = { 
+	}
+}
+bertinlandocean = { 
+	color = { 
+		123 85 61 
+	}
+	provinces = { 
+	}
+}
+bertglacier = { 
+	color = { 
+		206 169 18 
+	}
+	provinces = { 
+	}
+}
+bertfarmlands = { 
+	color = { 
+		139 220 74 
+	}
+	provinces = { 
+		2167 2174 2169 2177 2178 2176 5422 2193 
+	}
+}
+bertforest = { 
+	color = { 
+		214 234 21 
+	}
+	provinces = { 
+		2219 2215 2216 2163 2153 2160 2161 2172 2197 2198
+	}
+}
+berthills = { 
+	color = { 
+		218 184 94 
+	}
+	provinces = { 
+		2233 2226 2242 2245 2241 2253 2211 2225 2217 2137
+		2181 5417 2133 
+	}
+}
+bertwoods = { 
+	color = { 
+		37 166 235 
+	}
+	provinces = { 
+	}
+}
+bertmountain = { 
+	color = { 
+		70 42 220 
+	}
+	provinces = { 
+		2251 2182 2184 2143 5421 2113 2132 2138 2131 2186
+		2185 2205 5416 2129 
+	}
+}
+bertimpassable_mountains = { 
+	color = { 
+		215 139 128 
+	}
+	provinces = { 
+	}
+}
+bertgrasslands = { 
+	color = { 
+		145 227 209 
+	}
+	provinces = { 
+		2221 2222 2223 2218 2154 2155 2157 2158 2159 2202
+		2192 2191 2190 2188 2206 2208 2128 2210 
+	}
+}
+bertjungle = { 
+	color = { 
+		188 125 145 
+	}
+	provinces = { 
+	}
+}
+bertmarsh = { 
+	color = { 
+		142 185 84 
+	}
+	provinces = { 
+	}
+}
+bertdesert = { 
+	color = { 
+		32 64 174 
+	}
+	provinces = { 
+	}
+}
+bertcoastaldesert = { 
+	color = { 
+		170 204 32 
+	}
+	provinces = { 
+	}
+}
+bertcoastline = { 
+	color = { 
+		136 29 128 
+	}
+	provinces = { 
+		2234 2229 2232 2235 2236 2237 2238 2239 2246 2244
+		2248 2252 2220 2213 2212 2203 2204 2214 2166 2168
+		2165 2164 2156 2173 2175 2201 
+	}
+}
+bertdrylands = { 
+	color = { 
+		19 233 174 
+	}
+	provinces = { 
+	}
+}
+berthighlands = { 
+	color = { 
+		124 52 177 
+	}
+	provinces = { 
+		2140 2141 2144 2145 2147 5420 2162 2170 2171 2195
+		2196 2199 2200 2194 2189 2209 2207 5418 2106 2097
+		2152 2151 
+	}
+}
+bertsavannah = { 
+	color = { 
+		138 74 128 
+	}
+	provinces = { 
+	}
+}
+bertsteppe = { 
+	color = { 
+		26 179 27 
+	}
+	provinces = { 
+	}
+}
+bertvolcano = { 
+	color = { 
+		204 148 185 
+	}
+	provinces = { 
+		2243 2249 2230 2224 
+	}
+}
+bertmountainpass = { 
+	color = { 
+		173 70 181 
+	}
+	provinces = { 
+		2135 2146 2180 2179 2183 2102 9940 2139 2136 2187
+	}
+}
+bertsequestered = { 
+	color = { 
+		48 190 105 
+	}
+	provinces = { 
+		2142 2240 2247 2231 2228 2227 2250 2150 2149 2148
+	}
+}
+bertgrove = { 
+	color = { 
+		168 82 59 
+	}
+	provinces = { 
+	}
+}
+bertfertilelands = { 
+	color = { 
+		176 195 129 
+	}
+	provinces = { 
+	}
+}
+bertcity = { 
+	color = { 
+		159 107 202 
+	}
+	provinces = { 
+	}
+}
+impassables = { 
+	color = { 
+		213 173 23 
+	}
+	provinces = { 
+		4153 
+	}
+}
