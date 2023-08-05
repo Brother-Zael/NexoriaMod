@@ -14,14 +14,14 @@ bertinlandocean = {
 }
 bertglacier = { 
 	color = { 
-		206 169 18 
+		235 235 235 
 	}
 	provinces = { 
 	}
 }
 bertfarmlands = { 
 	color = { 
-		139 220 74 
+		179 255 64 
 	}
 	provinces = { 
 		2167 2174 2169 2177 2178 2176 5422 2193 2117 2116
@@ -30,7 +30,7 @@ bertfarmlands = {
 }
 bertforest = { 
 	color = { 
-		102 197 49 
+		18 74 9 
 	}
 	provinces = { 
 		2219 2215 2216 2163 2153 2160 2161 2172 2197 2198
@@ -39,7 +39,7 @@ bertforest = {
 }
 berthills = { 
 	color = { 
-		218 184 94 
+		113 176 151 
 	}
 	provinces = { 
 		2233 2226 2242 2245 2241 2253 2211 2225 2217 2137
@@ -50,7 +50,7 @@ berthills = {
 }
 bertwoods = { 
 	color = { 
-		37 166 235 
+		41 155 22 
 	}
 	provinces = { 
 		2062 1977 1787 2061 2060 1996 2057 2058 1957 1969
@@ -59,7 +59,7 @@ bertwoods = {
 }
 bertmountain = { 
 	color = { 
-		70 42 220 
+		105 24 4
 	}
 	provinces = { 
 		2251 2182 2184 2143 5421 2113 2132 2138 2131 2186
@@ -69,14 +69,14 @@ bertmountain = {
 }
 bertimpassable_mountains = { 
 	color = { 
-		215 139 128 
+		128 128 128 
 	}
 	provinces = { 
 	}
 }
 bertgrasslands = { 
 	color = { 
-		103 192 48 
+		90 235 27 
 	}
 	provinces = { 
 		2221 2222 2223 2218 2154 2155 2157 2158 2159 2202
@@ -86,14 +86,14 @@ bertgrasslands = {
 }
 bertjungle = { 
 	color = { 
-		188 125 145 
+		98 163 18 
 	}
 	provinces = { 
 	}
 }
 bertmarsh = { 
 	color = { 
-		101 176 113 
+		13 189 130 
 	}
 	provinces = { 
 		2108 5419 2006 
@@ -101,21 +101,21 @@ bertmarsh = {
 }
 bertdesert = { 
 	color = { 
-		32 64 174 
+		242 242 111 
 	}
 	provinces = { 
 	}
 }
 bertcoastaldesert = { 
 	color = { 
-		170 204 32 
+		255 211 110 
 	}
 	provinces = { 
 	}
 }
 bertcoastline = { 
 	color = { 
-		136 29 128 
+		49 175 191
 	}
 	provinces = { 
 		2234 2229 2232 2235 2236 2237 2238 2239 2246 2244
@@ -125,14 +125,14 @@ bertcoastline = {
 }
 bertdrylands = { 
 	color = { 
-		19 233 174 
+		232 172 102 
 	}
 	provinces = { 
 	}
 }
 berthighlands = { 
 	color = { 
-		208 80 53 
+		176 129 21 
 	}
 	provinces = { 
 		2140 2141 2144 2145 2147 5420 2162 2170 2171 2195
@@ -142,21 +142,21 @@ berthighlands = {
 }
 bertsavannah = { 
 	color = { 
-		138 74 128 
+		248 199 23 
 	}
 	provinces = { 
 	}
 }
 bertsteppe = { 
 	color = { 
-		26 179 27 
+		147 200 83 
 	}
 	provinces = { 
 	}
 }
 bertvolcano = { 
 	color = { 
-		234 165 39 
+		221 65 28 
 	}
 	provinces = { 
 		2243 2249 2230 2224 
@@ -164,7 +164,7 @@ bertvolcano = {
 }
 bertmountainpass = { 
 	color = { 
-		173 70 181 
+		30 7 2 
 	}
 	provinces = { 
 		2135 2146 2180 2179 2183 2102 9940 2139 2136 2187
@@ -173,7 +173,7 @@ bertmountainpass = {
 }
 bertsequestered = { 
 	color = { 
-		48 190 105 
+		116 195 206 
 	}
 	provinces = { 
 		2142 2240 2247 2231 2228 2227 2250 2150 2149 2148
@@ -181,21 +181,21 @@ bertsequestered = {
 }
 bertgrove = { 
 	color = { 
-		168 82 59 
+		250 149 245
 	}
 	provinces = { 
 	}
 }
 bertfertilelands = { 
 	color = { 
-		176 195 129 
+		171 252 105 
 	}
 	provinces = { 
 	}
 }
 bertcity = { 
 	color = { 
-		159 107 202 
+		155 151 146 
 	}
 	provinces = { 
 	}
