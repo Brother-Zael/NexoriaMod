@@ -21,7 +21,7 @@ categories =  {
 	}
 
 	inland_ocean = {
-		color = { 0 0 200 }
+		color = { 0 115 200 }
 
 		sound_type = sea
 		is_water = yes
