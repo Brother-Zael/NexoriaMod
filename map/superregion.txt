@@ -2,7 +2,6 @@ Noteurope = {
 	NotEngland SW1 SW2 SW3 SW4 
 }
 dontuse = { 
-	dontuse 
 }
 Notchina = { 
 	china4 china5 China2 China1 China3 

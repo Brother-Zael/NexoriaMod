@@ -19,7 +19,7 @@ China3 = {
 }
 dontuse = { 
 	areas = { 
-		dontuse ImpassSwamp ImpassJungle ImpassMountain ImpassDesert 
+		ImpassSwamp ImpassJungle ImpassMountain ImpassDesert 
 	}
 }
 china4 = { 
