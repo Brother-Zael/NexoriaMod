@@ -35,88 +35,89 @@ china5 = {
 RAmerica1 = { 
 	areas = { 
 		America1 America2 America3 America4 America6 America5 America7 America9 America10 America11
-		America8 America12 America13 America14 
+		America8 America14 America12 America17 
 	}
 }
 RAmerica2 = { 
 	areas = { 
-		America16 America15 America18 America19 America23 America22 America20 America17 America21 America24
-		America25 America26 America27 America28 America29 
+		America18 America19 America23 America25 America26 America42 America513 America48 America24 America45
+		America43 America49 America50 America44 America15 America16 America20 
 	}
 }
 RAmerica3 = { 
 	areas = { 
-		America30 America31 America32 America33 America35 America36 America37 America38 America39 America40
-		America41 America34 
+		America30 America31 America32 America35 America36 America37 America38 America39 America40 America41
+		America34 America33 America13 America21 America29 America28 America27 America22 
 	}
 }
 RAmerica4 = { 
 	areas = { 
-		America43 America44 America45 America46 America47 America48 America50 America51 America52 America53
-		America54 America55 America42 America49 America136 America509 America513 
+		America46 America51 America52 America136 America53 America164 America159 America163 America166 America165
+		America47 America55 America168 America169 America167 
 	}
 }
 RAmerica5 = { 
 	areas = { 
-		America56 America57 America58 America59 America60 America61 America62 America63 America64 America65
-		America171 America172 America173 America512 America511 
+		America57 America58 America59 America60 America61 America62 America64 America65 America171 America172
+		America512 America511 America173 America63 America54 America174 America175 America176 
 	}
 }
 RAmerica6 = { 
 	areas = { 
-		America69 America70 America71 America72 America73 America74 America75 America77 America67 America66
-		America68 America506 America507 America508 
+		America70 America71 America72 America73 America67 America66 America68 America507 America506 America56
+		America508 America509 America69 America74 
 	}
 }
 RAmerica7 = { 
 	areas = { 
 		America81 America85 America86 America87 America88 America90 America79 America89 America80 America83
-		America82 America84 America78 America91 America93 America94 America95 America96 
+		America82 America84 America93 America94 America95 America75 America77 America78 America96 America91
+		America98 America97 
 	}
 }
 RAmerica8 = { 
 	areas = { 
-		America97 America98 America99 America100 America101 America102 America103 America104 America106 America107
-		America108 America109 America110 America111 
+		America99 America100 America101 America102 America106 America109 America110 America111 America108 America126
+		America127 America125 America128 America129 America131 
 	}
 }
 RAmerica9 = { 
 	areas = { 
-		America112 America113 America114 America115 America116 America118 America119 America120 America121 America117
-		America122 America133 America510 
+		America113 America115 America116 America118 America119 America121 America117 America122 America133 America510
+		America103 America112 America107 America114 America104 America120 America130 
 	}
 }
 RAmerica10 = { 
 	areas = { 
-		America124 America126 America125 America127 America128 America129 America130 America131 America132 America134
-		America135 America137 America138 America139 America140 America141 
+		America124 America132 America134 America135 America137 America139 America140 America141 America143 America145
+		America144 America147 America142 America138 America154 America153 America152 America151 America146 America148
 	}
 }
 RAmerica11 = { 
 	areas = { 
-		America142 America143 America148 America149 America150 America151 America145 America144 America146 America147
-		America152 America153 America154 America155 America156 America157 America158 America160 America161 America162
+		America155 America156 America157 America158 America161 America162 America299 America296 America298 America297
+		America318 America319 America329 
 	}
 }
 RAmerica12 = { 
 	areas = { 
-		America159 America163 America164 America165 America166 America167 America168 America169 America170 America174
-		America175 America176 America177 
+		America177 America190 America201 America199 America198 America197 America200 America295 America294 America192
+		America193 America194 America160 America196 America149 America191 America170 America150 
 	}
 }
 India1 = { 
 	areas = { 
-		ind06 ind07 ind08 ind04 ind03 ind02 ind05 
+		ind06 ind07 ind08 ind04 ind03 ind05 
 	}
 }
 India2 = { 
 	areas = { 
-		ind24 ind36 ind37 ind26 ind28 ind27 ind21 ind20 ind19 
+		ind24 ind36 ind37 ind26 ind27 ind21 ind20 ind19 ind02 ind28
+		ind22 ind16 ind01 ind17 ind25 ind23 ind18 
 	}
 }
 India3 = { 
 	areas = { 
-		ind18 ind25 ind16 ind01 ind17 ind22 ind23 
 	}
 }
 India4 = { 
@@ -212,8 +213,8 @@ Midlands10 = {
 }
 Midlands12 = { 
 	areas = { 
-		Eu035 Eu034 Eu028 Eu013 Eu004 Eu012 Eu003 Eu011 Eu027 Eu032
-		Eu017 Eu026 Eu033 
+		Eu035 Eu032 Eu017 Eu026 Eu033 103 115 117 112 111
+		101 Eu034 Eu028 
 	}
 }
 Euro1 = { 
@@ -228,14 +229,14 @@ SW1 = {
 }
 SW2 = { 
 	areas = { 
-		28 26 24 25 23 22 21 16 20 19
-		17 
+		28 26 24 23 22 21 16 20 19 17
+		25 29 31 30 27 
 	}
 }
 SW3 = { 
 	areas = { 
-		29 31 30 32 34 36 33 27 120 50
-		49 71 
+		36 33 120 50 49 71 32 34 121 122
+		123 
 	}
 }
 SW4 = { 
@@ -245,31 +246,31 @@ SW4 = {
 }
 SW5 = { 
 	areas = { 
-		62 63 64 42 47 53 59 45 60 61
-		160 46 
+		62 63 61 160 64 65 66 56 68 60
+		59 
 	}
 }
 SW6 = { 
 	areas = { 
-		65 56 66 68 67 55 52 51 54 69
-		70 
+		67 55 52 51 70 54 46 45 42 47
+		53 
 	}
 }
 SW7 = { 
 	areas = { 
-		97 57 99 126 125 121 85 127 124 122
-		72 128 123 98 140 
+		57 127 72 126 84 85 69 99 128 125
+		124 
 	}
 }
 SW9 = { 
 	areas = { 
-		81 73 76 75 79 80 83 78 77 84
+		81 73 76 75 79 80 83 78 77 
 	}
 }
 SW8 = { 
 	areas = { 
 		93 94 58 86 89 87 88 90 91 92
-		95 96 82 
+		95 96 82 98 97 
 	}
 }
 SW10 = { 
@@ -280,14 +281,14 @@ SW10 = {
 }
 SW11 = { 
 	areas = { 
-		132 131 130 129 136 134 135 118 139 143
-		119 138 144 142 141 137 145 133 
+		132 131 130 129 136 134 118 139 143 119
+		144 142 141 137 145 133 138 140 135 
 	}
 }
 SW12 = { 
 	areas = { 
-		103 104 102 106 110 113 112 111 117 115
-		101 105 108 109 114 116 167 
+		102 106 109 108 105 Eu013 Eu003 Eu004 104 Eu012
+		Eu011 Eu027 113 110 167 116 114 
 	}
 }
 Shrimp1 = { 
@@ -325,85 +326,84 @@ Shrimp6 = {
 }
 Shrimp7 = { 
 	areas = { 
-		Aus68 Aus67 Aus71 Aus72 Aus73 Aus70 Aus66 Aus65 Aus69 Aus74
-		Aus75 Aus76 
+		Aus68 Aus67 Aus71 Aus70 Aus66 Aus65 Aus69 
 	}
 }
 Shrimp9 = { 
 	areas = { 
-		Aus199 Aus201 Aus198 Aus197 Aus190 Aus193 Aus194 Aus196 Aus192 Aus195
-		Aus191 
+		Aus199 Aus201 Aus197 Aus190 Aus193 Aus194 Aus196 Aus192 Aus195 Aus191
+		Aus198 Aus207 Aus205 Aus204 Aus203 Aus202 Aus206 Aus200 
 	}
 }
 Shrimp8 = { 
 	areas = { 
-		Aus200 Aus203 Aus202 Aus207 Aus205 Aus204 Aus206 Aus208 Aus77 
+		Aus208 Aus77 Aus209 Aus217 Aus219 Aus218 Aus223 Aus221 Aus224 Aus225
+		Aus132 Aus131 Aus222 Aus130 Aus129 Aus128 
 	}
 }
 Shrimp10 = { 
 	areas = { 
-		Aus157 Aus152 Aus158 Aus153 Aus159 Aus160 Aus161 Aus154 Aus156 
+		Aus157 Aus152 Aus158 Aus153 Aus159 Aus160 Aus154 Aus156 Aus161 Aus155
+		Aus162 
 	}
 }
 Shrimp12 = { 
 	areas = { 
-		Aus82 Aus80 Aus142 Aus150 Aus81 Aus139 Aus149 Aus151 Aus83 Aus140
-		Aus143 Aus147 
+		Aus82 Aus142 Aus150 Aus81 Aus139 Aus149 Aus151 Aus143 Aus147 Aus140
+		Aus141 Aus144 Aus80 
 	}
 }
 Shrimp11 = { 
 	areas = { 
-		Aus155 Aus162 Aus164 Aus163 Aus168 Aus171 Aus169 Aus167 Aus165 Aus166
+		Aus164 Aus163 Aus171 Aus169 Aus167 Aus165 Aus166 Aus168 Aus177 Aus178
+		Aus176 Aus175 Aus170 
 	}
 }
 Shrimp13 = { 
 	areas = { 
-		Aus176 Aus170 Aus175 Aus177 Aus178 Aus179 Aus173 Aus185 Aus180 
+		Aus179 Aus173 Aus180 Aus185 Aus174 Aus172 Aus145 Aus146 Aus181 Aus182
+		Aus188 Aus186 Aus189 
 	}
 }
 Shrimp14 = { 
 	areas = { 
-		Aus84 Aus85 Aus86 Aus141 Aus138 Aus144 Aus174 Aus172 Aus145 Aus181
-		Aus146 Aus137 
+		Aus84 Aus85 Aus138 Aus137 Aus83 Aus86 Aus87 Aus89 Aus88 
 	}
 }
 Shrimp15 = { 
 	areas = { 
-		Aus87 Aus89 Aus90 Aus91 Aus92 Aus94 Aus93 Aus88 Aus95 Aus98
-		Aus97 
+		Aus91 Aus92 Aus94 Aus95 Aus97 Aus93 Aus90 Aus98 Aus101 Aus96
+		Aus99 Aus100 Aus105 Aus102 Aus106 
 	}
 }
 Shrimp16 = { 
 	areas = { 
-		Aus96 Aus100 Aus107 Aus108 Aus106 Aus101 Aus103 Aus104 Aus99 Aus105
-		Aus102 
+		Aus115 Aus116 Aus113 Aus110 Aus111 Aus104 Aus112 Aus109 Aus107 Aus108
+		Aus103 Aus114 Aus73 Aus72 Aus74 
 	}
 }
 Shrimp17 = { 
 	areas = { 
-		Aus109 Aus110 Aus112 Aus113 Aus111 Aus116 Aus115 Aus134 Aus117 Aus114
+		Aus117 Aus119 Aus75 Aus76 Aus118 Aus120 Aus122 Aus123 Aus127 Aus124
+		Aus125 Aus126 Aus121 
 	}
 }
 Shrimp18 = { 
 	areas = { 
-		Aus123 Aus124 Aus126 Aus127 Aus125 Aus122 Aus121 Aus120 Aus119 Aus118
-		Aus132 Aus135 
 	}
 }
 Shrimp19 = { 
 	areas = { 
-		Aus129 Aus130 Aus128 Aus131 Aus222 Aus220 Aus218 Aus221 Aus224 Aus225
-		Aus223 Aus136 Aus219 
 	}
 }
 Shrimp20 = { 
 	areas = { 
-		Aus183 Aus216 Aus213 Aus214 Aus212 Aus215 Aus133 
+		Aus183 Aus214 Aus215 Aus133 Aus213 Aus212 Aus187 Aus184 Aus216 Aus134
+		Aus220 Aus211 Aus210 Aus136 Aus135 
 	}
 }
 Shrimp21 = { 
 	areas = { 
-		Aus184 Aus211 Aus210 Aus217 Aus209 Aus189 Aus186 Aus188 Aus187 Aus182
 	}
 }
 Newreg01 = { 
@@ -438,7 +438,8 @@ Newreg04 = {
 Newreg05 = { 
 	areas = { 
 		New151 New152 New150 New154 New170 New166 New161 New160 New159 New158
-		New157 New155 New153 New165 New162 New156 New163 New164 New148 New149
+		New157 New155 New153 New165 New162 New156 New163 New164 New149 New148
+		New183 New182 New181 
 	}
 }
 Newreg06 = { 
@@ -450,43 +451,42 @@ Newreg06 = {
 }
 Newreg07 = { 
 	areas = { 
-		New202 New203 New015 New206 New204 New207 New205 New208 New030 New032
-		New031 New034 New036 New035 New033 New029 New028 New215 New214 New217
-		New218 New213 New212 New210 New209 New211 New216 
+		New203 New215 New214 New218 New213 New212 New210 New209 New211 New216
+		New217 New241 New232 New234 New231 New230 New229 New016 New017 New224
+		New227 New225 New219 New221 New220 New223 New222 New228 New226 New233
 	}
 }
 Newreg08 = { 
 	areas = { 
-		New188 New189 New187 New184 New183 New182 New181 New186 New259 New246
-		New258 New256 New251 New250 New248 New253 New249 New254 New257 New255
-		New185 New252 
+		New189 New187 New184 New188 New192 New193 New194 New196 New237 New236
+		New304 New190 New191 New235 
 	}
 }
 Newreg09 = { 
 	areas = { 
-		New247 New275 New276 New277 New278 New283 New288 New282 New281 New274
-		New273 New293 New292 New291 New294 New295 New298 New296 New297 New025
-		New302 New303 New300 New299 New024 New023 New026 New301 
+		New247 New275 New276 New277 New283 New288 New281 New274 New273 New292
+		New291 New293 New294 New278 New279 New280 New284 New282 New287 
 	}
 }
 Newreg10 = { 
 	areas = { 
-		New245 New244 New243 New265 New266 New240 New225 New219 New220 New227
-		New226 New242 New241 New232 New221 New222 New223 New228 New233 New234
-		New017 New231 New230 New016 New229 New224 
+		New245 New244 New242 New240 New246 New258 New186 New239 New261 New260
+		New255 New251 New256 New250 New249 New253 New259 New257 New252 New248
+		New254 New185 New243 New262 New265 
 	}
 }
 Newreg11 = { 
 	areas = { 
-		New018 New019 New021 New020 New022 New269 New290 New289 New287 New285
-		New270 New263 New261 New260 New279 New280 New271 New284 New262 New264
-		New267 New286 New268 
+		New018 New019 New021 New020 New022 New269 New290 New289 New268 New270
+		New267 New286 New302 New023 New024 New025 New026 New301 New300 New299
+		New297 New296 New303 New298 New295 New285 New266 New271 New264 New263
 	}
 }
 Newreg12 = { 
 	areas = { 
-		New239 New190 New191 New200 New198 New199 New197 New236 New237 New196
-		New193 New194 New201 New195 New192 New235 New304 
+		New200 New198 New199 New197 New195 New201 New202 New030 New032 New031
+		New036 New035 New034 New033 New029 New028 New204 New205 New207 New208
+		New015 New206 
 	}
 }
 RAmerica13 = { 
@@ -497,64 +497,62 @@ RAmerica13 = {
 }
 RAmerica14 = { 
 	areas = { 
-		America296 America297 America300 America305 America306 America320 America329 America331 America364 America332
-		America379 America370 America365 America330 America299 America298 America319 America318 America366 America335
-		America337 America336 America334 America326 America325 America323 America304 America195 America193 America327
-		America321 America302 America301 America194 America324 America328 America338 America381 America380 America382
+		America300 America305 America306 America320 America336 America334 America326 America325 America323 America304
+		America195 America327 America321 America302 America301 America324 America328 America338 America303 America317
+		America315 America307 America293 America308 America311 America310 America312 America313 America314 America342
+		America339 America340 America341 America309 
 	}
 }
 RAmerica15 = { 
 	areas = { 
-		America309 America236 America226 America206 America211 America208 America203 America199 America198 America293
-		America307 America315 America317 America303 America196 America197 America192 America191 America201 America294
-		America295 America200 America190 America210 America212 America209 America207 America204 America205 America235
-		America308 America202 
+		America226 America211 America208 America203 America210 America212 America209 America207 America204 America205
+		America235 America202 America206 America220 America221 America213 America214 America215 America219 America218
+		America216 America217 America222 America225 
 	}
 }
 RAmerica16 = { 
 	areas = { 
-		America314 America313 America311 America310 America222 America221 America220 America214 America215 America216
-		America218 America230 America255 America252 America232 America251 America243 America246 America229 America244
-		America239 America228 America241 America254 America247 America249 America231 America223 America219 America217
-		America213 America237 America225 America240 America242 America224 America227 America238 America312 America250
-		America245 America234 America265 
+		America230 America243 America246 America229 America244 America239 America228 America241 America247 America249
+		America223 America237 America240 America242 America224 America227 America238 America234 America265 America245
+		America236 
 	}
 }
 RAmerica17 = { 
 	areas = { 
 		America347 America345 America349 America360 America357 America356 America355 America354 America352 America353
-		America350 America351 America348 America344 America343 America342 America340 America341 America363 America362
-		America359 America361 America358 America339 America383 America384 
+		America350 America351 America348 America344 America343 America363 America359 America361 America358 America362
+		America278 America275 America504 America270 America271 America276 America272 
 	}
 }
 RAmerica18 = { 
 	areas = { 
-		America253 America257 America280 America287 America290 America292 America276 America278 America275 America271
-		America270 America272 America274 America269 America268 America264 America273 America279 America286 America289
-		America291 America288 America285 America284 America282 America283 America259 America258 America233 America261
-		America260 America281 America262 America266 America263 America267 America504 
+		America253 America257 America280 America287 America290 America292 America274 America269 America268 America264
+		America273 America279 America286 America289 America291 America288 America285 America284 America282 America283
+		America259 America258 America233 America261 America260 America281 America262 America266 America263 America267
+		America255 America250 America254 America251 America231 America252 America232 
 	}
 }
 NWEastCoast1 = { 
 	areas = { 
-		America346 America399 America407 America406 America400 America402 America395 America398 America411 America410
-		America424 America428 America416 America415 America414 America404 America401 America408 America409 America405
-		America403 America425 
+		America346 America399 America406 America400 America402 America416 America415 America414 America404 America401
+		America405 America403 America445 America442 America443 America439 America438 America435 America436 America440
+		America444 America446 America447 America451 America452 America454 America453 America463 America462 
 	}
 }
 NWEastCoast2 = { 
 	areas = { 
-		America435 America438 America436 America439 America440 America442 America445 America448 America449 America450
-		America455 America457 America462 America461 America463 America454 America453 America452 America451 America447
-		America443 America446 America444 
+		America448 America450 America455 America425 America410 America408 America398 America457 America456 America458
+		America461 America459 America460 America433 America430 America431 America427 America417 America426 America422
+		America429 America423 America395 America411 America412 America421 America420 America419 America432 America434
+		America424 America449 America428 America409 America407 
 	}
 }
 NWEastCoast3 = { 
 	areas = { 
-		America387 America389 America388 America385 America394 America397 America396 America412 America423 America456
-		America458 America459 America460 America434 America433 America432 America431 America417 America392 America377
-		America376 America373 America375 America427 America420 America429 America426 America419 America421 America430
-		America418 America390 America386 America391 America378 America372 America371 America374 America422 America393
+		America387 America389 America388 America385 America394 America397 America396 America377 America376 America373
+		America418 America390 America386 America391 America378 America372 America371 America374 America393 America382
+		America380 America381 America379 America370 America365 America366 America330 America384 America383 America364
+		America331 America332 America335 America337 America392 America375 
 	}
 }
 NWEastCoast4 = { 

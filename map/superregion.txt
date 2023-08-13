@@ -16,7 +16,7 @@ Notindia2 = {
 	India4 India6 India7 India9 
 }
 NotCentralAsia1 = { 
-	Midlands12 Midlands10 Midlands9 
+	Midlands10 Midlands9 Midlands12 SW12 
 }
 NotCentralAsia2 = { 
 	Midlands3 Midlands1 Midlands4 Midlands2 
@@ -28,7 +28,7 @@ Noteurope2 = {
 	SW6 SW9 SW5 SW7 
 }
 Noteurope3 = { 
-	SW12 SW11 SW8 SW10 
+	SW11 SW8 SW10 
 }
 Notstralia1 = { 
 	Shrimp1 Shrimp2 Shrimp5 Shrimp6 Shrimp4 
@@ -52,10 +52,10 @@ NotNewWorld1 = {
 	Newreg05 Newreg02 Newreg03 Newreg01 
 }
 NotNewWorld2 = { 
-	Newreg04 Newreg06 Newreg12 Newreg07 Newreg08 
+	Newreg04 Newreg06 Newreg12 Newreg08 
 }
 NotNewWorld3 = { 
-	Newreg10 Newreg11 Newreg09 
+	Newreg11 Newreg09 Newreg10 Newreg07 
 }
 NotNorthAmerica2 = { 
 	RAmerica3 RAmerica1 RAmerica2 RAmerica4 RAmerica12 RAmerica13 
