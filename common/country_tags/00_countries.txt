@@ -1,3 +1,7 @@
+# Mod Tags
+A01 = "countries/Aaa.txt"
+
+
 # Special countries..
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"

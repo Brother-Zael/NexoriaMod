@@ -1,7 +1,7 @@
 #
-add_core = SWE
-owner = SWE
-controller = SWE
+add_core = DAN
+owner = DAN
+controller = DAN
 culture = swedish
 religion = catholic
 base_tax = 5
