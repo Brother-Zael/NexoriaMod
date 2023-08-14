@@ -1,6 +1,4 @@
 #
-owner = AAE
-controller = AAE
 culture = swiss
 religion = catholic
 base_tax = 5
@@ -10,4 +8,3 @@ base_manpower = 3
 capital = "RdXGhqcOHbCz"
 is_city = yes
 discovered_by = western
-add_core = AAE

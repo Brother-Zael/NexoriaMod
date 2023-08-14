@@ -1,6 +1,4 @@
 #
-owner = AAC
-controller = AAC
 culture = tamil
 religion = catholic
 base_tax = 5
@@ -10,4 +8,3 @@ base_manpower = 3
 capital = "tEEPlIYWmDyW"
 is_city = yes
 discovered_by = western
-add_core = AAC

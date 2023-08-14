@@ -1,6 +1,4 @@
 #
-owner = AAG
-controller = AAG
 culture = icelandic
 religion = catholic
 base_tax = 5
@@ -10,4 +8,3 @@ base_manpower = 3
 capital = "LswtKjLRIuTZ"
 is_city = yes
 discovered_by = western
-add_core = AAG
