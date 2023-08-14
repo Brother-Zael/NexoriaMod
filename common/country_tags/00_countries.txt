@@ -1,6 +1,13 @@
 # Mod Tags
-
-
 #Scandinavia
-SWE	= "countries/Sweden.txt"
-DAN	= "countries/Denmark.txt"
+SWE = "countries/Sweden.txt"
+DAN = "countries/Denmark.txt"
+AAA = "countries/TotesnotChina.txt"
+AAB = "countries/TotesNotIndia.txt"
+AAC = "countries/TotesnotHindu.txt"
+AAD = "countries/TotesNotSteppes.txt"
+AAE = "countries/TotesNotHRE.txt"
+AAF = "countries/TotesNotTurk.txt"
+AAG = "countries/TotesNotScand.txt"
+AAH = "countries/TotesNotFrance.txt"
+AAI = "countries/TotesNotIberia.txt"

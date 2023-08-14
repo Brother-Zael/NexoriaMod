@@ -1,0 +1,19 @@
+graphical_culture = westerngfx
+color = { 
+	255 128 128 
+}
+monarch_names = { 
+	"Name #0" = 100
+}
+leader_names = { 
+	Name 
+}
+ship_names = { 
+	Ship 
+}
+fleet_names = { 
+	Fleet 
+}
+army_names = { 
+	Army 
+}
