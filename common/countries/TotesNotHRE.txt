@@ -1,4 +1,0 @@
-graphical_culture = westerngfx
-color = { 
-	0 128 255 
-}
