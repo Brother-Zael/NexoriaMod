@@ -1,0 +1,15 @@
+autosaving = False
+autosaving_interval = 5
+autosaving_on_exit = False
+save_on_crash = False
+custom_province_random = False
+province_low = { 
+	1 1 1 
+}
+province_medium = { 
+	1 1 1 
+}
+province_high = { 
+	1 1 1 
+}
+same_value_provinces = False

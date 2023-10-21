@@ -1,0 +1,8 @@
+gamepath = "C:\Program Files (x86)\Steam\steamapps\common\Europa Universalis IV"
+modpath = "C:\Users\msc09\Documents\Paradox Interactive\Europa Universalis IV\mod\NexoriaMod-main\NexoriaMod"
+last_used_date = 1444.11.11
+lastOptions = { 
+	1 1 1 1 1 1 1 0 1 1
+	1 1 1 1 0 1 1 1 1 1
+	1 1 
+}
